@@ -1,0 +1,204 @@
+,Consumo de combustible (combinado),Puertas,Kilometraje,Transmisión,Combustible,Cilindros,Pasajeros,Litros (motor),Ciudad,Precio,Vehículo,Anho,Color Exterior,Región
+0,25 km/l,5,64.000 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.290.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Premier,2014,Blanco,Metropolitana de Santiago
+1,25 km/l,5,80.000 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.590.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure,2016,GRIS,Metropolitana de Santiago
+2,25 km/l,5,69.000 kms,manual,Diesel (petróleo),4,5,1.6,Coronel,$ 9.500.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Allure,2015,Plomo,Bío Bío
+3,25 km/l,5,,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.990.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Active,2015,Blanco,Metropolitana de Santiago
+4,"25,1 km/l",5,,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 11.690.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Allure,2017,Rojo,Metropolitana de Santiago
+5, km/l,5,1 kms,manual,Diesel (petróleo),,,,Santiago,$ 9.590.000,2016 Peugeot 2008 ALLYRE HDI 1.6CC MT FULL,2016,GRIS,Metropolitana de Santiago
+6, km/l,5,64.000 kms,automático,Diesel (petróleo),,,,Santiago,$ 10.200.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,Blanco,Metropolitana de Santiago
+7,25 km/l,5,50.000 kms,manual,Diesel (petróleo),4,5,1.6,Concepcion,$ 10.800.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,Chocolate,Bío Bío
+8,"26,3 km/l",5,112.592 kms,manual,Diesel (petróleo),4,5,1.6,Chillán,$ 9.350.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure CMP,2014,GRIS PLATEADO,Bío Bío
+9,"25,1 km/l",5,10.500 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 12.400.000,2018 Peugeot 2008 1.6 BlueHDI 100 HP Manual Allure,2018,Gris,Metropolitana de Santiago
+10, km/l,5,40.000 kms,automático,Bencina,,,,Santiago,$ 8.000.000,2012 Peugeot 2008 full,2012,negro ,Metropolitana de Santiago
+11, km/l,5,36.471 kms,manual,Diesel (petróleo),,,,Santiago,$ 11.690.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Allu,2017,ROJO BURDEO ,Metropolitana de Santiago
+12, km/l,5,31.600 kms,manual,Diesel (petróleo),,,,Viña del Mar,$ 11.990.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Allu,2017,ROJO,Valparaíso
+13,25 km/l,5,63.000 kms,manual,Diesel (petróleo),4,5,1.6,Talca,$ 10.590.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Active,2016,,Maule
+14, km/l,5,,automático,Bencina,,,,Puerto Montt,$ 12.490.000,2017 Peugeot 2008 1.2 Puretech 110 HP Auto Allur,2017,blanco,Los Lagos
+15, km/l,5,53.000 kms,manual,Diesel (petróleo),,,,Frutillar,$ 10.000.000,2017 Peugeot 2008 1.6,2017,BLANCO,Los Lagos
+16, km/l,5,55.000 kms,manual,Diesel (petróleo),,,,Concepcion,$ 10.800.000,2015 Peugeot 2008 1.6 e-HDI 115 HP Feline,2015,BLANCO,Bío Bío
+17,25 km/l,5,51.000 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.000.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,blanco,Metropolitana de Santiago
+18,"25,1 km/l",5,9.000 kms,manual,Diesel (petróleo),4,5,1.6,Rancagua,$ 11.490.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Allure,2017,,OHiggins
+19,25 km/l,5,93.000 kms,manual,Diesel (petróleo),4,5,1.4,Viña del Mar,$ 9.390.000,2015 Peugeot 2008 1.4 HDI 68 HP Active,2015,GRIS PLATA,Valparaíso
+20,25 km/l,5,,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 8.985.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Active,2016,BLANCO,Metropolitana de Santiago
+21,25 km/l,5,,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 8.980.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,,Metropolitana de Santiago
+22, km/l,4,20.000 kms,automático,Bencina,,,,Villa Alemana,$ 10.890.000,2016 Peugeot 2008 FINANCIAMIENTO HASTA 60 CUOTAS,2016,PLATA,Valparaíso
+23, km/l,5,16.000 kms,manual,Diesel (petróleo),,,,Villa Alemana,$ 12.890.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Allu,2017,ROJO,Valparaíso
+24, km/l,4,,manual,Diesel (petróleo),,,,Villa Alemana,$ 10.990.000,2016 Peugeot 2008 FINANCIAMIENTO HASTA 60 CUOTAS,2016,BLANCO,Valparaíso
+25, km/l,4,45.000 kms,manual,Diesel (petróleo),,,,Santiago,$ 9.990.000,2016 Peugeot 2008 ACTIVE E HDI 1.6,2016,GRIS,Metropolitana de Santiago
+26, km/l,5,60.000 kms,manual,Diesel (petróleo),,,,Santiago,$ 10.490.000,2015 Peugeot 2008 ,2015,GRIS ARTENSE,Metropolitana de Santiago
+27,25 km/l,5,49.000 kms,manual,Diesel (petróleo),4,5,1.6,Concepcion,$ 10.490.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure,2016,BLANCO NACARADO,Bío Bío
+28,25 km/l,5,58.000 kms,manual,Diesel (petróleo),4,5,1.6,Colina,$ 9.250.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Active,2015,GRIS OSCURO,Metropolitana de Santiago
+29,25 km/l,5,,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 11.300.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Allure,2015,CAFE,Metropolitana de Santiago
+30,"20,4 km/l",5,60.000 kms,manual,Bencina,3,5,1.2,Santiago,$ 8.300.000,2015 Peugeot 2008 1.2 VTi 82 HP Active,2015,Gris platinum,Metropolitana de Santiago
+31, km/l,5,93.000 kms,manual,Diesel (petróleo),,,,Temuco,$ 9.500.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Premier,2014,plata,Araucanía
+32,25 km/l,5,95.000 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.600.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Premier,2014,GRIS ARTENSE,Metropolitana de Santiago
+33,25 km/l,5,90.000 kms,manual,Diesel (petróleo),4,5,1.6,Talca,$ 10.240.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Premier,2014,negro,Maule
+34,"25,1 km/l",5,34.000 kms,manual,Diesel (petróleo),4,5,1.6,Valparaiso,$ 11.250.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Active Pack,2017,blanco,Valparaíso
+35,"25,1 km/l",5,69.000 kms,manual,Diesel (petróleo),4,5,1.6,Concón,$ 11.200.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Allure,2017,Blanco Nacarado,Valparaíso
+36,25 km/l,5,,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 8.990.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Active,2016,blanco,Metropolitana de Santiago
+37,25 km/l,5,55.000 kms,manual,Diesel (petróleo),4,5,1.6,Concepcion,$ 9.999.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure,2016,blanco,Bío Bío
+38,25 km/l,5,80.000 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.590.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Active,2016,GRIS,Metropolitana de Santiago
+39, km/l,5,90.000 kms,manual,Diesel (petróleo),,,,Valdivia,$ 9.500.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure,2016,,Los Ríos
+40,25 km/l,5,22.450 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 11.990.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure,2016,Gris Plantinum,Metropolitana de Santiago
+41, km/l,5,47.000 kms,manual,Diesel (petróleo),,,,Talcahuano,$ 8.990.000,2014 Peugeot 2008 1.4 HDI 68 HP Active,2014,Gris Artense,Bío Bío
+42, km/l,5,59.000 kms,automático,Diesel (petróleo),,,,Colina,$ 9.950.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Allure,2015,Blanco,Metropolitana de Santiago
+43,25 km/l,5,81.000 kms,manual,Diesel (petróleo),4,5,1.6,Concepcion,$ 10.680.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure,2016,PLATA,Bío Bío
+44,25 km/l,5,51.042 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.780.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Active,2016,GRIS ARTENSE,Metropolitana de Santiago
+45, km/l,5,27.628 kms,automático,Bencina,,,,Santiago,$ 11.590.000,2016 Peugeot 2008 1.2 Puretech 110 Auto HP Allur,2016,GRIS,Metropolitana de Santiago
+46,25 km/l,5,1 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 11.990.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure,2016,Plateado,Metropolitana de Santiago
+47,25 km/l,5,38.000 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 10.500.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Allure,2015,GRIS SPIRIT,Metropolitana de Santiago
+48, km/l,5,5.096 kms,manual,Bencina,,,,Valdivia,$ 11.090.000,2017 Peugeot 2008 ,2017,GRIS PLATINUM,Los Ríos
+49, km/l,5,19.323 kms,manual,Diesel (petróleo),,,,Santiago,$ 11.480.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Allu,2017,NEGRO,Metropolitana de Santiago
+50,25 km/l,5,26.000 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 10.100.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Active,2015,blanco,Metropolitana de Santiago
+51, km/l,5,90.000 kms,automático,Diesel (petróleo),,,,Santiago,$ 9.990.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Allure,2015,Plata,Metropolitana de Santiago
+52, km/l,5,7.914 kms,automático,Bencina,,,,Santiago,$ 13.990.000,2018 Peugeot 2008 1.2 Puretech 110 HP ,2018,BLANCO,Metropolitana de Santiago
+53, km/l,5,16.230 kms,automático,Bencina,,,,Santiago,$ 11.190.000,2016 Peugeot 2008 1.2 Puretech 110 Auto HP Allur,2016,Plateado,Metropolitana de Santiago
+54,25 km/l,5,65.500 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.290.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Premier,2014,Makaha,Metropolitana de Santiago
+55,25 km/l,5,14.000 kms,manual,Diesel (petróleo),4,5,1.6,Antofagasta,$ 11.500.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Active,2016,gris artense,Antofagasta
+56, km/l,5,5.500 kms,automático,Bencina,,,,Santiago,$ 12.390.000,2017 Peugeot 2008 1.2 Puretech 110 HP Auto Allure Pack,2017,Blanco,Metropolitana de Santiago
+57, km/l,5,45.000 kms,automático,Diesel (petróleo),,,,Santiago,$ 10.690.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Allure CMP,2015,gris,Metropolitana de Santiago
+58, km/l,5,83.033 kms,manual,Diesel (petróleo),,,,Santiago,$ 9.590.000,2015 Peugeot 2008 ALLURE 1.6 e HDI 92 HP,2015,GRIS,Metropolitana de Santiago
+59, km/l,5,51.100 kms,manual,Diesel (petróleo),,,,Santiago,$ 10.300.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Allure,2015,GRIS ARTENSE,Metropolitana de Santiago
+60, km/l,5,113.000 kms,manual,Diesel (petróleo),,,,Santiago,$ 8.990.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,BLANCO,Metropolitana de Santiago
+61, km/l,5,52.000 kms,manual,Diesel (petróleo),,,,Chiloé - Ancud,$ 10.990.000,2015 Peugeot 2008 1.6 e-HDI 115 HP Feline,2015,blanco perlado,Los Lagos
+62,25 km/l,5,27.000 kms,manual,Diesel (petróleo),4,5,1.6,Valparaiso,$ 10.900.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure,2016,Blanco,Valparaíso
+63, km/l,5,75.000 kms,manual,Diesel (petróleo),,,,Concepcion,$ 9.790.000,2015 Peugeot 2008 ALLURE E HDI 1.6,2015,BLANCO NACARADO,Bío Bío
+64,25 km/l,5,59.000 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 11.300.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure,2016,gris,Metropolitana de Santiago
+65, km/l,5,44.800 kms,manual,Diesel (petróleo),,,,Santiago,$ 9.190.000,2016 Peugeot 2008 ACTIVE HDI 1.6,2016,GRIS ARTENSE,Metropolitana de Santiago
+66,25 km/l,5,68.000 kms,manual,Diesel (petróleo),4,5,1.6,Chiguayante,$ 10.500.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,gris,Bío Bío
+67, km/l,5,27.000 kms,automático,Bencina,,,,San Bernardo,$ 11.990.000,2017 Peugeot 2008 1.2 Puretech 110 HP Auto Allure Pack,2017,Rojo,Metropolitana de Santiago
+68,"25,1 km/l",5,17.200 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 12.000.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Active Pack,2017,Blanco Perla,Metropolitana de Santiago
+69, km/l,5,8.450 kms,automático,Bencina,,,,Chillán,$ 11.990.000,2018 Peugeot 2008 1.2 Puretech 110 HP Auto Allur,2018,BLANCO,Bío Bío
+70, km/l,5,45.000 kms,manual,Diesel (petróleo),,,,Talca,$ 12.000.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Allu,2017,BLANCO,Maule
+71,25 km/l,5,125.000 kms,manual,Diesel (petróleo),4,5,1.6,Los Angeles,$ 10.000.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Allure,2015,,Bío Bío
+72,25 km/l,5,46.000 kms,manual,Diesel (petróleo),4,5,1.6,Ovalle,$ 10.000.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Allure,2015,blanco,Coquimbo
+73,25 km/l,5,19.000 kms,manual,Diesel (petróleo),4,5,1.6,Los Angeles,$ 10.800.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure,2016,,Bío Bío
+74,25 km/l,5,71.000 kms,manual,Diesel (petróleo),4,5,1.4,Santiago,$ 8.900.000,2014 Peugeot 2008 1.4 HDI 68 HP Active,2014,gris,Metropolitana de Santiago
+75, km/l,5,6.727 kms,manual,Bencina,,,,Chillán,$ 11.090.000,2017 Peugeot 2008 ,2017,BLANCO NACARADO,Bío Bío
+76, km/l,5,94.000 kms,automático,Diesel (petróleo),,,,Temuco,$ 10.990.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Allure,2015,,Araucanía
+77, km/l,5,11.700 kms,manual,Bencina,,,,Concepcion,$ 10.290.000,2016 Peugeot 2008 ,2016,GRIS ARTENSE,Bío Bío
+78, km/l,5,33.800 kms,manual,Diesel (petróleo),,,,Osorno,$ 12.590.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Allu,2017,BLANCO,Los Lagos
+79, km/l,5,19.000 kms,manual,Diesel (petróleo),,,,Temuco,$ 12.500.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Allure,2017,Gris,Araucanía
+80, km/l,5,48.849 kms,automático,Bencina,,,,Santiago,$ 10.890.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure,2016,GRIS,Metropolitana de Santiago
+81, km/l,5,15.000 kms,manual,Diesel (petróleo),,,,Santiago,$ 11.500.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Active,2016,,Metropolitana de Santiago
+82, km/l,5,65.000 kms,manual,Diesel (petróleo),,,,Valparaiso,$ 10.200.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,Blanco Perla,Valparaíso
+83, km/l,5,4.800 kms,manual,Diesel (petróleo),,,,Quilpue,$ 11.990.000,2018 Peugeot 2008 1.6 BlueHDI 100 HP Manual Acti,2018,GRIS GRAFITO,Valparaíso
+84, km/l,5,56.000 kms,manual,Diesel (petróleo),,,,Santiago,$ 9.500.000,2014 Peugeot 2008 1.4 HDI 68 HP Active,2014,Blanco,Metropolitana de Santiago
+85, km/l,5,22.000 kms,manual,Diesel (petróleo),,,,Santiago,$ 10.000.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,NEGRO,Metropolitana de Santiago
+86,25 km/l,5,79.000 kms,manual,Diesel (petróleo),4,5,1.6,Temuco,$ 10.990.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure,2016,GRAFITO,Araucanía
+87,25 km/l,5,37.512 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.490.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Active,2015,GRIS PLATINUM,Metropolitana de Santiago
+88,25 km/l,5,88.000 kms,manual,Diesel (petróleo),4,5,1.6,Puerto Montt,$ 10.290.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Active,2016,GRIS,Los Lagos
+89,25 km/l,5,48.000 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.800.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure,2016,Rojo tourmaline,Metropolitana de Santiago
+90,"26,3 km/l",5,26.000 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 12.500.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Allure CMP,2015,BLANCO NACARADO,Metropolitana de Santiago
+91, km/l,5,,automático,Bencina,,,,Santiago,$ 10.500.000,2017 Peugeot 2008 1.2 Puretech 110 HP Auto Allur,2017,PLATA,Metropolitana de Santiago
+92,25 km/l,5,75.000 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.900.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,Gris artense,Metropolitana de Santiago
+93,25 km/l,5,61.079 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 8.990.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,BLANCO,Metropolitana de Santiago
+94, km/l,5,32.431 kms,automático,Bencina,,,,Chicureo,$ 10.290.000,2016 Peugeot 2008 1.2 Puretech 110 Auto HP Allure,2016,Gris Artense,Metropolitana de Santiago
+95, km/l,5,7.300 kms,manual,Diesel (petróleo),,,,Santiago,$ 11.490.000,2018 Peugeot 2008 1.6 BlueHDI 100 HP Manual Active Pack,2018,blanco,Metropolitana de Santiago
+96, km/l,5,17.300 kms,manual,Diesel (petróleo),,,,Santiago,$ 10.990.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Acti,2017,Blanco Nacarado,Metropolitana de Santiago
+97, km/l,5,20.000 kms,manual,Diesel (petróleo),,,,Buin,$ 11.500.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Allure,2017,,Metropolitana de Santiago
+98,"26,3 km/l",5,46.000 kms,manual,Diesel (petróleo),4,5,1.6,Valdivia,$ 10.300.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure CMP,2014,,Los Ríos
+99, km/l,5,5.700 kms,manual,Diesel (petróleo),,,,Puerto Montt,$ 12.700.000,2018 Peugeot 2008 1.6 BlueHDI 100 HP Manual Allure,2018,BLANCO NACARADO,Los Lagos
+100, km/l,5,28.000 kms,manual,Bencina,,,,Santiago,$ 12.690.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP M,2017,Gris Grafito,Metropolitana de Santiago
+101, km/l,5,30.632 kms,automático,Bencina,,,,Santiago,$ 10.390.000,2016 Peugeot 2008 1.2 Puretech 110 Auto HP Allur,2016,GRIS PLATINUM,Metropolitana de Santiago
+102, km/l,5,10.800 kms,manual,Diesel (petróleo),,,,Santiago,$ 12.100.000,2018 Peugeot 2008 ALLURE ,2018,BLANCO,Metropolitana de Santiago
+103, km/l,5,59.000 kms,automático,Diesel (petróleo),,,,Santiago,$ 11.000.000,2015 Peugeot 2008 allure,2015,Blanco,Metropolitana de Santiago
+104, km/l,5,1 kms,automático,Bencina,,,,Santiago,$ 12.290.000,2017 Peugeot 2008 1.2 Puretech 110 HP Auto Allur,2017,ROJO,Metropolitana de Santiago
+105, km/l,5,16.000 kms,automático,Bencina,,,,Santiago,$ 12.450.000,2017 Peugeot 2008 1.2 Puretech 110 HP Auto Allur,2017,Negro,Metropolitana de Santiago
+106,25 km/l,5,76.000 kms,manual,Diesel (petróleo),4,5,1.6,Colina,$ 9.490.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,BLANCO,Metropolitana de Santiago
+107, km/l,5,17.000 kms,automático,Bencina,,,,Santiago,$ 11.980.000,2017 Peugeot 2008 1.2 Puretech 110 HP Auto Allur,2017,GRIS ARTENSE,Metropolitana de Santiago
+108, km/l,5,29.000 kms,manual,Diesel (petróleo),,,,Santiago,$ 10.890.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Active Pack,2017,Blanco Nacarado,Metropolitana de Santiago
+109, km/l,5,24.000 kms,manual,Bencina,,,,Santiago,$ 8.500.000,2015 Peugeot 2008 VTi 82 HP Active,2015,Negro ,Metropolitana de Santiago
+110,"25,1 km/l",5,8.500 kms,manual,Diesel (petróleo),4,5,1.6,San Bernardo,$ 12.500.000,2018 Peugeot 2008 1.6 BlueHDI 100 HP Manual Allure,2018,Gris hurricane,Metropolitana de Santiago
+111,25 km/l,5,50.000 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.390.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Allure,2015,Blanco,Metropolitana de Santiago
+112,25 km/l,5,38.000 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 11.390.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Active,2015,BLANCO,Metropolitana de Santiago
+113,25 km/l,5,52.000 kms,manual,Diesel (petróleo),4,5,1.6,Concepcion,$ 9.790.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Allure,2015,GRIS,Bío Bío
+114,25 km/l,5,34.650 kms,manual,Diesel (petróleo),4,5,1.4,Santiago,$ 10.990.000,2014 Peugeot 2008 1.4 HDI 68 HP Active,2014,BLANCO,Metropolitana de Santiago
+115,25 km/l,5,72.000 kms,manual,Diesel (petróleo),4,5,1.6,Valdivia,$ 10.200.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Premier,2014,,Los Ríos
+116,25 km/l,5,115.000 kms,manual,Diesel (petróleo),4,5,1.6,El Tabo,$ 9.500.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Premier,2014,GRIS ARTENSE,Valparaíso
+117,"25,1 km/l",5,22.000 kms,manual,Diesel (petróleo),4,5,1.6,Puerto Varas,$ 11.850.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Allure,2017,,Los Lagos
+118, km/l,5,10.000 kms,manual,Diesel (petróleo),,,,Santiago,$ 12.000.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Active Pack,2017,BLANCO NACARADO,Metropolitana de Santiago
+119,25 km/l,5,55.000 kms,manual,Diesel (petróleo),4,5,1.4,Viña del Mar,$ 8.990.000,2015 Peugeot 2008 1.4 HDI 68 HP Active,2015,,Valparaíso
+120,25 km/l,5,67.000 kms,manual,Diesel (petróleo),4,5,1.4,Viña del Mar,$ 8.790.000,2014 Peugeot 2008 1.4 HDI 68 HP Active,2014,,Valparaíso
+121, km/l,5,29.600 kms,manual,Diesel (petróleo),,,,Santiago,$ 10.990.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Active,2016,Gris Grafito,Metropolitana de Santiago
+122, km/l,5,3.500 kms,automático,Bencina,,,,Quilpue,$ 11.500.000,2016 Peugeot 2008 1.2 Puretech 110 Auto HP Allure,2016,GRIS ARTENSE,Valparaíso
+123,25 km/l,5,84.000 kms,manual,Diesel (petróleo),4,5,1.6,Temuco,$ 10.800.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Premier,2014,,Araucanía
+124,25 km/l,5,48.000 kms,manual,Diesel (petróleo),4,5,1.4,Santiago,$ 9.300.000,2015 Peugeot 2008 1.4 HDI 68 HP Active,2015,Blanco,Metropolitana de Santiago
+125,25 km/l,5,83.320 kms,manual,Diesel (petróleo),4,5,1.4,Puerto Montt,$ 9.390.000,2015 Peugeot 2008 1.4 HDI 68 HP Active,2015,Negro,Los Lagos
+126, km/l,5,26.000 kms,manual,Diesel (petróleo),,,,Santiago,$ 12.500.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Allure CMP,2015,BLANCO NACARADO,Metropolitana de Santiago
+127, km/l,5,93.525 kms,manual,Diesel (petróleo),,,,Santiago,$ 11.500.000,2015 Peugeot 2008 1.6 e-HDI 115 HP Feline,2015,Blanco,Metropolitana de Santiago
+128, km/l,5,46.600 kms,automático,Diesel (petróleo),,,,Santiago,$ 10.590.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Allure,2015,GRIS ARTENSE,Metropolitana de Santiago
+129, km/l,5,26.000 kms,manual,Diesel (petróleo),,,,Talagante,$ 12.500.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Allure,2017,Blanco,Metropolitana de Santiago
+130, km/l,5,89.000 kms,automático,Diesel (petróleo),,,,Santiago,$ 10.590.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,NEGRO,Metropolitana de Santiago
+131,25 km/l,5,16.396 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.990.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Active,2016,GRIS PLATINUM,Metropolitana de Santiago
+132, km/l,5,34.146 kms,automático,Bencina,,,,Santiago,$ 10.290.000,2016 Peugeot 2008 1.2 Puretech 110 Auto HP Allur,2016,BLANCO NACARADO,Metropolitana de Santiago
+133, km/l,5,28.837 kms,manual,Diesel (petróleo),,,,Santiago,$ 11.990.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Allu,2017,GRIS PLATINUM,Metropolitana de Santiago
+134,25 km/l,5,87.806 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.990.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Active,2016,BLANCO,Metropolitana de Santiago
+135,25 km/l,5,50.507 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.980.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Allure,2015,GRIS SPIRIT,Metropolitana de Santiago
+136,"26,3 km/l",5,,manual,Diesel (petróleo),4,5,1.6,Quilpue,$ 10.990.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure CMP,2016,GRISN PLATINIUM,Valparaíso
+137,25 km/l,5,35.000 kms,manual,Diesel (petróleo),4,5,1.4,Santiago,$ 9.490.000,2015 Peugeot 2008 1.4 HDI 68 HP Active,2015,Gris,Metropolitana de Santiago
+138,25 km/l,5,84.000 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.980.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,BLANCO NACARADO,Metropolitana de Santiago
+139, km/l,5,30.000 kms,automático,Bencina,,,,Santiago,$ 11.690.000,2017 Peugeot 2008 1.2 Puretech 110 HP ,2017,GRIS PLATA,Metropolitana de Santiago
+140,25 km/l,5,125.400 kms,manual,Diesel (petróleo),4,5,1.6,Temuco,$ 9.990.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,Grafito,Araucanía
+141,"26,3 km/l",5,80.500 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.590.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure CMP,2016,gris grafito,Metropolitana de Santiago
+142, km/l,4,123.000 kms,manual,Bencina,,,,Santiago,$ 8.990.000,2014 Peugeot 2008 1.6 HDI MT DIESEL ,2014,BLANCO,Metropolitana de Santiago
+143,25 km/l,5,74.060 kms,manual,Diesel (petróleo),4,5,1.6,Temuco,$ 9.300.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Active,2015,,Araucanía
+144, km/l,5,81.000 kms,automático,Diesel (petróleo),,,,Santiago,$ 9.590.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure,2016,GRIS,Metropolitana de Santiago
+145,25 km/l,5,47.000 kms,manual,Diesel (petróleo),4,5,1.6,Talca,$ 10.580.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure,2016,BLANCO,Maule
+146, km/l,5,22.195 kms,manual,Diesel (petróleo),,,,Valdivia,$ 13.800.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Allu,2017,,Los Ríos
+147,25 km/l,5,84.000 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 10.380.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,BLANCO,Metropolitana de Santiago
+148,25 km/l,5,85.000 kms,manual,Diesel (petróleo),4,5,1.6,Coquimbo,$ 9.600.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,gris,Coquimbo
+149,25 km/l,5,21.500 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 10.890.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure,2016,BLANCO NACARADO,Metropolitana de Santiago
+150, km/l,5,84.000 kms,automático,Diesel (petróleo),,,,Santiago,$ 9.690.000,2016 Peugeot 2008 ACTIVE E HDI 1.6,2016,GRIS,Metropolitana de Santiago
+151, km/l,5,5.000 kms,manual,Diesel (petróleo),,,,Quilpue,$ 12.490.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Acti,2017,GRIS OSCURO,Valparaíso
+152,25 km/l,5,67.000 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.490.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Active,2015,BLANCO,Metropolitana de Santiago
+153,25 km/l,5,29.000 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 10.480.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Allure,2015,BLANCO,Metropolitana de Santiago
+154, km/l,5,9.500 kms,manual,Diesel (petróleo),,,,Puerto Montt,$ 12.290.000,2018 Peugeot 2008 1.6 BlueHDI 100 HP Manual Acti,2018,BLANCO,Los Lagos
+155, km/l,5,68.800 kms,automático,Diesel (petróleo),,,,Puerto Montt,$ 11.990.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure,2016,BLANCO,Los Lagos
+156,25 km/l,5,106.000 kms,manual,Diesel (petróleo),4,5,1.6,Valdivia,$ 11.350.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,Blanco,Los Ríos
+157,18 km/l,5,10.371 kms,automático,Bencina,3,5,1.2,Santiago,$ 12.290.000,2017 Peugeot 2008 1.2 Puretech 110 HP Auto Allure Pack,2017,BLANCO,Metropolitana de Santiago
+158,25 km/l,5,105.535 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 8.990.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Allure,2015,GRIS PLATINUM,Metropolitana de Santiago
+159, km/l,5,94.000 kms,automático,Diesel (petróleo),,,,Viña del Mar,$ 9.990.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,BLANCO PERLA,Valparaíso
+160,"26,3 km/l",5,1 kms,manual,Diesel (petróleo),4,5,1.6,Rancagua,$ 8.600.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Crossway,2016,Blanco,OHiggins
+161,25 km/l,5,44.000 kms,manual,Diesel (petróleo),4,5,1.4,Santiago,$ 9.480.000,2015 Peugeot 2008 1.4 HDI 68 HP Active,2015,Gris,Metropolitana de Santiago
+162,25 km/l,5,58.000 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.890.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,Gris,Metropolitana de Santiago
+163, km/l,5,58.500 kms,manual,Diesel (petróleo),,,,Santiago,$ 10.280.000,2014 Peugeot 2008 1.6 PREMIUM,2014,GRIS PLATINIUM,Metropolitana de Santiago
+164, km/l,5,88.000 kms,manual,Diesel (petróleo),,,,Santiago,$ 9.740.000,2014 Peugeot 2008 PREMIER 1.6 MT DIESEL TECHO Pa,2014,negro perla,Metropolitana de Santiago
+165,25 km/l,5,88.457 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.200.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Premier,2014,NEGRO,Metropolitana de Santiago
+166, km/l,5,48.150 kms,manual,Diesel (petróleo),,,,Santiago,$ 10.990.000,2017 Peugeot 2008 ACTIVE BLUE HDI MT,2017,BLANCO,Metropolitana de Santiago
+167,"26,3 km/l",5,86.500 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 10.590.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Crossway,2015,GRIS,Metropolitana de Santiago
+168, km/l,5,73.956 kms,automático,Diesel (petróleo),,,,Rancagua,$ 9.990.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,Gris,OHiggins
+169, km/l,5,1 kms,automático,Bencina,,,,Santiago,$ 10.590.000,2016 Peugeot 2008 1.2 Puretech 110 Aut,2016,BLANCO,Metropolitana de Santiago
+170, km/l,5,48.000 kms,automático,Bencina,,,,Santiago,$ 10.890.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure,2016,GRIS,Metropolitana de Santiago
+171, km/l,5,13.018 kms,automático,Bencina,,,,Puerto Montt,$ 11.800.000,2017 Peugeot 2008 1.2 Puretech 110 HP Auto Allur,2017,BLANCO,Los Lagos
+172,25 km/l,5,35.772 kms,manual,Diesel (petróleo),4,5,1.6,Talca,$ 11.500.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Active,2015,blanco,Maule
+173, km/l,5,60.000 kms,automático,Diesel (petróleo),,,,Santiago,$ 11.590.000,2015 Peugeot 2008 ALLURE E HDI 1.6 AT,2015,GRIS,Metropolitana de Santiago
+174,25 km/l,5,55.000 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.990.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure,2016,GRIS,Metropolitana de Santiago
+175, km/l,5,37.160 kms,manual,Diesel (petróleo),,,,Santiago,$ 10.490.000,2015 Peugeot 2008 ALLURE E HDI 1.6,2015,BLANCO,Metropolitana de Santiago
+176, km/l,5,38.000 kms,manual,Diesel (petróleo),,,,Santiago,$ 11.390.000,2016 Peugeot 2008 1.6 ALLURE E HDI ,2016,GRIS,Metropolitana de Santiago
+177,"20,4 km/l",5,28.500 kms,manual,Bencina,3,5,1.2,Santiago,$ 9.290.000,2015 Peugeot 2008 1.2 VTi 82 HP Active,2015,Blanco,Metropolitana de Santiago
+178, km/l,5,27.000 kms,manual,Diesel (petróleo),,,,Santiago,$ 11.500.000,2016 Peugeot 2008 ACTIVE 1.6 CREDITOS ,2016,Blanco,Metropolitana de Santiago
+179,25 km/l,5,86.900 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 8.480.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Premier,2014,Cafe,Metropolitana de Santiago
+180, km/l,5,6.500 kms,manual,Diesel (petróleo),,,,Viña del Mar,$ 11.190.000,2017 Peugeot 2008 1.6 BlueHDI 100 HP Manual Acti,2017,BLANCO NACAR,Valparaíso
+181,25 km/l,5,74.772 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 8.990.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure,2016,GRIS ARTENSE,Metropolitana de Santiago
+182,25 km/l,5,25.000 kms,manual,Diesel (petróleo),4,5,1.6,Viña del Mar,$ 9.990.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Active,2016,GRIS PLATINUM,Valparaíso
+183, km/l,5,14.000 kms,automático,Bencina,,,,Viña del Mar,$ 9.990.000,2016 Peugeot 2008 1.2 Puretech 110 Auto HP Allur,2016,GRIS ARTENSE,Valparaíso
+184,25 km/l,5,96.297 kms,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 10.490.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Premier,2014,BLANCO,Metropolitana de Santiago
+185,25 km/l,5,36.414 kms,manual,Diesel (petróleo),4,5,1.6,Viña del Mar,$ 10.190.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Active,2016,BLANCO,Valparaíso
+186,25 km/l,5,,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 11.480.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Premier,2014,,Metropolitana de Santiago
+187, km/l,5,33.445 kms,automático,Diesel (petróleo),,,,Rancagua,$ 11.900.000,2016 Peugeot 2008 1.6 E-HDI 92 HP ALLURE,2016,gris,OHiggins
+188,"26,3 km/l",5,,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 9.800.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure CMP,2014,NEGRO,Metropolitana de Santiago
+189, km/l,5,68.000 kms,manual,Diesel (petróleo),,,,Santiago,$ 9.990.000,2015 Peugeot 2008 ACTIVE E HDI 1.6,2015,GRIS ARTENSE,Metropolitana de Santiago
+190,25 km/l,5,38.000 kms,manual,Diesel (petróleo),4,5,1.6,Viña del Mar,$ 8.990.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Active,2015,GRIS ARTENSE,Valparaíso
+191,25 km/l,5,25.000 kms,manual,Diesel (petróleo),4,5,1.6,Viña del Mar,$ 9.990.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Active,2016,GRIS ARTENSE,Valparaíso
+192, km/l,5,26.390 kms,manual,Bencina,,,,Santiago,$ 10.490.000,2014 Peugeot 2008 ACTIVE,2014,BLANCO,Metropolitana de Santiago
+193,25 km/l,5,56.000 kms,manual,Diesel (petróleo),4,5,1.4,Los Andes,$ 9.990.000,2014 Peugeot 2008 1.4 HDI 68 HP Active,2014,GRIS,Valparaíso
+194, km/l,5,69.000 kms,automático,Diesel (petróleo),,,,Los Andes,$ 9.590.000,2015 Peugeot 2008 1.4 HDI 68 HP Active,2015,GRIS,Valparaíso
+195,25 km/l,5,,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 12.480.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Premier,2014,,Metropolitana de Santiago
+196,25 km/l,5,60.000 kms,manual,Diesel (petróleo),4,5,1.6,Rancagua,$ 10.490.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Premier,2014,,OHiggins
+197,25 km/l,5,43.000 kms,manual,Diesel (petróleo),4,5,1.6,Viña del Mar,$ 8.790.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Active,2015,BLANCO NACAR,Valparaíso
+198,25 km/l,5,61.000 kms,manual,Diesel (petróleo),4,5,1.6,Viña del Mar,$ 10.390.000,2016 Peugeot 2008 1.6 e-HDI 92 HP Allure,2016,GRIS ARTENSE,Valparaíso
+199,25 km/l,5,,manual,Diesel (petróleo),4,5,1.6,Santiago,$ 11.290.000,2015 Peugeot 2008 1.6 e-HDI 92 HP Allure,2015,BLANCO,Metropolitana de Santiago
+200, km/l,5,73.954 kms,automático,Diesel (petróleo),,,,Rancagua,$ 9.890.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,plata,OHiggins
+201,25 km/l,5,82.344 kms,manual,Diesel (petróleo),4,5,1.4,La Serena,$ 9.900.000,2015 Peugeot 2008 1.4 HDI 68 HP Active,2015,GRIS,Coquimbo
+202,25 km/l,5,113.253 kms,manual,Diesel (petróleo),4,5,1.6,Rancagua,$ 9.690.000,2014 Peugeot 2008 1.6 e-HDI 92 HP Allure,2014,negro,OHiggins

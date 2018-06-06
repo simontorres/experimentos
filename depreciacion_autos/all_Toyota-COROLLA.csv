@@ -1,0 +1,299 @@
+,Pasajeros,Puertas,Kilometraje,Combustible,Transmisión,Anho,Región,Consumo de combustible (combinado),Precio,Litros (motor),Vehículo,Ciudad,Cilindros,Color Exterior
+0,5,4,70.000 kms,Bencina,manual,2007,Metropolitana de Santiago,0 km/l,$ 4.900.000,1.6,2007 Toyota COROLLA 1.6 XLI MT,Santiago,4,
+1,,5,90.000 kms,Bencina,manual,2013,Bío Bío, km/l,$ 6.790.000,,2013 Toyota COROLLA 1.6 XLI AC,Chillán,,
+2,5,4,80.965 kms,Bencina,manual,2014,Maule,0 km/l,$ 5.480.000,1.6,2014 Toyota COROLLA 1.6 XLI,Linares,4,Gris oscuro
+3,5,4,127.000 kms,Bencina,manual,2012,Valparaíso,0 km/l,$ 6.200.000,1.6,2012 Toyota COROLLA 1.6 GLI,Concón,4,
+4,5,5,167.000 kms,Bencina,manual,2005,Araucanía,0 km/l,$ 4.100.000,1.6,2005 Toyota COROLLA 1.6 VVT-i Sport,Temuco,4,Plata
+5,,4,135.000 kms,Bencina,automático,2007,Metropolitana de Santiago, km/l,$ 3.990.000,,2007 Toyota COROLLA XEI 1.8,Santiago,,PLATEADO SILVER
+6,,5,245.000 kms,Bencina,manual,2006,Metropolitana de Santiago, km/l,$ 3.800.000,,2006 Toyota COROLLA 1.6 VVT-i Sport,Santiago,,GRIS
+7,5,4,193.000 kms,Bencina,manual,2005,Coquimbo,0 km/l,$ 3.600.000,1.6,2005 Toyota COROLLA 1.6 VVT-i XLi,Ovalle,4,BEIGE METALICO
+8,5,4,71.000 kms,Bencina,manual,2014,Bío Bío,0 km/l,$ 7.300.000,1.6,2014 Toyota COROLLA 1.6 GLI,Los Angeles,4,Plata
+9,5,4,134.000 kms,Bencina,automático,2005,Metropolitana de Santiago,0 km/l,$ 3.480.000,1.6,2005 Toyota COROLLA 1.6 VVT-i XLi Auto,Santiago,4,plateado metali
+10,5,4,92.000 kms,Bencina,manual,2013,Bío Bío,0 km/l,$ 5.990.000,1.6,2013 Toyota COROLLA 1.6 XLI,Concepcion,4,Gris
+11,,4,148.000 kms,Bencina,manual,2011,Bío Bío, km/l,$ 5.490.000,,2011 Toyota COROLLA 1.6 GLI,Concepcion,,Blanco
+12,,5,90.000 kms,Bencina,manual,2011,Bío Bío, km/l,$ 5.800.000,,2011 Toyota COROLLA 1.6 XLI,Cabrero,,
+13,5,4,134.000 kms,Bencina,automático,2008,Metropolitana de Santiago,0 km/l,$ 4.600.000,1.8,2008 Toyota COROLLA 1.8 XEI AUTO LUJO,Santiago,4,GRIS GRAFITO
+14,5,4,104 kms,Bencina,automático,2012,Bío Bío,0 km/l,$ 6.500.000,1.6,2012 Toyota COROLLA 1.6 GLI Auto,Concepcion,4,
+15,5,4,52.000 kms,Bencina,manual,2014,Bío Bío,0 km/l,$ 8.000.000,1.6,2014 Toyota COROLLA 1.6 GLI,Chillán,4,
+16,5,5,210.000 kms,Bencina,manual,2006,Metropolitana de Santiago,0 km/l,$ 3.400.000,1.6,2006 Toyota COROLLA 1.6 VVT-i Sport,Santiago,4,Gris Oscuro
+17,,4,100 kms,Bencina,automático,2011,Metropolitana de Santiago, km/l,$ 5.300.000,,2011 Toyota COROLLA 1.6 GLI,Santiago,,Gris grafito
+18,5,5,179.000 kms,Bencina,automático,2005,Valparaíso,0 km/l,$ 3.900.000,1.6,2005 Toyota COROLLA 1.6 VVT-i SPort,Quillota,4,
+19,5,4,180.000 kms,Bencina,manual,2006,Metropolitana de Santiago,0 km/l,$ 4.150.000,1.8,2006 Toyota COROLLA 1.8 XEi MT,Santiago,4,Blanco
+20,,4,87.000 kms,Bencina,automático,2011,Metropolitana de Santiago, km/l,$ 5.890.000,,2011 Toyota COROLLA 1.6 GLI Auto,Santiago,,Rojo mica
+21,5,4,115.000 kms,Bencina,automático,2011,Maule,0 km/l,$ 5.850.000,1.6,2011 Toyota COROLLA 1.6 GLI Auto,Curico,4,blanco
+22,5,4,89.830 kms,Bencina,manual,2008,Valparaíso,0 km/l,$ 4.390.000,1.6,2008 Toyota COROLLA 1.6 XLI,Viña del Mar,4,PLATA
+23,5,4,,Bencina,manual,2014,Metropolitana de Santiago,0 km/l,$ 6.550.000,1.6,2014 Toyota COROLLA 1.6 GLI,Santiago,4,Plata
+24,5,4,152.000 kms,Bencina,automático,2009,Valparaíso,0 km/l,$ 4.690.000,1.6,2009 Toyota COROLLA 1.6 GLI Auto,Villa Alemana,4,GRIS PLATA
+25,,4,83.000 kms,Bencina,manual,2012,Valparaíso, km/l,$ 5.600.000,,2012 Toyota COROLLA 1.6 XLI,Viña del Mar,,blanco
+26,5,4,75.100 kms,Bencina,manual,2014,Bío Bío,0 km/l,$ 3.500.000,1.6,2014 Toyota COROLLA 1.6 XLI,Los Angeles,4,blanco
+27,5,4,149.000 kms,Bencina,manual,2011,Bío Bío,0 km/l,$ 6.000.000,1.6,2011 Toyota COROLLA 1.6 GLI,Concepcion,4,Grafito
+28,5,4,250.000 kms,Bencina,automático,2004,Metropolitana de Santiago,0 km/l,$ 2.700.000,1.6,2004 Toyota COROLLA 1.6 GLi,Santiago,4,plata
+29,5,4,190.000 kms,Bencina,manual,2003,Metropolitana de Santiago,0 km/l,$ 3.350.000,1.6,2003 Toyota COROLLA 1.6 GLi,Santiago,4,
+30,5,4,152.000 kms,Bencina,manual,2006,Maule,0 km/l,$ 4.100.000,1.6,2006 Toyota COROLLA 1.6 XLi MT,Talca,4,Blanco
+31,5,4,118.000 kms,Bencina,manual,2006,Maule,0 km/l,$ 4.290.000,1.8,2006 Toyota COROLLA 1.8 XEi MT,Talca,4,Blanco
+32,5,4,186.000 kms,Bencina,manual,2006,Maule,0 km/l,$ 4.100.000,1.6,2006 Toyota COROLLA 1.6 XLi MT,Romeral,4,
+33,5,4,149.000 kms,Bencina,manual,2011,Metropolitana de Santiago,0 km/l,$ 4.950.000,1.6,2011 Toyota COROLLA 1.6 XLI,Santiago,4,gris
+34,,4,74.500 kms,Bencina,manual,2011,Los Ríos, km/l,$ 5.650.000,,2011 Toyota COROLLA 1.6 XLI,Valdivia,,Gris Oscuro
+35,5,4,194.000 kms,Bencina,manual,2008,Valparaíso,0 km/l,$ 3.400.000,1.6,2008 Toyota COROLLA 1.6 XLI,Cartagena,4,blanco
+36,5,4,86.000 kms,Bencina,manual,2011,Metropolitana de Santiago,0 km/l,$ 5.190.000,1.6,2011 Toyota COROLLA 1.6 XLI,Santiago,4,
+37,,4,185.000 kms,Bencina,manual,2008,Metropolitana de Santiago, km/l,$ 4.390.000,,2008 Toyota COROLLA 1.6 XLI,Santiago,,
+38,5,4,29.461 kms,Bencina,automático,2016,Valparaíso,"15,2 km/l",$ 8.500.000,1.8,2016 Toyota COROLLA 1.8 GL CVT,San Antonio,4,plata metalica
+39,,4,74.800 kms,Bencina,manual,2011,Los Ríos, km/l,$ 5.650.000,,2011 Toyota COROLLA 1.6 GLI,Panguipulli,,ROJO
+40,5,4,65.000 kms,Bencina,manual,2016,Metropolitana de Santiago,"14,4 km/l",$ 8.680.000,1.8,2016 Toyota COROLLA 1.8 GL,Santiago,4,BLANCO
+41,5,4,93.000 kms,Bencina,manual,2009,Metropolitana de Santiago,0 km/l,$ 4.680.000,1.6,2009 Toyota COROLLA 1.6 GLI,Santiago,4,GRIS GRAFITO
+42,5,4,150.000 kms,Bencina,automático,2003,Metropolitana de Santiago,0 km/l,$ 2.800.000,1.6,2003 Toyota COROLLA 1.6 GLi,Santiago,4,Plateado Silver
+43,,4,117.000 kms,Bencina,manual,2009,Araucanía, km/l,$ 4.900.000,,2009 Toyota COROLLA 1.8 GLI,Temuco,,
+44,,5,296.000 kms,Bencina,manual,1992,Los Ríos, km/l,$ 1.490.000,,1992 Toyota COROLLA XL 1.6,Valdivia,,Rojo
+45,,4,14.000 kms,Bencina,manual,2015,Metropolitana de Santiago, km/l,$ 8.500.000,,2015 Toyota COROLLA 1.8 GL,Santiago,,Blanco
+46,5,4,127.000 kms,Bencina,manual,2012,Los Lagos,0 km/l,$ 5.800.000,1.6,2012 Toyota COROLLA 1.6 XLI,Chiloé - Castro,4,BLANCO
+47,5,4,108.000 kms,Bencina,manual,2012,Maule,0 km/l,$ 6.790.000,1.6,2012 Toyota COROLLA 1.6 XLI,Linares,4,Blanco
+48,,2,123.432 kms,Bencina,manual,1990,Los Lagos, km/l,$ 1.700.000,,1990 Toyota COROLLA Corolla coupe,Chiloé - Castro,,Negro
+49,5,4,161.000 kms,Bencina,manual,2011,Valparaíso,0 km/l,$ 5.700.000,1.6,2011 Toyota COROLLA 1.6 GLI,Quilpue,4,Gris
+50,5,4,140.000 kms,Bencina,manual,2014,Antofagasta,0 km/l,$ 6.690.000,1.6,2014 Toyota COROLLA 1.6 XLI AC,Antofagasta,4,PLATA
+51,5,5,206.000 kms,Bencina,manual,2006,Metropolitana de Santiago,0 km/l,$ 3.790.000,1.6,2006 Toyota COROLLA 1.6 VVT-i Sport,Santiago,4,GRIS OSCURO
+52,5,4,3.570 kms,Bencina,automático,2017,Bío Bío,"15,2 km/l",$ 10.690.000,1.8,2017 Toyota COROLLA 1.8 LE CVT,Concepcion,4,BLANCO
+53,,4,49.000 kms,Bencina,manual,2013,Bío Bío, km/l,$ 6.100.000,,2013 Toyota COROLLA 1.6 XLI,Tomé,,Blanco
+54,5,4,104.760 kms,Bencina,automático,2012,Bío Bío,0 km/l,$ 5.990.000,1.6,2012 Toyota COROLLA 1.6 GLI Auto,Concepcion,4,GRIS
+55,5,4,81.900 kms,Bencina,manual,2013,Metropolitana de Santiago,0 km/l,$ 5.700.000,1.6,2013 Toyota COROLLA 1.6 XLI AC,Santiago,4,negro
+56,5,4,144.000 kms,Bencina,manual,2011,OHiggins,0 km/l,$ 5.800.000,1.6,2011 Toyota COROLLA 1.6 XLI,Chimbarongo,4,Blanco
+57,,4,135.280 kms,Bencina,manual,2009,Metropolitana de Santiago, km/l,$ 4.600.000,,2009 Toyota COROLLA 1.6 XLI,Santiago,,
+58,5,4,70.300 kms,Bencina,automático,2012,Metropolitana de Santiago,0 km/l,$ 6.500.000,1.6,2012 Toyota COROLLA 1.6 LEI Auto,Santiago,4,gris oscuro metal
+59,5,4,48.000 kms,Bencina,manual,2012,Metropolitana de Santiago,0 km/l,$ 6.500.000,1.6,2012 Toyota COROLLA 1.6 XLI,Santiago,4,PLATEADO SILVER
+60,5,4,40.606 kms,Bencina,manual,2016,Metropolitana de Santiago,"14,4 km/l",$ 8.990.000,1.8,2016 Toyota COROLLA 1.8 GL,Santiago,4,Plateado
+61,,4,95.000 kms,Bencina,manual,1998,Metropolitana de Santiago, km/l,$ 1.995.000,,1998 Toyota COROLLA gli 1.6,Santiago,,
+62,5,4,87.100 kms,Bencina,manual,2010,Coquimbo,0 km/l,$ 4.890.000,1.6,2010 Toyota COROLLA 1.6 XLI,La Serena,4,Plateado
+63,5,4,117 kms,Bencina,manual,2013,Coquimbo,0 km/l,$ 5.490.000,1.6,2013 Toyota COROLLA 1.6 XLI,La Serena,4,blanco perlado
+64,5,4,200.000 kms,Bencina,automático,2002,Bío Bío,0 km/l,$ 2.990.000,1.6,2002 Toyota COROLLA 1.6 GLi,Concepcion,4,Gris
+65,,4,10.000 kms,Bencina,automático,2016,Metropolitana de Santiago, km/l,$ 10.600.000,,2016 Toyota COROLLA 1.8 LE CVT,Santiago,,Azul petroleo
+66,5,4,61.000 kms,Bencina,manual,2016,Metropolitana de Santiago,"14,4 km/l",$ 8.680.000,1.8,2016 Toyota COROLLA 1.8 GL,Santiago,4,GRIS PLATA
+67,5,4,250.000 kms,Bencina,manual,2011,Metropolitana de Santiago,0 km/l,$ 5.150.000,1.6,2011 Toyota COROLLA 1.6 XLI AC,Santiago,4,
+68,,4,25.942 kms,Bencina,automático,2016,Metropolitana de Santiago, km/l,$ 9.690.000,,2016 Toyota COROLLA GL 1.8 AT CONSULTE POR BONO,Santiago,,
+69,,4,148.000 kms,Bencina,automático,2009,Metropolitana de Santiago, km/l,$ 4.700.000,,2009 Toyota COROLLA 1.6 GLI Auto,Santiago,,Gris Oscuro
+70,5,4,51.000 kms,Bencina,manual,2013,Metropolitana de Santiago,0 km/l,$ 6.390.000,1.6,2013 Toyota COROLLA 1.6 XLI,Santiago,4,GRIS OSCURO
+71,5,4,88.000 kms,Bencina,manual,2013,Metropolitana de Santiago,0 km/l,$ 6.390.000,1.6,2013 Toyota COROLLA 1.6 XLI,Santiago,4,Gris 
+72,5,4,56.000 kms,Bencina,manual,2013,Metropolitana de Santiago,0 km/l,$ 6.990.000,1.6,2013 Toyota COROLLA 1.6 GLI,Santiago,4,Blanco
+73,,5,16.000 kms,Bencina,manual,2017,OHiggins, km/l,$ 9.800.000,,2017 Toyota COROLLA 1.8,Nancagua,,Plata
+74,,4,39.000 kms,Bencina,automático,2015,Valparaíso, km/l,$ 8.600.000,,2015 Toyota COROLLA 1.8 GL,Valparaiso,,
+75,5,4,185.000 kms,Bencina,manual,2002,OHiggins,0 km/l,$ 3.100.000,1.6,2002 Toyota COROLLA 1.6 GLi,Rancagua,4,
+76,,4,99.250 kms,Bencina,automático,2010,Maule, km/l,$ 4.990.000,,2010 Toyota COROLLA XLI LS 1.6,Talca,,PLATEADO SILVER METALICO
+77,,5,32.511 kms,Bencina,automático,2017,Metropolitana de Santiago, km/l,$ 9.300.000,,2017 Toyota COROLLA 527 TOYOTA COROLLA 1.8 2017,Santiago,,PLATEADO
+78,5,4,21.000 kms,Bencina,automático,2016,Metropolitana de Santiago,"15,2 km/l",$ 9.890.000,1.8,2016 Toyota COROLLA 1.8 Sport CVT,Santiago,4,Blanco
+79,5,4,65.092 kms,Bencina,automático,2016,Metropolitana de Santiago,"15,2 km/l",$ 9.290.000,1.8,2016 Toyota COROLLA 1.8 GL CVT,Santiago,4,SILVER METALICO
+80,5,4,23.010 kms,Bencina,manual,2017,Metropolitana de Santiago,"14,4 km/l",$ 8.400.000,1.8,2017 Toyota COROLLA 1.8 GL,Santiago,4,blanco
+81,5,4,1 kms,Bencina,manual,2009,Metropolitana de Santiago,0 km/l,$ 4.990.000,1.6,2009 Toyota COROLLA 1.6 XLI,Santiago,4,PLATEADO
+82,5,4,1 kms,Bencina,manual,2013,Metropolitana de Santiago,0 km/l,$ 5.690.000,1.6,2013 Toyota COROLLA 1.6 XLI,Santiago,4,BLANCO
+83,5,5,,Bencina,automático,2005,Metropolitana de Santiago,0 km/l,$ 4.500.000,1.6,2005 Toyota COROLLA 1.6 VVT-i SPort,Santiago,4,BLANCO
+84,,5,200.000 kms,Bencina,manual,2007,Metropolitana de Santiago, km/l,$ 3.950.000,,2007 Toyota COROLLA XLI,Santiago,,gris
+85,5,4,82.500 kms,Bencina,manual,2013,Valparaíso,0 km/l,$ 6.490.000,1.6,2013 Toyota COROLLA 1.6 XLI AC,Quillota,4,GRIS
+86,5,4,71.000 kms,Bencina,manual,2013,Metropolitana de Santiago,0 km/l,$ 6.200.000,1.6,2013 Toyota COROLLA 1.6 XLI,Santiago,4,
+87,,4,81.000 kms,Bencina,manual,2011,Valparaíso, km/l,$ 5.200.000,,2011 Toyota COROLLA 1.6 XLI,Villa Alemana,,gris grafito
+88,5,4,120.000 kms,Bencina,manual,2009,Metropolitana de Santiago,0 km/l,$ 4.980.000,1.6,2009 Toyota COROLLA 1.6 XLI,Santiago,4,
+89,5,4,52.019 kms,Bencina,manual,2016,Maule,"14,4 km/l",$ 8.790.000,1.8,2016 Toyota COROLLA 1.8 LE,Talca,4,PLATEADO PLATA
+90,,4,63.000 kms,Bencina,automático,2010,Metropolitana de Santiago, km/l,$ 5.700.000,,2010 Toyota COROLLA 1.6 GLI,Santiago,,Gris Plata
+91,5,4,65.000 kms,Bencina,manual,2013,Metropolitana de Santiago,0 km/l,$ 3.890.000,1.6,2013 Toyota COROLLA 1.6 XLI,Santiago,4,BLANCO
+92,5,4,76.000 kms,Bencina,manual,2013,Maule,0 km/l,$ 7.100.000,1.6,2013 Toyota COROLLA 1.6 GLI,Molina,4,GRIS METALICO
+93,5,4,87.000 kms,Bencina,manual,2012,Atacama,0 km/l,$ 5.800.000,1.6,2012 Toyota COROLLA 1.6 XLI,Copiapo,4,GRIS OSCURO MET
+94,,4,33.000 kms,Bencina,manual,2015,Valparaíso, km/l,$ 8.490.000,,2015 Toyota COROLLA 1.8 LE,Viña del Mar,,BLANCO
+95,,5,,Bencina,manual,1999,Araucanía, km/l,$ 2.400.000,,1999 Toyota COROLLA Gl,Lautaro,,
+96,5,5,181.000 kms,Bencina,manual,2006,Los Lagos,0 km/l,$ 3.200.000,1.6,2006 Toyota COROLLA 1.6 VVT-i Sport,Puerto Montt,4,Rojo
+97,,4,80.000 kms,Bencina,manual,2014,Metropolitana de Santiago, km/l,$ 6.750.000,,2014 Toyota COROLLA 1.6 XLI,Santiago,,plateado silver
+98,5,4,132.000 kms,Bencina,manual,2008,Bío Bío,0 km/l,$ 5.000.000,1.6,2008 Toyota COROLLA 1.6 XLI,Concepcion,4,Grafito
+99,,4,97.000 kms,Bencina,automático,2015,Araucanía, km/l,$ 7.800.000,,2015 Toyota COROLLA 1.8 GL CVT,Temuco,,GRIS METALICO
+100,5,4,120.000 kms,Bencina,manual,2012,Bío Bío,0 km/l,$ 6.190.000,1.6,2012 Toyota COROLLA 1.6 XLI AC,Concepcion,4,BEIGE
+101,5,4,110.000 kms,Bencina,automático,2012,Valparaíso,0 km/l,$ 6.380.000,1.6,2012 Toyota COROLLA 1.6 GLI Auto,Quillota,4,
+102,5,4,36.000 kms,Bencina,manual,2015,Bío Bío,"14,4 km/l",$ 8.700.000,1.8,2015 Toyota COROLLA 1.8 GL,Tomé,4,blanco
+103,,5,74.890 kms,Bencina,manual,2010,Bío Bío, km/l,$ 5.590.000,,2010 Toyota COROLLA 1.6 GLI,Los Angeles,,
+104,5,4,125.000 kms,Bencina,automático,2011,Bío Bío,0 km/l,$ 5.990.000,1.6,2011 Toyota COROLLA 1.6 GLI Auto,Concepcion,4,Blanco
+105,5,5,1.300.000 kms,Bencina,manual,2005,Metropolitana de Santiago,0 km/l,$ 3.250.000,1.6,2005 Toyota COROLLA 1.6 VVT-i Sport,Santiago,4,Blanco
+106,,5,2.350.000 kms,Bencina,automático,1989,Bío Bío, km/l,$ 1.100.000,,1989 Toyota COROLLA Gl,Antiguala,,
+107,,4,220.000 kms,Bencina,automático,2007,Araucanía, km/l,$ 3.390.000,,2007 Toyota COROLLA 1.6 XLI MT,Temuco,,gris
+108,,4,,Bencina,manual,2008,Metropolitana de Santiago, km/l,$ 4.000.000,,2008 Toyota COROLLA 1.6 XLI ,Santiago,,
+109,5,5,170.000 kms,Bencina,automático,2005,Metropolitana de Santiago,0 km/l,$ 3.800.000,1.6,2005 Toyota COROLLA 1.6 VVT-i SPort,Santiago,4,Blanco
+110,,4,154.500 kms,Bencina,automático,2008,Araucanía, km/l,$ 4.690.000,,2008 Toyota COROLLA 1.8 XEI LUJO,Temuco,,PLATA
+111,5,4,,Bencina,manual,2000,Metropolitana de Santiago,0 km/l,$ 2.480.000,1.6,2000 Toyota COROLLA 1.6 GLI,Santiago,4,BLANCO
+112,5,4,165.330 kms,Bencina,automático,2007,Araucanía,0 km/l,$ 3.900.000,1.6,2007 Toyota COROLLA 1.6 XLI AT,Temuco,4,
+113,5,4,100.000 kms,Bencina,manual,2013,Metropolitana de Santiago,0 km/l,$ 6.000.000,1.6,2013 Toyota COROLLA 1.6 GLI,Santiago,4,blanco
+114,5,4,,Bencina,manual,2008,Bío Bío,0 km/l,$ 4.600.000,1.8,2008 Toyota COROLLA 1.8 XEI,Chillán,4,
+115,,5,56.000 kms,Bencina,manual,2014,Los Lagos, km/l,$ 7.490.000,,2014 Toyota COROLLA 1.6,Puerto Montt,,GRIS PLATA
+116,5,4,112.000 kms,Bencina,manual,2010,Araucanía,0 km/l,$ 5.150.000,1.6,2010 Toyota COROLLA 1.6 GLI,Villarrica,4,
+117,5,4,87.000 kms,Bencina,manual,2015,Maule,"14,4 km/l",$ 7.900.000,1.8,2015 Toyota COROLLA 1.8 GL,Curico,4,gris metalico
+118,5,4,168.000 kms,Bencina,manual,2007,Valparaíso,0 km/l,$ 3.690.000,1.6,2007 Toyota COROLLA 1.6 XLI MT,San Felipe,4,
+119,5,4,150.000 kms,Bencina,manual,2004,Metropolitana de Santiago,0 km/l,$ 3.400.000,1.6,2004 Toyota COROLLA 1.6 VVT-i XLi,Padre Hurtado,4,Gris
+120,,5,46.700 kms,Bencina,manual,2015,Metropolitana de Santiago, km/l,$ 16.900.000,,2015 Toyota COROLLA 1.8 GL FULL TAXI EJECUTIVO,Santiago,,
+121,,4,17.000 kms,Bencina,manual,2006,Bío Bío, km/l,$ 37.000,,2006 Toyota COROLLA full,Santa Barbara,,plomo
+122,5,4,75.000 kms,Bencina,automático,2016,Metropolitana de Santiago,"15,2 km/l",$ 7.990.000,1.8,2016 Toyota COROLLA 1.8 GL CVT,Santiago,4,GRIS METALICO
+123,5,4,,Bencina,manual,2007,Araucanía,0 km/l,$ 3.900.000,1.6,2007 Toyota COROLLA 1.6 XLI MT,Temuco,4,Blanco
+124,,4,286.000 kms,Bencina,automático,2006,Metropolitana de Santiago, km/l,$ 3.300.000,,2006 Toyota COROLLA XLI,Santiago,,beige
+125,5,4,22.500 kms,Bencina,manual,2017,Metropolitana de Santiago,"14,4 km/l",$ 9.690.000,1.8,2017 Toyota COROLLA 1.8 LE,Santiago,4,BLANCO
+126,5,4,82.500 kms,Bencina,manual,2010,Metropolitana de Santiago,0 km/l,$ 4.190.000,1.6,2010 Toyota COROLLA 1.6 XLI,Santiago,4,GRIS
+127,5,4,90.000 kms,Bencina,manual,2014,Los Lagos,"14,4 km/l",$ 15.000.000,1.8,2014 Toyota COROLLA 1.8 GL,Puerto Montt,4,Plata
+128,5,4,32.800 kms,Bencina,automático,2016,Bío Bío,"15,2 km/l",$ 8.990.000,1.8,2016 Toyota COROLLA 1.8 GL CVT,Concepcion,4,BLANCO
+129,5,4,103.000 kms,Bencina,manual,2010,Araucanía,0 km/l,$ 5.700.000,1.6,2010 Toyota COROLLA 1.6 XLI,Temuco,4,Blanco
+130,5,4,28.000 kms,Bencina,automático,2017,Metropolitana de Santiago,"15,2 km/l",$ 10.700.000,1.8,2017 Toyota COROLLA 1.8 SE CVT Auto,Padre Hurtado,4,Beige
+131,,5,7.400 kms,Bencina,manual,2017,Metropolitana de Santiago, km/l,$ 9.500.000,,2017 Toyota COROLLA 1.8 Manual LE,Santiago,,
+132,,5,157.901 kms,Bencina,automático,1990,Valparaíso, km/l,$ 780.000,,1990 Toyota COROLLA sedan,Villa Alemana,,blanco
+133,,5,68.942 kms,Bencina,manual,2013,Valparaíso, km/l,$ 6.800.000,,2013 Toyota COROLLA 1.6,Puchuncaví,,
+134,,4,17.000 kms,Bencina,manual,2016,Metropolitana de Santiago, km/l,$ 9.790.000,,2016 Toyota COROLLA 1.8 LE,Santiago,,Plata
+135,5,4,82.000 kms,Bencina,manual,2016,OHiggins,"14,4 km/l",$ 26.000.000,1.8,2016 Toyota COROLLA 1.8 GL,Pichilemu,4,
+136,,5,188.000 kms,Bencina,manual,2009,Valparaíso, km/l,$ 4.600.000,,2009 Toyota COROLLA 1.6 XLI,San Felipe,,Gris
+137,,5,,Bencina,manual,1996,Maule, km/l,$ 1.750.000,,1996 Toyota COROLLA Lei,Molina,,Azul
+138,5,4,,Bencina,manual,2007,Metropolitana de Santiago,0 km/l,$ 3.550.000,1.6,2007 Toyota COROLLA 1.6 XLI MT,Santiago,4,Beige
+139,5,4,117 kms,Bencina,manual,2008,Metropolitana de Santiago,0 km/l,$ 3.700.000,1.6,2008 Toyota COROLLA 1.6 XLI,Peñaflor,4,Blanco
+140,5,4,124.000 kms,Bencina,manual,2007,Valparaíso,0 km/l,$ 4.300.000,1.8,2007 Toyota COROLLA 1.8 XEI MT,Valparaiso,4,Gris
+141,,5,300.000 kms,Bencina,manual,1996,Bío Bío, km/l,$ 1.990.000,,1996 Toyota COROLLA Gli 1.6,Coihueco,,Rojo
+142,5,4,209.000 kms,Bencina,manual,2008,OHiggins,0 km/l,$ 4.690.000,1.6,2008 Toyota COROLLA 1.6 XLI,San Fernando,4,GRIS OSCURO
+143,,4,190.000 kms,Bencina,automático,1993,Metropolitana de Santiago, km/l,$ 1.100.000,,1993 Toyota COROLLA 1.8,Santiago,,Blanco
+144,,3,201.200 kms,Bencina,automático,2005,Metropolitana de Santiago, km/l,$ 3.150.000,,2005 Toyota COROLLA 1.6 VVT-i Sport,Santiago,,
+145,5,4,1.200 kms,Bencina,manual,2017,Metropolitana de Santiago,"14,4 km/l",$ 8.500.000,1.8,2017 Toyota COROLLA 1.8 LE,Bajos de San Agustín,4,Blanco
+146,5,4,87.000 kms,Bencina,automático,2011,Bío Bío,0 km/l,$ 5.980.000,1.6,2011 Toyota COROLLA 1.6 GLI Auto,Concepcion,4,GRIS PLATA
+147,,4,43.000 kms,Bencina,manual,2015,Metropolitana de Santiago, km/l,$ 8.350.000,,2015 Toyota COROLLA GL,Santiago,,PLATEADO SILVER
+148,,5,101.169 kms,Bencina,manual,2008,OHiggins, km/l,$ 5.000.000,,2008 Toyota COROLLA 1.6 XLI,Rancagua,,Blanco
+149,,4,60.000 kms,Bencina,automático,2014,Metropolitana de Santiago, km/l,$ 7.200.000,,2014 Toyota COROLLA 1.6 LEI Auto,Santiago,,BLANCO PERLADO
+150,,4,120.000 kms,Bencina,manual,2014,Bío Bío, km/l,$ 5.200.000,,2014 Toyota COROLLA Gli 1.6,Concepcion,,
+151,5,4,,Bencina,automático,2014,Metropolitana de Santiago,0 km/l,$ 6.280.000,1.6,2014 Toyota COROLLA 1.6 GLI Auto,Santiago,4,
+152,5,4,24.000 kms,Bencina,automático,2017,Metropolitana de Santiago,"15,2 km/l",$ 9.790.000,1.8,2017 Toyota COROLLA 1.8 GL CVT,Santiago,4,BLANCO
+153,,4,51.500 kms,Bencina,manual,2012,Araucanía, km/l,$ 6.700.000,,2012 Toyota COROLLA 1.6 XLI,Temuco,,Plata
+154,,5,1 kms,Bencina,manual,1981,Los Ríos, km/l,$ 550.000,,1981 Toyota COROLLA Sedan,Valdivia,,Rojo
+155,5,4,,Bencina,manual,2016,Valparaíso,"14,4 km/l",$ 8.390.000,1.8,2016 Toyota COROLLA 1.8 GL,Quilpue,4,GRIS PLATA
+156,5,4,95.000 kms,Bencina,automático,2010,Metropolitana de Santiago,0 km/l,$ 5.400.000,1.8,2010 Toyota COROLLA 1.8 GLI Auto,Santiago,4,
+157,5,4,93.500 kms,Bencina,manual,2010,Metropolitana de Santiago,0 km/l,$ 4.490.000,1.6,2010 Toyota COROLLA 1.6 XLI,Santiago,4,GRIS OSCURO
+158,5,5,,Bencina,automático,1998,Maule,0 km/l,$ 2.150.000,1.6,1998 Toyota COROLLA 1.6 XLI DLX AUTO,Curico,4,Gris
+159,5,4,120.000 kms,Bencina,manual,2013,Bío Bío,0 km/l,$ 6.590.000,1.6,2013 Toyota COROLLA 1.6 GLI,Concepcion,4,Blanco
+160,5,4,140 kms,Bencina,automático,2011,Metropolitana de Santiago,0 km/l,$ 5.350.000,1.6,2011 Toyota COROLLA 1.6 GLI Auto,Santiago,4,gris
+161,5,4,68.000 kms,Bencina,automático,2012,Metropolitana de Santiago,0 km/l,$ 6.200.000,1.6,2012 Toyota COROLLA 1.6 GLI Auto,San Bernardo,4,Gris
+162,5,4,138.000 kms,Bencina,manual,2006,Metropolitana de Santiago,0 km/l,$ 4.100.000,1.6,2006 Toyota COROLLA 1.6 XLi MT,Santiago,4,Gris Grafito
+163,5,4,60.400 kms,Bencina,manual,2013,Metropolitana de Santiago,0 km/l,$ 6.500.000,1.6,2013 Toyota COROLLA 1.6 XLI AC,Santiago,4,Blanco
+164,5,5,190 kms,Bencina,manual,2005,Maule,0 km/l,$ 3.200.000,1.6,2005 Toyota COROLLA 1.6 VVT-i Sport,Linares,4,Gris
+165,,5,109.000 kms,Bencina,manual,2010,Valparaíso, km/l,$ 5.390.000,,2010 Toyota COROLLA 1.6 XLI,Quillota,,
+166,,4,92.000 kms,Bencina,manual,2013,Metropolitana de Santiago, km/l,$ 6.350.000,,2013 Toyota COROLLA 1.6 XLI,Santiago,,Blanco
+167,5,4,55.000 kms,Bencina,manual,2013,Metropolitana de Santiago,0 km/l,$ 6.795.000,1.6,2013 Toyota COROLLA 1.6 GLI,Santiago,4,Blanco
+168,,4,38.000 kms,Bencina,automático,2015,Metropolitana de Santiago, km/l,$ 6.680.000,,2015 Toyota COROLLA 1.8 GL,Santiago,,gris
+169,,5,,Bencina,manual,2005,Metropolitana de Santiago, km/l,$ 3.980.000,,2005 Toyota COROLLA XLI 1.6,Santiago,,GRIS
+170,,4,,Bencina,manual,2005,Metropolitana de Santiago, km/l,$ 3.980.000,,2005 Toyota COROLLA SPORT XLI 1.6,Santiago,,ROJO
+171,5,4,48.000 kms,Bencina,manual,2015,Metropolitana de Santiago,"14,4 km/l",$ 7.000.000,1.8,2015 Toyota COROLLA 1.8 GL,Santiago,4,Gris Plata
+172,5,4,172.000 kms,Bencina,manual,2006,Metropolitana de Santiago,0 km/l,$ 4.500.000,1.8,2006 Toyota COROLLA 1.8 XEi MT,Santiago,4,
+173,5,4,86.900 kms,Bencina,manual,2012,Metropolitana de Santiago,0 km/l,$ 6.100.000,1.6,2012 Toyota COROLLA 1.6 XLI AC,Santiago,4,
+174,5,4,55.574 kms,Bencina,manual,2015,Metropolitana de Santiago,"14,4 km/l",$ 8.780.000,1.8,2015 Toyota COROLLA 1.8 LE,Santiago,4,Blanco
+175,,5,150.000 kms,Bencina,manual,2007,Valparaíso, km/l,$ 4.100.000,,2007 Toyota COROLLA Sport,Quilpue,,Grafito
+176,5,4,520.000 kms,Bencina,manual,2008,Metropolitana de Santiago,0 km/l,$ 9.000.000,1.6,2008 Toyota COROLLA 1.6 XLI,Santiago,4,Taxi
+177,,4,98.000 kms,Bencina,manual,2014,Valparaíso, km/l,$ 6.890.000,,2014 Toyota COROLLA 1.6 GLI Auto,Viña del Mar,,Blanco
+178,5,4,25.000 kms,Bencina,automático,2017,Metropolitana de Santiago,"15,2 km/l",$ 9.790.000,1.8,2017 Toyota COROLLA 1.8 GL CVT,Santiago,4,BLANCO
+179,5,4,11.000 kms,Bencina,manual,2017,Bío Bío,"14,4 km/l",$ 9.790.000,1.8,2017 Toyota COROLLA 1.8 Manual LE,Concepcion,4,AZUL
+180,,3,250.000 kms,Bencina,manual,1977,Metropolitana de Santiago, km/l,$ 700.000,,1977 Toyota COROLLA liftback,Santiago,,naranjo
+181,5,4,43.600 kms,Bencina,manual,2016,Bío Bío,"14,4 km/l",$ 8.490.000,1.8,2016 Toyota COROLLA 1.8 GL,Concepcion,4,PLATA
+182,5,4,150.000 kms,Bencina,manual,2008,Los Lagos,0 km/l,$ 4.550.000,1.6,2008 Toyota COROLLA 1.6 XLI,Puerto Montt,4,Beige
+183,5,4,120.000 kms,Bencina,automático,2009,Metropolitana de Santiago,0 km/l,$ 4.450.000,1.6,2009 Toyota COROLLA 1.6 GLI Auto,Santiago,4,gris
+184,5,4,194.000 kms,Bencina,automático,2004,Metropolitana de Santiago,0 km/l,$ 3.580.000,1.8,2004 Toyota COROLLA 1.8 VVT-i XEi Auto,Santiago,4,BLANCO
+185,5,4,,Bencina,manual,2007,Metropolitana de Santiago,0 km/l,$ 4.280.000,1.6,2007 Toyota COROLLA 1.6 XLI MT,Santiago,4,GRIS PLATA 
+186,5,4,87.000 kms,Bencina,manual,2013,Bío Bío,0 km/l,$ 5.800.000,1.6,2013 Toyota COROLLA 1.6 XLI,Tomé,4,Gris grafito
+187,5,4,180.000 kms,Bencina,manual,2007,OHiggins,0 km/l,$ 4.500.000,1.6,2007 Toyota COROLLA 1.6 XLI MT,Rancagua,4,
+188,,4,243.207 kms,Bencina,manual,1999,Metropolitana de Santiago, km/l,$ 1.800.000,,1999 Toyota COROLLA 1.6 GLI BASIC,Santiago,,Verde
+189,,4,254.640 kms,Bencina,manual,2005,Metropolitana de Santiago, km/l,$ 3.650.000,,2005 Toyota COROLLA 1.6 VVT-i XLi,Melipilla,,BLANCO
+190,5,4,168.000 kms,Bencina,manual,2008,Araucanía,0 km/l,$ 4.500.000,1.6,2008 Toyota COROLLA 1.6 XLI,Victoria,4,
+191,,4,43.000 kms,Bencina,manual,2015,Metropolitana de Santiago, km/l,$ 8.300.000,,2015 Toyota COROLLA 1.8 LE,Santiago,,
+192,5,4,198.000 kms,Bencina,manual,2008,Maule,0 km/l,$ 5.000.000,1.6,2008 Toyota COROLLA 1.6 XLI,Curico,4,
+193,5,4,116.000 kms,Bencina,automático,2009,Bío Bío,0 km/l,$ 5.590.000,1.6,2009 Toyota COROLLA 1.6 GLI Auto,Concepcion,4,PLATEADO PLATA
+194,5,4,87.200 kms,Bencina,automático,2011,Araucanía,0 km/l,$ 5.990.000,1.6,2011 Toyota COROLLA 1.6 GLI Auto,Temuco,4,Blanco
+195,5,4,126.000 kms,Bencina,manual,2009,Metropolitana de Santiago,0 km/l,$ 4.490.000,1.6,2009 Toyota COROLLA 1.6 XLI,Santiago,4,GRIS OSCURO
+196,5,5,147.000 kms,Bencina,manual,2006,Metropolitana de Santiago,0 km/l,$ 3.800.000,1.6,2006 Toyota COROLLA 1.6 VVT-i Sport,Padre Hurtado,4,Gris
+197,5,4,199.999 kms,Bencina,manual,2007,Maule,0 km/l,$ 4.280.000,1.6,2007 Toyota COROLLA 1.6 XLI MT,Talca,4,
+198,5,4,112.000 kms,Bencina,manual,2011,Maule,0 km/l,$ 5.750.000,1.6,2011 Toyota COROLLA 1.6 GLI,Talca,4,blanco
+199,,4,204.000 kms,Bencina,manual,2005,Metropolitana de Santiago, km/l,$ 3.550.000,,2005 Toyota COROLLA 1.8 VVT-i XEi,Colina,,Blanco
+200,5,4,185.000 kms,Bencina,manual,2008,Bío Bío,0 km/l,$ 4.490.000,1.8,2008 Toyota COROLLA 1.8 XEI LUJO,Chillán,4,Gris
+201,,5,,Bencina,manual,1996,Bío Bío, km/l,$ 2.000.000,,1996 Toyota COROLLA Gli,Nacimiento,,
+202,,4,59.900 kms,Bencina,manual,2014,Metropolitana de Santiago, km/l,$ 6.700.000,,2014 Toyota COROLLA 1.6 GLI,Santiago,,GRIS OSCURO MET
+203,,4,102.000 kms,Bencina,automático,2009,Bío Bío, km/l,$ 5.600.000,,2009 Toyota COROLLA 1.6 GLI Auto,Los Angeles,,plomo
+204,5,4,109.000 kms,Bencina,automático,2009,Metropolitana de Santiago,0 km/l,$ 4.750.000,1.6,2009 Toyota COROLLA 1.6 XLI AUTO LUJO,Santiago,4,CAFE PERLADO
+205,,4,142.000 kms,Bencina,manual,1996,Metropolitana de Santiago, km/l,$ 2.200.000,,1996 Toyota COROLLA GLI,Santiago,,azul metalico
+206,5,4,80.000 kms,Bencina,manual,2013,Metropolitana de Santiago,0 km/l,$ 6.200.000,1.6,2013 Toyota COROLLA 1.6 XLI AC,Santiago,4,Blanco
+207,5,4,139.000 kms,Bencina,manual,2009,OHiggins,0 km/l,$ 4.800.000,1.8,2009 Toyota COROLLA 1.8 XEI,Requínoa,4,Blanco
+208,5,4,,Bencina,manual,2011,Metropolitana de Santiago,0 km/l,$ 5.290.000,1.6,2011 Toyota COROLLA 1.6 XLI,Santiago,4,PLATEADO
+209,5,4,,Bencina,manual,2009,Metropolitana de Santiago,0 km/l,$ 5.450.000,1.6,2009 Toyota COROLLA 1.6 XLI,Santiago,4,PLATEADO
+210,,4,189.000 kms,Bencina,manual,2011,Metropolitana de Santiago, km/l,$ 4.750.000,,2011 Toyota COROLLA 1.6 GLI,Santiago,,azul marino
+211,5,4,67.000 kms,Bencina,automático,2015,Metropolitana de Santiago,"15,2 km/l",$ 9.190.000,1.8,2015 Toyota COROLLA 1.8 LE CVT,Santiago,4,BLANCO
+212,,4,164.000 kms,Bencina,manual,2002,Metropolitana de Santiago, km/l,$ 3.350.000,,2002 Toyota COROLLA 1.6 GLi,Santiago,,Gris Plata
+213,,4,51.000 kms,Bencina,automático,2013,Metropolitana de Santiago, km/l,$ 6.600.000,,2013 Toyota COROLLA 1.6 LEI Auto,Santiago,,plateado silver
+214,5,4,190.000 kms,Bencina,manual,2008,Bío Bío,0 km/l,$ 4.500.000,1.6,2008 Toyota COROLLA 1.6 XLI,San Carlos,4,blanco
+215,5,4,,Bencina,automático,2002,Maule,0 km/l,$ 2.550.000,1.6,2002 Toyota COROLLA 1.6 GLi,Talca,4,Gris
+216,,4,80.000 kms,Bencina,manual,2012,Metropolitana de Santiago, km/l,$ 5.500.000,,2012 Toyota COROLLA 1.6 GLI,Santiago,,Plata
+217,,4,54.000 kms,Bencina,manual,2015,Metropolitana de Santiago, km/l,$ 6.800.000,,2015 Toyota COROLLA 1.8 GL,San Bernardo,,gris metalico
+218,,5,210.700 kms,Bencina,manual,2011,Metropolitana de Santiago, km/l,$ 12.500.000,,2011 Toyota COROLLA 1.6 sedan,Batuco,,gris
+219,5,4,142.000 kms,Bencina,manual,2008,Maule,0 km/l,$ 4.200.000,1.6,2008 Toyota COROLLA 1.6 XLI,Curico,4,Veish
+220,,4,170.000 kms,Bencina,manual,2009,Metropolitana de Santiago, km/l,$ 4.500.000,,2009 Toyota COROLLA GLI 1.6,Santiago,,PLATA
+221,5,4,88.000 kms,Bencina,manual,2011,Bío Bío,0 km/l,$ 5.850.000,1.6,2011 Toyota COROLLA 1.6 XLI,Concepcion,4,gris plata
+222,,4,26.068 kms,Bencina,manual,2010,Metropolitana de Santiago, km/l,$ 5.990.000,,2010 Toyota COROLLA 1.6 XLI,Santiago,,blanco
+223,,4,230.000 kms,Bencina,manual,1990,Valparaíso, km/l,$ 1.250.000,,1990 Toyota COROLLA glx,Viña del Mar,,blanco
+224,,4,125.554 kms,Bencina,manual,2007,Metropolitana de Santiago, km/l,$ 3.800.000,,2007 Toyota COROLLA 1.6 XLI,Santiago,,BLANCO
+225,5,4,65.000 kms,Bencina,automático,2015,Bío Bío,"15,2 km/l",$ 8.490.000,1.8,2015 Toyota COROLLA 1.8 GL CVT,Concepcion,4,
+226,5,4,110.000 kms,Bencina,automático,2008,Araucanía,0 km/l,$ 4.450.000,1.6,2008 Toyota COROLLA 1.6 XLI AUTO LUJO,Villarrica,4,Gris
+227,5,4,105.000 kms,Bencina,manual,2014,Los Lagos,0 km/l,$ 7.600.000,1.6,2014 Toyota COROLLA 1.6 GLI,Puerto Montt,4,
+228,5,4,125.000 kms,Bencina,manual,2011,OHiggins,0 km/l,$ 5.200.000,1.6,2011 Toyota COROLLA 1.6 XLI,Rengo,4,Plateado
+229,5,4,,Bencina,manual,2007,Bío Bío,0 km/l,$ 4.190.000,1.8,2007 Toyota COROLLA 1.8 XEI MT,Los Angeles,4,Beige Metalico
+230,,4,65.000 kms,Bencina,automático,2015,Bío Bío, km/l,$ 7.990.000,,2015 Toyota COROLLA 1.8 GL,Concepcion,,Plateado
+231,5,4,180.000 kms,Bencina,manual,2000,Bío Bío,0 km/l,$ 2.700.000,1.6,2000 Toyota COROLLA 1.6 GLI,Los Angeles,4,Rojo
+232,5,4,36.000 kms,Bencina,manual,2016,Araucanía,"14,4 km/l",$ 9.000.000,1.8,2016 Toyota COROLLA 1.8 GL,Temuco,4,
+233,5,4,191 kms,Bencina,manual,2000,OHiggins,0 km/l,$ 2.800.000,1.6,2000 Toyota COROLLA 1.6 GLI,San Francisco de Mostazal,4,Blanco
+234,,4,165.000 kms,Bencina,automático,2004,Metropolitana de Santiago, km/l,$ 2.850.000,,2004 Toyota COROLLA 1.6 VVT-i XLi Auto,Santiago,,plateado
+235,,4,104.000 kms,Bencina,manual,2013,Bío Bío, km/l,$ 6.190.000,,2013 Toyota COROLLA 1.6 XLI AC,Concepcion,,Plateado
+236,5,4,170.000 kms,Bencina,automático,2004,Valparaíso,0 km/l,$ 2.890.000,1.6,2004 Toyota COROLLA 1.6 GLi S/AC,Viña del Mar,4,Plateado
+237,5,4,320.000 kms,Bencina,manual,2007,Metropolitana de Santiago,0 km/l,$ 3.600.000,1.6,2007 Toyota COROLLA 1.6 XLI MT,Peñaflor,4,
+238,5,4,124.807 kms,Bencina,manual,2011,Valparaíso,0 km/l,$ 4.000.000,1.6,2011 Toyota COROLLA 1.6 GLI,Valparaiso,4,
+239,5,4,200 kms,Bencina,manual,2005,Metropolitana de Santiago,0 km/l,$ 3.500.000,1.6,2005 Toyota COROLLA 1.6 VVT-i XLi,Santiago,4,
+240,,5,153.000 kms,Bencina,manual,2011,Atacama, km/l,$ 5.200.000,,2011 Toyota COROLLA XLI 1.6,Copiapo,,Gris Oscuro 
+241,,4,135.674 kms,Bencina,manual,2004,Bío Bío, km/l,$ 4.000.000,,2004 Toyota COROLLA 1.8 VVT-i XEi,Los Angeles,,Rojo Mica
+242,5,4,198.800 kms,Bencina,manual,2007,Bío Bío,0 km/l,$ 4.500.000,1.6,2007 Toyota COROLLA 1.6 XLI MT,Chillán,4,Beige Metálico 
+243,5,4,26.000 kms,Bencina,manual,2015,Bío Bío,"14,4 km/l",$ 9.200.000,1.8,2015 Toyota COROLLA 1.8 LE,Hualqui,4,Blanco
+244,5,4,33.000 kms,Bencina,manual,2016,Bío Bío,"14,4 km/l",$ 8.400.000,1.8,2016 Toyota COROLLA 1.8 GL,Concepcion,4,
+245,5,4,36.000 kms,Bencina,automático,2016,Metropolitana de Santiago,"15,2 km/l",$ 9.190.000,1.8,2016 Toyota COROLLA 1.8 Sport CVT,Santiago,4,PLATEADO SILVER
+246,,4,100.000 kms,Bencina,automático,2010,Metropolitana de Santiago, km/l,$ 5.100.000,,2010 Toyota COROLLA 1.6 GLI Auto,Santiago,,Plata
+247,,4,99.000 kms,Bencina,automático,2008,Metropolitana de Santiago, km/l,$ 4.890.000,,2008 Toyota 1 NEW COROLLA XLI FULL,Santiago,,PLATA
+248,5,4,24.000 kms,Bencina,manual,2017,Metropolitana de Santiago,"14,4 km/l",$ 8.980.000,1.8,2017 Toyota COROLLA 1.8 GL,Santiago,4,PLATEADO BRILLA
+249,5,4,90.000 kms,Bencina,manual,2011,Bío Bío,0 km/l,$ 6.200.000,1.6,2011 Toyota COROLLA 1.6 XLI AC,Los Angeles,4,grafito
+250,5,4,140.000 kms,Bencina,manual,2008,Metropolitana de Santiago,0 km/l,$ 4.200.000,1.6,2008 Toyota COROLLA 1.6 XLI,Santiago,4,BEIGE
+251,5,4,,Bencina,manual,2011,Maule,0 km/l,$ 5.450.000,1.6,2011 Toyota COROLLA 1.6 XLI,Talca,4,
+252,,4,,Bencina,manual,2006,Los Lagos, km/l,$ 3.800.000,,2006 Toyota COROLLA 1.6 XLi MT,Osorno,,plateado met
+253,,4,53.000 kms,Bencina,automático,2010,Metropolitana de Santiago, km/l,$ 5.800.000,,2010 Toyota COROLLA 1.6 GLI Auto,Santiago,,blanco
+254,5,4,177.000 kms,Bencina,manual,2004,Bío Bío,0 km/l,$ 4.000.000,1.6,2004 Toyota COROLLA 1.6 VVT-i XLi,Chillán,4,Beige Metalico
+255,5,4,43.000 kms,Bencina,automático,2015,Metropolitana de Santiago,"15,2 km/l",$ 8.490.000,1.8,2015 Toyota COROLLA 1.8 LE CVT,Santiago,4,BLANCO
+256,5,5,,Bencina,manual,1999,OHiggins,0 km/l,$ 2.000.000,1.6,1999 Toyota COROLLA 1.6 XLI,Rancagua,4,Gris metalico
+257,,4,70.000 kms,Bencina,manual,2008,Metropolitana de Santiago, km/l,$ 4.890.000,,2008 Toyota COROLLA 1.6 XLI,Santiago,,
+258,5,4,,Bencina,manual,2008,Metropolitana de Santiago,0 km/l,$ 4.190.000,1.6,2008 Toyota COROLLA 1.6 XLI,Santiago,4,BEIGE
+259,,5,117.000 kms,Bencina,automático,2005,Metropolitana de Santiago, km/l,$ 3.200.000,,2005 Toyota COROLLA 1.6 VVT-i XLi Auto,Santiago,,Grafito
+260,,4,122.000 kms,Bencina,manual,2009,Metropolitana de Santiago, km/l,$ 4.650.000,,2009 Toyota COROLLA 1.8 XEI,Santiago,,PLATA
+261,5,4,107.000 kms,Bencina,manual,2012,Metropolitana de Santiago,0 km/l,$ 6.450.000,1.6,2012 Toyota COROLLA 1.6 XLI AC,Santiago,4,Plata
+262,,4,33.000 kms,Bencina,automático,2011,Metropolitana de Santiago, km/l,$ 6.500.000,,2011 Toyota COROLLA 1.6 GLI Auto,Santiago,,Plata Metalico
+263,,5,47.240 kms,Bencina,automático,2017,Bío Bío, km/l,$ 9.000.000,,2017 Toyota COROLLA NEW COROLLA AT,Chillán,,Plata 
+264,5,4,85.000 kms,Bencina,automático,2015,Metropolitana de Santiago,"15,2 km/l",$ 9.500.000,1.8,2015 Toyota COROLLA 1.8 GL CVT,Santiago,4,
+265,,5,,Bencina,manual,2007,Metropolitana de Santiago, km/l,$ 3.970.000,,2007 Toyota COROLLA XLI 1.6 SPORT,Santiago,,Blanco
+266,5,4,30.000 kms,Bencina,manual,2014,Metropolitana de Santiago,0 km/l,$ 6.350.000,1.6,2014 Toyota COROLLA 1.6 GLI,San Bernardo,4,Plata
+267,,4,145.000 kms,Bencina,manual,2012,Metropolitana de Santiago, km/l,$ 6.350.000,,2012 Toyota COROLLA 1.6 XLI,Lampa,,gris
+268,5,4,28.000 kms,Bencina,automático,2015,Bío Bío,"15,2 km/l",$ 8.990.000,1.8,2015 Toyota COROLLA 1.8 GL CVT,Concepcion,4,BLANCO
+269,5,4,103.913 kms,Bencina,manual,2007,Araucanía,0 km/l,$ 4.450.000,1.6,2007 Toyota COROLLA 1.6 XLI MT,Purén,4,beige
+270,,5,,Bencina,automático,2007,Metropolitana de Santiago, km/l,$ 4.190.000,,2007 Toyota COROLLA XLI 1.6 SPORT ,Santiago,,
+271,,5,4 kms,Bencina,manual,1991,Maule, km/l,$ 1.350.000,,1991 Toyota COROLLA Corolla full,Curico,,Celeste metalico
+272,5,4,52.000 kms,Bencina,manual,2011,Metropolitana de Santiago,0 km/l,$ 6.490.000,1.6,2011 Toyota COROLLA 1.6 XLI,Santiago,4,BLANCO
+273,5,4,1 kms,Bencina,manual,2011,Metropolitana de Santiago,0 km/l,$ 11.000.000,1.6,2011 Toyota COROLLA 1.6 XLI,Pirque,4,
+274,5,4,122.850 kms,Bencina,manual,2009,Los Lagos,0 km/l,$ 5.100.000,1.6,2009 Toyota COROLLA 1.6 GLI,Puerto Montt,4,blanco
+275,5,4,,Bencina,manual,2007,Metropolitana de Santiago,0 km/l,$ 3.690.000,1.6,2007 Toyota COROLLA 1.6 XLI MT,Santiago,4,Plata
+276,5,4,,Bencina,manual,2017,Metropolitana de Santiago,"14,4 km/l",$ 9.150.000,1.8,2017 Toyota COROLLA 1.8 GL,Santiago,4,Blanco
+277,,5,130.000 kms,Bencina,automático,2005,Bío Bío, km/l,$ 3.750.000,,2005 Toyota COROLLA 1.6 VVT-i Sport,Concepcion,,gris grafito
+278,5,4,93.000 kms,Bencina,manual,2013,Bío Bío,0 km/l,$ 7.200.000,1.6,2013 Toyota COROLLA 1.6 XLI AC,Arauco,4,
+279,5,4,82.800 kms,Bencina,manual,2013,Valparaíso,0 km/l,$ 6.500.000,1.6,2013 Toyota COROLLA 1.6 GLI,Viña del Mar,4,
+280,,4,27.000 kms,Bencina,manual,2016,Antofagasta, km/l,$ 8.500.000,,2016 Toyota COROLLA LE,Antofagasta,,
+281,5,4,126.000 kms,Bencina,manual,2011,Araucanía,0 km/l,$ 5.500.000,1.6,2011 Toyota COROLLA 1.6 GLI,Temuco,4,
+282,5,4,52.000 kms,Bencina,automático,2015,Metropolitana de Santiago,"15,2 km/l",$ 8.990.000,1.8,2015 Toyota COROLLA 1.8 Sport CVT,Santiago,4,GRIS
+283,5,4,57.000 kms,Bencina,manual,2012,Metropolitana de Santiago,0 km/l,$ 6.490.000,1.6,2012 Toyota COROLLA 1.6 GLI,Santiago,4,PLATEADO
+284,5,4,205.000 kms,Bencina,manual,2004,Araucanía,0 km/l,$ 3.990.000,1.6,2004 Toyota COROLLA 1.6 VVT-i XLi,Temuco,4,Plateado
+285,,4,,Bencina,manual,1991,Valparaíso, km/l,$ 900.000,,1991 Toyota COROLLA XLI,Quilpue,,Rojo
+286,5,4,56.000 kms,Bencina,automático,2010,Metropolitana de Santiago,0 km/l,$ 5.800.000,1.6,2010 Toyota COROLLA 1.6 GLI Auto,Santiago,4,blanco
+287,,4,131.700 kms,Bencina,manual,2011,Los Lagos, km/l,$ 5.700.000,,2011 Toyota COROLLA 1.6 GLI,Puerto Montt,,Gris
+288,5,5,294 kms,Bencina,manual,1997,Los Lagos,0 km/l,$ 3.000.000,1.6,1997 Toyota COROLLA 1.6 GLI,Puerto Montt,4,Gris
+289,5,4,100.000 kms,Bencina,manual,2010,Metropolitana de Santiago,0 km/l,$ 5.470.000,1.6,2010 Toyota COROLLA 1.6 XLI,Santiago,4,Plata
+290,5,4,51.000 kms,Bencina,manual,2009,Metropolitana de Santiago,0 km/l,$ 5.250.000,1.6,2009 Toyota COROLLA 1.6 GLI,Santiago,4,gris
+291,5,4,58.000 kms,Bencina,manual,2012,Araucanía,0 km/l,$ 7.000.000,1.6,2012 Toyota COROLLA 1.6 GLI,Temuco,4,ROJO MICA METAL
+292,5,4,48.888 kms,Bencina,manual,2011,Bío Bío,0 km/l,$ 5.600.000,1.6,2011 Toyota COROLLA 1.6 XLI,Concepcion,4,
+293,5,4,50.000 kms,Bencina,manual,2011,Antofagasta,0 km/l,$ 5.500.000,1.6,2011 Toyota COROLLA 1.6 GLI,Antofagasta,4,GRIS
+294,5,4,91.000 kms,Bencina,manual,2014,Metropolitana de Santiago,0 km/l,$ 7.690.000,1.6,2014 Toyota COROLLA 1.6 XLI AC,Santiago,4,plata
+295,5,4,8.000 kms,Bencina,manual,2013,Bío Bío,0 km/l,$ 7.290.000,1.6,2013 Toyota COROLLA 1.6 GLI,Concepcion,4,GRIS OSCURO
+296,5,4,174.000 kms,Bencina,manual,2004,Metropolitana de Santiago,0 km/l,$ 3.200.000,1.6,2004 Toyota COROLLA 1.6 GLi S/AC,Santiago,4,Beige
+297,,4,31.207 kms,Bencina,automático,2014,Metropolitana de Santiago, km/l,$ 8.190.000,,2014 Toyota COROLLA 1.6 GLI Auto Color Plata,Santiago,,PLATA
