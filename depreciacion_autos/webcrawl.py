@@ -111,6 +111,7 @@ def get_links_chileautos(marca, modelo, anho=None):
         # print(data.find('listing-item__details'))
     return all_links
 
+
 def get_price_chileautos(url):
     baseurl = 'https://www.chileautos.cl'
     parser = LinkParser()
