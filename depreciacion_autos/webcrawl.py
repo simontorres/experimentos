@@ -1,5 +1,6 @@
 from html.parser import HTMLParser
 from urllib.error import HTTPError
+import urllib.request
 from urllib.request import urlopen
 from urllib import parse
 import sys
@@ -71,7 +72,11 @@ class LinkParser(HTMLParser):
         self.baseUrl = base_url
         # Use the urlopen function from the standard Python 3 library
         try:
-            response = urlopen(url)
+            req = urllib.request.Request(url,
+                                         data=None,
+                                         headers={
+                                             'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36'})
+            response = urlopen(req)
             # Make sure that we are looking at HTML and not other things that
             # are floating around on the internet (such as
             # JavaScript files, CSS, or .PDFs for example)
@@ -132,8 +137,8 @@ def get_price_chileautos(url):
 
 
 if __name__ == '__main__':
-    marca = 'Subaru'
-    modelo = 'LEGACY'
+    marca = 'Volkswagen'
+    modelo = 'ESCARABAJO'
     links = get_links_chileautos(marca=marca, modelo=modelo)
     all_dict = []
     count=0

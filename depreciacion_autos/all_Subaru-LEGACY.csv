@@ -1,298 +1,298 @@
-,Combustible,Región,Pasajeros,Cilindros,Anho,Kilometraje,Ciudad,Transmisión,Consumo de combustible (combinado),Vehículo,Color Exterior,Precio,Litros (motor),Puertas
-0,Bencina,Metropolitana de Santiago,5,4,2013,76.000 kms,Santiago,automático,"12,3 km/l",2013 Subaru LEGACY 2.0I 4P CVT XS 4WD,Blanco,$ 6.990.000,2.0,4
-1,Bencina,Metropolitana de Santiago,5,4,2016,55.000 kms,Santiago,automático,0 km/l,2016 Subaru LEGACY 2.5I CVT Premium 4WD,,$ 10.300.000,2.5,4
-2,Bencina,Valparaíso,5,4,2012,76.000 kms,Viña del Mar,automático,"12,3 km/l",2012 Subaru LEGACY 2.0I 4P CVT XS 4WD,PLATA,$ 7.490.000,2.0,4
-3,Bencina,Metropolitana de Santiago,5,4,2010,165.000 kms,Santiago,automático,0 km/l,2010 Subaru LEGACY 2.0I 4P AWD CVT XS,gris grafito,$ 6.480.000,2,4
-4,Bencina,Metropolitana de Santiago,,,2006,165.000 kms,Santiago,automático, km/l,2006 Subaru LEGACY 2.5i AWD,Plata,$ 4.500.000,,4
-5,Bencina,Metropolitana de Santiago,5,4,2014,59.500 kms,Santiago,automático,0 km/l,2014 Subaru LEGACY 2.0I 4P CVT XS 4WD,Plata,$ 8.390.000,2.0,4
-6,Bencina,Los Ríos,,,2010,111.000 kms,Valdivia,automático, km/l,2010 Subaru LEGACY 2.01 AWD XS AUT,Gris Grafito,$ 8.000.000,,5
-7,Bencina,Metropolitana de Santiago,5,4,2007,125.000 kms,Santiago,automático,0 km/l,2007 Subaru LEGACY 2.0R 4D AT AWD 3L,,$ 4.190.000,2,4
-8,Bencina,Valparaíso,5,6,2006,260.073 kms,Viña del Mar,automático,0 km/l,2006 Subaru LEGACY 3.0 4WD 3W AUTO,BLANCO,$ 2.600.000,3,4
-9,Bencina,Valparaíso,5,4,2000,219.000 kms,Viña del Mar,automático,0 km/l,2000 Subaru LEGACY 2.0 AWD GX AUTO,BLANCO,$ 3.000.000,2,4
-10,Bencina,Metropolitana de Santiago,5,4,2012,160.000 kms,Santiago,automático,"12,3 km/l",2012 Subaru LEGACY 2.0I 4P AWD CVT XS,Gris grafito,$ 6.800.000,2.0,4
-11,Bencina,Valparaíso,,,1998,200.000 kms,Algarrobo,automático, km/l,1998 Subaru LEGACY 2.5 GT AWD AUTO TOURING,,$ 2.800.000,,5
-12,Bencina,OHiggins,,,1994,240.000 kms,San Fernando,manual, km/l,1994 Subaru LEGACY gl,azul,$ 1.550.000,,5
-13,Bencina,Maule,,,1993,,Curico,automático, km/l,1993 Subaru LEGACY Gt,Rojo metalico,$ 1.300.000,,5
-14,Bencina,Metropolitana de Santiago,,,2007,188.888 kms,Santiago,automático, km/l,2007 Subaru LEGACY 2.0R 4D AT AWD XA,,$ 3.900.000,,5
-15,Bencina,Metropolitana de Santiago,,,1995,,Santiago,manual, km/l,1995 Subaru LEGACY LX,Azul oscuro,$ 1.490.000,,5
-16,Bencina,Maule,5,4,1998,390.000 kms,Linares,manual,0 km/l,1998 Subaru LEGACY 2.0 GL,,$ 1.000.000,2,5
-17,Bencina,Valparaíso,,,2001,135.000 kms,Viña del Mar,manual, km/l,2001 Subaru LEGACY B4,Azul,$ 8.000.000,,5
-18,Bencina,Bío Bío,,,2008,120.000 kms,Bulnes,automático, km/l,2008 Subaru LEGACY 2.0R 4D AWD XX,Gris,$ 5.100.000,,4
-19,Bencina,Metropolitana de Santiago,5,4,2007,120.000 kms,Santiago,automático,0 km/l,2007 Subaru LEGACY 2.0R 4D AT AWD UA,Plata,$ 5.200.000,2,4
-20,Bencina,Bío Bío,,,2008,86.500 kms,Concepcion,manual, km/l,2008 Subaru LEGACY 2.0R TW AWD XX,,$ 5.800.000,,4
-21,Bencina,Metropolitana de Santiago,,,2012,180.000 kms,Santiago,automático, km/l,2012 Subaru LEGACY All New Legacy AWD 2.0 I Aut,Plata,$ 6.690.000,,4
-22,Bencina,Metropolitana de Santiago,,,2005,123.000 kms,Peñaflor,automático, km/l,2005 Subaru LEGACY 3.0R AWD,,$ 4.700.000,,0
-23,Bencina,Coquimbo,5,4,2013,120.000 kms,Coquimbo,automático,"12,2 km/l",2013 Subaru LEGACY 2.5I 4D CVT Limited 4WD,,$ 8.990.000,2.5,4
-24,Bencina,Bío Bío,,,2009,162.000 kms,Concepcion,automático, km/l,2009 Subaru LEGACY 2.0R 4D Auto AWD U,Blanco Perla,$ 5.600.000,,4
-25,Bencina,Metropolitana de Santiago,5,4,2009,177.000 kms,Santiago,automático,0 km/l,2009 Subaru LEGACY 2.0R 4D AUTO AWD U,Plata,$ 5.300.000,2,4
-26,Bencina,Metropolitana de Santiago,,,1997,,Santiago,manual, km/l,1997 Subaru LEGACY Lx,,$ 1.700.000,,5
-27,Bencina,OHiggins,,,2010,95.000 kms,Rancagua,automático, km/l,2010 Subaru LEGACY 2.5I 4D AWD CVT LIMITED,Azul metalico,$ 7.100.000,,4
-28,Bencina,Metropolitana de Santiago,5,4,2014,51.000 kms,Santiago,automático,12 km/l,2014 Subaru LEGACY 2.5I 4D CVT X-Edition 4WD,Blanco,$ 11.990.000,2.5,4
-29,Bencina,Valparaíso,,,2011,80.000 kms,San Felipe,automático, km/l,2011 Subaru LEGACY 2.5I 4D AWD CVT Sport,Blanco,$ 6.300.000,,4
-30,Bencina,Metropolitana de Santiago,5,4,2011,105.000 kms,Pirque,automático,"12,3 km/l",2011 Subaru LEGACY 2.0I 4P AWD CVT XS,,$ 6.800.000,2.0,4
-31,Bencina,Valparaíso,,,1998,300.000 kms,Valparaiso,manual, km/l,1998 Subaru LEGACY 2.0 GL,Verde Agua Mica,$ 1.800.000,,5
-32,Bencina,Maule,,,2010,135.000 kms,San Javier,automático, km/l,2010 Subaru LEGACY 2.0I 4P AWD CVT XS,blanco,$ 6.500.000,,4
-33,Bencina,Bío Bío,5,4,2004,160.000 kms,Concepcion,automático,0 km/l,2004 Subaru LEGACY 2.0 TW 4WD AT UZ,Blanco perla,$ 4.000.000,2,5
-34,Bencina,Valparaíso,5,4,2008,153.000 kms,Viña del Mar,automático,0 km/l,2008 Subaru LEGACY 2.0R TW AUTO AWD UX,GRIS,$ 5.400.000,2,5
-35,Bencina,Valparaíso,5,4,2013,67.000 kms,Viña del Mar,automático,"12,3 km/l",2013 Subaru LEGACY 2.0I 4P CVT XS 4WD,GRIS,$ 7.200.000,2.0,4
-36,Bencina,Valparaíso,5,4,2008,193.000 kms,Viña del Mar,automático,0 km/l,2008 Subaru LEGACY 2.0R TW AUTO AWD UX,GRIS,$ 4.480.000,2,5
-37,Bencina,Metropolitana de Santiago,5,4,2014,61.000 kms,Santiago,automático,0 km/l,2014 Subaru LEGACY 2.0I 4P CVT XS 4WD,GRIS GRAFITO,$ 8.490.000,2.0,4
-38,Bencina,Metropolitana de Santiago,,,2004,182.000 kms,Santiago,automático, km/l,2004 Subaru LEGACY 2.0 4WD MT XA,blanco aperlado,$ 3.750.000,,4
-39,Bencina,Metropolitana de Santiago,5,4,2008,,Santiago,automático,0 km/l,2008 Subaru LEGACY 2.0R TW AUTO AWD UX,Blanco,$ 4.650.000,2,5
-40,Bencina,Metropolitana de Santiago,,,2010,150.800 kms,Melipilla,automático, km/l,2010 Subaru LEGACY 2.0 AWD XS AUT,DORADO CHAMPAGN,$ 6.290.000,,4
-41,Bencina,Metropolitana de Santiago,5,4,2004,115.400 kms,Santiago,automático,0 km/l,2004 Subaru LEGACY 2.0 4WD AT XA,Plateado,$ 4.350.000,2,4
-42,Bencina,Metropolitana de Santiago,5,4,2008,203.000 kms,Santiago,automático,0 km/l,2008 Subaru LEGACY 2.0R 4D AUTO AWD 3S,,$ 4.890.000,2,4
-43,Bencina,Metropolitana de Santiago,5,4,2010,110.000 kms,Chicureo,automático,0 km/l,2010 Subaru LEGACY 2.5GT 4P AWD Auto SI Drive,Plata,$ 8.640.000,2.5,4
-44,Bencina,Metropolitana de Santiago,5,4,1999,,Bollenar,automático,0 km/l,1999 Subaru LEGACY 2.0 AWD GX AUTO TW,Blanco,$ 2.200.000,2,5
-45,Bencina,Metropolitana de Santiago,5,4,2006,92.000 kms,Santiago,automático,0 km/l,2006 Subaru LEGACY 2.0 4WD AT UA,plateado claro,$ 4.900.000,2,4
-46,Bencina,Metropolitana de Santiago,5,4,2006,92.000 kms,Santiago,automático,0 km/l,2006 Subaru LEGACY 2.0 4WD AT UA,plateado claro,$ 4.900.000,2,4
-47,Bencina,Metropolitana de Santiago,5,4,2006,92.000 kms,Santiago,automático,0 km/l,2006 Subaru LEGACY 2.0 4WD AT UA,plateado claro,$ 4.900.000,2,4
-48,Bencina,Metropolitana de Santiago,5,4,2006,92.000 kms,Santiago,automático,0 km/l,2006 Subaru LEGACY 2.0 4WD AT UA,plateado claro,$ 4.900.000,2,4
-49,Bencina,Valparaíso,5,4,2009,74.000 kms,San Felipe,automático,0 km/l,2009 Subaru LEGACY 2.5I Auto 3S Limited,Gris diamante,$ 5.600.000,2.5,4
-50,Bencina,Maule,,,2000,187.000 kms,Talca,manual, km/l,2000 Subaru LEGACY 2.0 AWD GX TW,Verde dorado,$ 2.800.000,,5
-51,Bencina,Valparaíso,5,6,2006,260.073 kms,Viña del Mar,automático,0 km/l,2006 Subaru LEGACY 3.0 4WD 3W AUTO,BLANCO,$ 2.600.000,3,4
-52,Bencina,Araucanía,5,4,2009,115 kms,Villarrica,automático,0 km/l,2009 Subaru LEGACY 2.0R 4D Auto AWD 3Q,,$ 5.700.000,2,4
-53,Bencina,Valparaíso,,,2008,108.000 kms,Quillota,automático, km/l,2008 Subaru LEGACY 2.0R 4D AUTO AWD UX,Gris,$ 5.100.000,,4
-54,Bencina,Metropolitana de Santiago,,,1994,270.000 kms,Melipilla,manual, km/l,1994 Subaru LEGACY legacy gl,bkanco,$ 1.750.000,,5
-55,Bencina,Metropolitana de Santiago,,,2005,153.000 kms,Santiago,automático, km/l,2005 Subaru LEGACY 2.0 AWD AUT,BLANCO,$ 3.900.000,,5
-56,Bencina,Maule,5,4,2005,169.500 kms,Talca,automático,0 km/l,2005 Subaru LEGACY 2.0 TW 4WD AT UA,Azul,$ 3.850.000,2,5
-57,Bencina,Maule,5,4,2005,169.500 kms,Talca,automático,0 km/l,2005 Subaru LEGACY 2.0 TW 4WD AT UA,Azul,$ 3.850.000,2,5
-58,Bencina,Maule,,,2008,168.000 kms,Cauquenes,automático, km/l,2008 Subaru LEGACY 2.0r,,$ 4.950.000,,4
-59,Bencina,Metropolitana de Santiago,5,6,2009,116.000 kms,Santiago,automático,0 km/l,2009 Subaru LEGACY 3.0R 4D 5AUTO AWD 3MS,Plata,$ 7.990.000,3,4
-60,Bencina,Metropolitana de Santiago,,,2007,115.000 kms,Santiago,automático, km/l,2007 Subaru LEGACY 2.0R 4D AT AWD XA,,$ 4.900.000,,4
-61,Bencina,Metropolitana de Santiago,,,2008,190.000 kms,Santiago,automático, km/l,2008 Subaru LEGACY 2.0R 4D AWD XX,Gris,$ 5.550.000,,4
-62,Bencina,Metropolitana de Santiago,,,2015,,Santiago,automático, km/l,2015 Subaru LEGACY LTD AWD 2.5I AUT,GRIS GRAFITO,$ 13.780.000,,4
-63,Bencina,Bío Bío,5,4,2001,174.000 kms,Los Angeles,automático,0 km/l,2001 Subaru LEGACY 2.5 AWD GT PX AUTO,Cafe,$ 3.300.000,2.5,4
-64,Bencina,OHiggins,,,1995,87.000 kms,Palmilla,manual, km/l,1995 Subaru LEGACY Lx,Blanco,$ 1.800.000,,5
-65,Bencina,Metropolitana de Santiago,,,2005,181.000 kms,Santiago,automático, km/l,2005 Subaru LEGACY 2.0 TW 4WD AT XA,Gris,$ 3.880.000,,4
-66,Bencina,Bío Bío,5,4,2010,90.000 kms,Los Angeles,automático,0 km/l,2010 Subaru LEGACY 2.0I 4P AWD CVT XS,,$ 6.990.000,2,4
-67,Bencina,Metropolitana de Santiago,5,4,2009,115.000 kms,Santiago,automático,0 km/l,2009 Subaru LEGACY 2.5I Auto 3S Limited,,$ 6.300.000,2.5,4
-68,Bencina,Metropolitana de Santiago,5,4,2014,100.000 kms,Santiago,automático,12 km/l,2014 Subaru LEGACY 2.5I 4D CVT X-Edition 4WD,PLATEADO HIELO,$ 11.580.000,2.5,4
-69,Bencina,Metropolitana de Santiago,5,4,2014,116.000 kms,Santiago,automático,0 km/l,2014 Subaru LEGACY 2.0I 4P CVT XS 4WD,GRIS PLATA,$ 8.300.000,2.0,4
-70,Bencina,Metropolitana de Santiago,,,2010,126.000 kms,Santiago,automático, km/l,2010 Subaru LEGACY TURBO 2.5 GT AWD AUTOMATICO ,Gris metálico,$ 7.900.000,,4
-71,Bencina,Metropolitana de Santiago,,,2012,,Santiago,automático, km/l,2012 Subaru LEGACY 2.0 AWD NAV RECIBO VEHICULO,BLANCO,$ 7.980.000,,4
-72,Bencina,Metropolitana de Santiago,,,1997,250.000 kms,Santiago,manual, km/l,1997 Subaru LEGACY 2.0 GL,Gris,$ 1.450.000,,4
-73,Bencina,Valparaíso,5,4,2010,168.000 kms,Viña del Mar,automático,0 km/l,2010 Subaru LEGACY 2.0I 4P AWD CVT XS,,$ 6.700.000,2,4
-74,Bencina,Los Lagos,5,4,1998,230.000 kms,Osorno,manual,0 km/l,1998 Subaru LEGACY 2.0 GL,,$ 2.500.000,2,4
-75,Bencina,Metropolitana de Santiago,,,1998,,Santiago,manual, km/l,1998 Subaru legacy outback 2.2 mecanica full,verde,$ 3.000.000,,5
-76,Bencina,Metropolitana de Santiago,5,4,2007,168.000 kms,Santiago,automático,0 km/l,2007 Subaru LEGACY 2.0R TW AT AWD UA,AZUL MET,$ 3.990.000,2,5
-77,Bencina,Metropolitana de Santiago,5,4,2011,81.000 kms,Santiago,automático,0 km/l,2011 Subaru LEGACY 2.5I 4D AWD CVT Limited,Grafito ,$ 7.480.000,2.5,4
-78,Bencina,Los Lagos,,,1996,80.000 kms,Puerto Varas,automático, km/l,1996 Subaru LEGACY 80mil km Automtico,,$ 3.390.000,,4
-79,Bencina,Maule,,,1996,,Curico,automático, km/l,1996 Subaru LEGACY 2.0,Burdeo,$ 1.200.000,,5
-80,Bencina,Metropolitana de Santiago,,,2006,125.000 kms,Santiago,automático, km/l,2006 Subaru LEGACY 2.0R AWD AUT,Plateado,$ 4.150.000,,4
-81,Bencina,Metropolitana de Santiago,5,4,2008,145.000 kms,Santiago,automático,0 km/l,2008 Subaru LEGACY 2.0R 4D AUTO AWD XX,Azul perlado,$ 5.200.000,2,4
-82,Bencina,Maule,,,1999,174.000 kms,Curico,automático, km/l,1999 Subaru LEGACY 2.0 GL AWD,Gris,$ 2.700.000,,5
-83,Bencina,Valparaíso,,,2010,,Quintero,automático, km/l,2010 Subaru LEGACY 2.0I 4P AWD CVT XS,blanco satin ,$ 4.500.000,,4
-84,Bencina,Metropolitana de Santiago,,,1992,270.000 kms,San Bernardo,automático, km/l,1992 Subaru LEGACY Station wagon,,$ 1.500.000,,5
-85,Bencina,Metropolitana de Santiago,5,4,2012,103.000 kms,Batuco,automático,"12,3 km/l",2012 Subaru LEGACY 2.0I 4P CVT XS 4WD,Humo metalico,$ 8.500.000,2.0,4
-86,Bencina,OHiggins,,,2006,192.000 kms,Peumo,automático, km/l,2006 Subaru NEW LEGACY AWD AT 2.0,BLANCO PERLADO,$ 4.400.000,,5
-87,Bencina,Metropolitana de Santiago,,,1993,,Santiago,manual, km/l,1993 Subaru LEGACY GL,CELESTE,$ 1.500.000,,0
-88,Bencina,OHiggins,,,2014,91.000 kms,Rancagua,automático, km/l,2014 Subaru LEGACY LEGACY AWD 2.5I AUT R,PLATEADO HIELO ,$ 11.900.000,,5
-89,Bencina,Los Lagos,5,4,2002,250 kms,Fresia,manual,0 km/l,2002 Subaru LEGACY 2.0 AWD GT PA,blanco,$ 3.500.000,2,4
-90,Bencina,Metropolitana de Santiago,5,4,2010,160.000 kms,Santiago,automático,0 km/l,2010 Subaru LEGACY 2.0I 4P AWD CVT XS,gris metalico,$ 6.150.000,2,4
-91,Bencina,Los Lagos,5,4,2009,121.000 kms,Frutillar,automático,0 km/l,2009 Subaru LEGACY 2.0R 4D Auto AWD 3Q,Gris,$ 5.350.000,2,4
-92,Bencina,Los Lagos,,,2003,285.000 kms,Puerto Montt,automático, km/l,2003 Subaru LEGACY 2.0 AWD GT PA AUTO,BLANCO,$ 2.650.000,,4
-93,Bencina,Metropolitana de Santiago,5,4,2016,55.000 kms,Santiago,automático,0 km/l,2016 Subaru LEGACY 2.5I CVT XS 4WD,,$ 10.490.000,2.5,4
-94,Bencina,Metropolitana de Santiago,5,4,2016,25.000 kms,Santiago,automático,0 km/l,2016 Subaru LEGACY 2.5I CVT XS 4WD,,$ 10.990.000,2.5,4
-95,Bencina,Metropolitana de Santiago,,,2006,191.000 kms,Melipilla,manual, km/l,2006 Subaru LEGACY NEW LEGACY AWD,PLATEADO CLARO,$ 3.890.000,,5
-96,Bencina,Metropolitana de Santiago,,,1994,270.000 kms,Melipilla,manual, km/l,1994 Subaru LEGACY legacy gl,bkanco,$ 1.750.000,,5
-97,Bencina,Metropolitana de Santiago,5,6,2016,33.700 kms,Santiago,automático,0 km/l,2016 Subaru LEGACY 3.6R CVT Limited 4WD,BLANCO,$ 15.900.000,3.6,4
-98,Bencina,Metropolitana de Santiago,,,1998,,Santiago,manual, km/l,1998 Subaru legacy outback 2.2 mecanica full,verde,$ 3.000.000,,5
-99,Bencina,Los Lagos,5,4,2008,96.000 kms,Osorno,automático,0 km/l,2008 Subaru LEGACY 2.0R 4D AUTO AWD UX,Blanco ,$ 5.990.000,2,4
-100,Bencina,Metropolitana de Santiago,5,4,2013,65.000 kms,Santiago,automático,"12,3 km/l",2013 Subaru LEGACY 2.0I 4P CVT XS 4WD,GRAFITO,$ 7.980.000,2.0,4
-101,Bencina,Metropolitana de Santiago,5,4,2007,94.000 kms,Santiago,automático,0 km/l,2007 Subaru LEGACY 2.0R 4D AT AWD 3L,GRAFITO,$ 5.480.000,2,4
-102,Bencina,Maule,5,4,1999,285.405 kms,Linares,manual,0 km/l,1999 Subaru LEGACY 2.0 LX AWD,,$ 2.500.000,2,5
-103,Bencina,Metropolitana de Santiago,,,1997,290.000 kms,Melipilla,automático, km/l,1997 Subaru LEGACY GL 2.0,Azul metálico,$ 2.000.000,,5
-104,Bencina,Metropolitana de Santiago,,,2008,143.000 kms,Santiago,automático, km/l,2008 Subaru LEGACY 2.0 R TRIPTRONIC,PLATEADO,$ 4.980.000,,5
-105,Bencina,Bío Bío,,,2008,260.000 kms,Concepcion,manual, km/l,2008 Subaru LEGACY 2.0 R AWD Manual,,$ 4.900.000,,0
-106,Bencina,Metropolitana de Santiago,,,2016,,Colina,automático, km/l,2016 Subaru LEGACY 2.5I CVT Premium 4WD,Grafito,$ 12.700.000,,4
-107,Bencina,Metropolitana de Santiago,5,4,2016,52.131 kms,Santiago,automático,0 km/l,2016 Subaru LEGACY 2.5I CVT XS 4WD,Gris Oscuro ,$ 10.850.000,2.5,4
-108,Bencina,Metropolitana de Santiago,5,4,2008,,Santiago,manual,0 km/l,2008 Subaru LEGACY 2.0R 4D AWD XX,Blanco,$ 4.980.000,2,4
-109,Bencina,Los Lagos,,,2010,140.000 kms,Puerto Montt,automático, km/l,2010 Subaru LEGACY All new legacy,Azul metálico,$ 7.100.000,,5
-110,Bencina,Maule,,,1996,221.300 kms,Talca,manual, km/l,1996 Subaru LEGACY Lx,Verde,$ 2.200.000,,5
-111,Otros,OHiggins,,,1995,189.000 kms,Rancagua,manual, km/l,1995 Subaru LEGACY 2.0I 4WD Lx,Azul,$ 1.700.000,,5
-112,Bencina,Metropolitana de Santiago,5,4,2007,,Santiago,automático,0 km/l,2007 Subaru LEGACY 2.0R 4D AT AWD XA,,$ 3.950.000,2,4
-113,Bencina,Valparaíso,5,4,2002,180.000 kms,Valparaiso,automático,0 km/l,2002 Subaru LEGACY 2.0 AWD GT PA AUTO,gris,$ 3.300.000,2,4
-114,Bencina,Valparaíso,5,4,2005,116.500 kms,Rinconada,automático,0 km/l,2005 Subaru LEGACY 2.0 TW 4WD AT UA,BLANCO,$ 4.450.000,2,5
-115,Bencina,Atacama,,,1995,273.150 kms,Copiapo,manual, km/l,1995 Subaru Legacy Station wagon,Verde oscuro,$ 1.700.000,,5
-116,Bencina,Metropolitana de Santiago,5,4,2003,195.000 kms,Santiago,automático,0 km/l,2003 Subaru LEGACY 2.0 AWD GT PA AUTO,Verde,$ 3.000.000,2,4
-117,Bencina,Metropolitana de Santiago,5,4,2016,,Santiago,automático,0 km/l,2016 Subaru LEGACY 2.5I CVT XS 4WD,Azul,$ 10.500.000,2.5,4
-118,Bencina,Metropolitana de Santiago,,,2006,120.000 kms,Melipilla,automático, km/l,2006 Subaru LEGACY 2.0,negro,$ 3.500.000,,4
-119,Bencina,Metropolitana de Santiago,,,2008,280.000 kms,Talagante,automático, km/l,2008 Subaru LEGACY 2.0R,gris oscuro,$ 4.950.000,,5
-120,Bencina,Maule,5,4,2000,150.000 kms,Talca,automático,0 km/l,2000 Subaru LEGACY 2.0 AWD GX AUTO,,$ 3.200.000,2,4
-121,Bencina,OHiggins,5,4,2008,168.000 kms,Rengo,automático,0 km/l,2008 Subaru LEGACY 2.0R 4D AUTO AWD 3S,,$ 5.400.000,2,4
-122,Bencina,Metropolitana de Santiago,,,2005,215.000 kms,Santiago,automático, km/l,2005 Subaru LEGACY 2.5 i full,Gris,$ 3.980.000,,4
-123,Bencina,Metropolitana de Santiago,5,4,2010,124.000 kms,Santiago,automático,0 km/l,2010 Subaru LEGACY 2.0I 4P AWD CVT XS,Grafito,$ 5.600.000,2,4
-124,Bencina,Metropolitana de Santiago,5,4,2010,115.000 kms,Santiago,automático,0 km/l,2010 Subaru LEGACY 2.0I 4P AWD CVT XS,Verde Gris meta,$ 5.850.000,2,4
-125,Bencina,Los Ríos,,,2000,,Valdivia,automático, km/l,2000 Subaru LEGACY 2.0 AWD GX AUTO,Blanco,$ 2.600.000,,4
-126,Bencina,Valparaíso,5,4,2008,220.000 kms,Quilpue,automático,0 km/l,2008 Subaru LEGACY 2.0R TW AUTO AWD UX,,$ 4.700.000,2,5
-127,Bencina,Araucanía,,,1997,175.000 kms,Pitrufquén,manual, km/l,1997 Subaru LEGACY 2.0,Blanco,$ 2.300.000,,5
-128,Bencina,Metropolitana de Santiago,5,4,2006,91.972 kms,Santiago,automático,0 km/l,2006 Subaru LEGACY 2.0R TW AT AWD UA,GRIS,$ 4.900.000,2,5
-129,Bencina,Bío Bío,,,2012,101.935 kms,Concepcion,automático, km/l,2012 Subaru LEGACY AWD - HABLANOS POR WHATSAPP,GRIS GRAFITO,$ 7.490.000,,4
-130,Bencina,Metropolitana de Santiago,5,4,2015,33.000 kms,Santiago,automático,0 km/l,2015 Subaru LEGACY 2.5I CVT Limited 4WD,GRIS,$ 12.800.000,2.5,4
-131,Bencina,Maule,5,4,2007,123.000 kms,Talca,automático,0 km/l,2007 Subaru LEGACY 2.0R 4D AT AWD UA,,$ 5.150.000,2,4
-132,Bencina,Metropolitana de Santiago,,,2010,145.000 kms,Santiago,automático, km/l,2010 Subaru LEGACY Station 2000cc AWD 4x4 AUTOMATICO,Grafito,$ 5.750.000,,4
-133,Bencina,Bío Bío,,,2009,117.000 kms,Concepcion,automático, km/l,2009 Subaru LEGACY 2.5I AUTO 3S LIMITED,,$ 6.000.000,,4
-134,Bencina,Metropolitana de Santiago,5,4,2006,81.000 kms,Santiago,automático,0 km/l,2006 Subaru LEGACY 2.0 4WD AT UA,,$ 6.180.000,2,4
-135,Bencina,Bío Bío,5,4,2003,154.000 kms,Los Angeles,automático,0 km/l,2003 Subaru LEGACY 2.0 TW AWD GT PA AT,blanco,$ 3.700.000,2,5
-136,Bencina,Bío Bío,,,2005,199.121 kms,San Carlos,automático, km/l,2005 Subaru LEGACY NEW LEGACY 2.0I AWD AT,Plateado,$ 4.790.000,,4
-137,Bencina,Araucanía,5,4,2001,240.000 kms,Villarrica,manual,0 km/l,2001 Subaru LEGACY 2.0 AWD GE,Verde oscuro mica,$ 3.350.000,2,4
-138,Bencina,Metropolitana de Santiago,,,1992,,Santiago,automático, km/l,1992 Subaru Legacy GL,GRIS GRAFITO ,$ 580.000,,5
-139,Bencina,Maule,5,4,2001,145.000 kms,Parral,automático,0 km/l,2001 Subaru LEGACY 2.5 AWD GT RG AUTO,,$ 3.300.000,2.5,4
-140,Bencina,Araucanía,,,1993,250.000 kms,Villarrica,manual, km/l,1993 Subaru LEGACY 4x4,,$ 1.700.000,,5
-141,Bencina,Metropolitana de Santiago,5,4,2011,106.000 kms,Santiago,automático,"9,4 km/l",2011 Subaru LEGACY 2.5GT 4P AWD Auto SI Drive,negro,$ 8.590.000,2.5,4
-142,Bencina,OHiggins,,,2011,90.000 kms,Rancagua,automático, km/l,2011 Subaru LEGACY 2.0I 4P AWD CVT XS,,$ 7.200.000,,4
-143,Bencina,Metropolitana de Santiago,5,4,2016,52.000 kms,Talagante,automático,0 km/l,2016 Subaru LEGACY 2.5I CVT XS 4WD,Gris Oscuro,$ 10.600.000,2.5,4
-144,Bencina,Metropolitana de Santiago,5,4,2016,42.000 kms,Santiago,automático,0 km/l,2016 Subaru LEGACY 2.5I CVT Limited 4WD,Gris,$ 14.500.000,2.5,4
-145,Bencina,Bío Bío,,,1995,362.600 kms,Chillán,manual, km/l,1995 Subaru LEGACY 2.0,Azul,$ 1.600.000,,5
-146,Bencina,Bío Bío,5,4,2016,30.713 kms,Concepcion,automático,0 km/l,2016 Subaru LEGACY 2.5I CVT XS 4WD,GRIS GRAFITO,$ 12.490.000,2.5,4
-147,Bencina,Bío Bío,,,2013,64.000 kms,Los Angeles,automático, km/l,2013 Subaru LEGACY 2.0I 4P CVT XS 4WD,Blanco,$ 7.990.000,,4
-148,Bencina,Valparaíso,,,2000,184.000 kms,Quilpue,automático, km/l,2000 Subaru LEGACY 2.0 AWD GX AUTO,,$ 3.200.000,,5
-149,Bencina,Valparaíso,5,4,2005,240 kms,Viña del Mar,automático,0 km/l,2005 Subaru LEGACY 2.0 TW 4WD AT XA,,$ 4.500.000,2,5
-150,Bencina,Maule,5,4,2005,220.000 kms,Talca,automático,0 km/l,2005 Subaru LEGACY 2.0 TW 4WD AT UA,Plata,$ 4.300.000,2,5
-151,Bencina,Metropolitana de Santiago,,,1999,178.000 kms,Santiago,automático, km/l,1999 Subaru LEGACY 2.0 AWD GE,Gris,$ 3.700.000,,4
-152,Bencina,Metropolitana de Santiago,5,4,2010,161.850 kms,Santiago,automático,0 km/l,2010 Subaru LEGACY 2.0I TW AWD CVT XS,GRIS,$ 5.650.000,2,5
-153,Bencina,Metropolitana de Santiago,,,2009,118.000 kms,Santiago,automático, km/l,2009 Subaru Legacy 2.0R,gris,$ 5.400.000,,5
-154,Bencina,Valparaíso,5,4,2010,105.000 kms,Viña del Mar,automático,0 km/l,2010 Subaru LEGACY 2.0I TW AWD CVT XS,gris plateado,$ 6.800.000,2,5
-155,Bencina,Valparaíso,5,6,2006,260.073 kms,Viña del Mar,automático,0 km/l,2006 Subaru LEGACY 3.0 4WD 3W AUTO,BLANCO,$ 2.600.000,3,4
-156,Bencina,Valparaíso,5,4,2007,1 kms,Valparaiso,manual,0 km/l,2007 Subaru LEGACY 2.0R 4D MT AWD XA,Plateado Claro,$ 4.750.000,2,4
-157,Bencina,Bío Bío,5,4,2010,88.000 kms,Chillán,automático,0 km/l,2010 Subaru LEGACY 2.5I 4D AWD CVT LIMITED,,$ 5.900.000,2.5,4
-158,Bencina,Metropolitana de Santiago,5,4,2013,105.000 kms,Santiago,automático,"12,3 km/l",2013 Subaru LEGACY 2.0I 4P CVT XS 4WD,verde metalico,$ 7.280.000,2.0,4
-159,Bencina,Metropolitana de Santiago,,,2008,1 kms,Santiago,automático, km/l,2008 Subaru LEGACY 2.0R 4D AUTO AWD XX,Blanco satin,$ 5.300.000,,4
-160,Bencina,Metropolitana de Santiago,,,1997,3.500.000 kms,Santiago,automático, km/l,1997 Subaru LEGACY 2.2 GX AS,Blanco,$ 2.250.000,,5
-161,Bencina,Metropolitana de Santiago,,,2012,110.000 kms,Santiago,automático, km/l,2012 Subaru LEGACY STATION WAGON AWD,Gris ,$ 7.550.000,,4
-162,Bencina,Metropolitana de Santiago,5,4,2010,90.000 kms,Santiago,automático,0 km/l,2010 Subaru LEGACY 2.5I 4D AWD CVT LIMITED,GRIS TITANIO,$ 6.500.000,2.5,4
-163,Bencina,Valparaíso,5,4,2004,190.000 kms,Quillota,automático,0 km/l,2004 Subaru LEGACY 2.0 TW 4WD AT UZ,,$ 3.850.000,2,5
-164,Bencina,Metropolitana de Santiago,,,2015,44.000 kms,Santiago,automático, km/l,2015 Subaru LEGACY 3.6R CVT Limited 4WD,blanco perlado,$ 15.300.000,,4
-165,Bencina,Metropolitana de Santiago,,,2015,47.000 kms,Santiago,automático, km/l,2015 Subaru LEGACY 1 DUEÑO MANTENCIONES All New L,BLANCO,$ 13.980.000,,5
-166,Bencina,Valparaíso,5,4,2010,,Olmué,automático,0 km/l,2010 Subaru LEGACY 2.0I 4P AWD CVT XS,blanco perlado,$ 6.100.000,2,4
-167,Bencina,Metropolitana de Santiago,5,4,2011,90.000 kms,Santiago,automático,0 km/l,2011 Subaru LEGACY 2.5I 4D AWD CVT XA,PLATA,$ 7.000.000,2.5,4
-168,Bencina,Bío Bío,5,4,2010,122.000 kms,Concepcion,automático,0 km/l,2010 Subaru LEGACY 2.0I TW AWD CVT XS,Negro,$ 6.300.000,2,5
-169,Bencina,Valparaíso,5,4,2005,144.000 kms,Viña del Mar,automático,0 km/l,2005 Subaru LEGACY 2.0 TW 4WD AT UA,AZUL ATLANTIC,$ 4.790.000,2,5
-170,Bencina,Metropolitana de Santiago,5,4,2010,93.000 kms,Santiago,automático,0 km/l,2010 Subaru LEGACY 2.0I 4P AWD CVT XS,GRIS PLATA,$ 6.590.000,2,4
-171,Bencina,Metropolitana de Santiago,5,4,2005,159.000 kms,Santiago,automático,0 km/l,2005 Subaru LEGACY 2.0 TW 4WD AT UA,azul metalizado,$ 4.390.000,2,5
-172,Bencina,Metropolitana de Santiago,5,4,2006,155.000 kms,Santiago,manual,0 km/l,2006 Subaru LEGACY 2.0R TW MT AWD XA,,$ 4.580.000,2,5
-173,Bencina,Metropolitana de Santiago,5,4,2013,62.000 kms,Santiago,automático,"12,3 km/l",2013 Subaru LEGACY 2.0I 4P AWD CVT X,Gris ,$ 7.200.000,2.0,4
-174,Bencina,Araucanía,,,1994,196.456 kms,Pitrufquén,manual, km/l,1994 Subaru LEGACY 1.8 DL,Blanco,$ 1.950.000,,4
-175,Bencina,Metropolitana de Santiago,,,2017,27.000 kms,Santiago,automático, km/l,2017 Subaru LEGACY 2.5I CVT XS 4WD,AZUL,$ 11.000.000,,4
-176,Bencina,Araucanía,,,1998,226.000 kms,Temuco,manual, km/l,1998 Subaru LEGACY 2.0 GL,blanco,$ 2.300.000,,5
-177,Bencina,Valparaíso,5,4,2002,265.000 kms,Quilpue,automático,0 km/l,2002 Subaru LEGACY 2.0 AWD GT PA AUTO,Negro opaco,$ 2.000.000,2,4
-178,Bencina,Araucanía,,,2012,77.000 kms,Temuco,automático, km/l,2012 Subaru LEGACY 2.0I 4P CVT XS 4WD,gris,$ 8.300.000,,4
-179,Bencina,Metropolitana de Santiago,,,2008,117.167 kms,Santiago,automático, km/l,2008 Subaru LEGACY AWD 3.0 R Aut,Azul,$ 6.990.000,,4
-180,Bencina,Metropolitana de Santiago,,,2011,100.000 kms,San Bernardo,automático, km/l,2011 Subaru LEGACY 2.0I 4P AWD CVT XS,gris grafito,$ 8.000.000,,4
-181,Bencina,Valparaíso,5,4,2000,219.000 kms,Viña del Mar,automático,0 km/l,2000 Subaru LEGACY 2.0 AWD GX AUTO,BLANCO,$ 3.000.000,2,4
-182,Bencina,Metropolitana de Santiago,5,4,2004,,Melipilla,automático,0 km/l,2004 Subaru LEGACY 2.0 4WD AT UZ,Gris,$ 3.450.000,2,4
-183,Bencina,Araucanía,,,2004,247.000 kms,Angol,automático, km/l,2004 Subaru LEGACY 2.0 AUTOMATICO,GRIS PLATA,$ 4.390.000,,5
-184,Bencina,Metropolitana de Santiago,5,4,2013,69.000 kms,Santiago,automático,"12,3 km/l",2013 Subaru LEGACY 2.0I 4P CVT XS 4WD,,$ 7.390.000,2.0,4
-185,Bencina,Valparaíso,,,2009,92.000 kms,Valparaiso,automático, km/l,2009 Subaru LEGACY 2.0R 4D Auto AWD U,gris oscuro,$ 5.000.000,,4
-186,Bencina,Coquimbo,5,4,2008,131.000 kms,Salamanca,automático,0 km/l,2008 Subaru LEGACY 2.0R 4D AUTO AWD XX,gris metalico,$ 4.800.000,2,4
-187,Bencina,OHiggins,5,4,2008,133.000 kms,Rancagua,automático,0 km/l,2008 Subaru LEGACY 2.0R 4D AUTO AWD UX,Gris,$ 5.000.000,2,4
-188,Bencina,Metropolitana de Santiago,5,4,2017,24.000 kms,Santiago,automático,0 km/l,2017 Subaru LEGACY 2.5I CVT Auto Limited 4WD,Azul Oscuro Per,$ 13.990.000,2.5,4
-189,Bencina,Metropolitana de Santiago,,,1994,179.000 kms,Santiago,automático, km/l,1994 Subaru LEGACY 2.2 I 4wd,,$ 1.400.000,,5
-190,Bencina,Metropolitana de Santiago,5,4,2008,146.000 kms,Santiago,automático,0 km/l,2008 Subaru LEGACY 2.0R 4D AUTO AWD 3S,,$ 5.900.000,2,4
-191,Bencina,Metropolitana de Santiago,,,2003,189.000 kms,Santiago,automático, km/l,2003 Subaru LEGACY 2.0 AT AWD,Plata,$ 3.300.000,,4
-192,Bencina,Metropolitana de Santiago,,,2010,135.000 kms,Santiago,automático, km/l,2010 Subaru Legacy 2.0I 4P AWD CVT XV,Grafito,$ 6.050.000,,4
-193,Bencina,Metropolitana de Santiago,5,4,2012,102.000 kms,Santiago,automático,"12,3 km/l",2012 Subaru LEGACY 2.0I 4P AWD CVT XS,BLANCO,$ 7.680.000,2.0,4
-194,Bencina,Metropolitana de Santiago,,,2013,45.000 kms,Santiago,automático, km/l,2013 Subaru LEGACY FZXB 66,Gris,$ 8.900.000,,4
-195,Bencina,Metropolitana de Santiago,,,2006,190.000 kms,Chicureo,automático, km/l,2006 Subaru LEGACY 2.0R AWD AT-Triptonic 165hp,Gris,$ 3.840.000,,5
-196,Bencina,Metropolitana de Santiago,5,4,2007,82.000 kms,Colina,automático,0 km/l,2007 Subaru LEGACY 2.0R 4D AT AWD XA,blanco invierno,$ 5.980.000,2,4
-197,Bencina,Metropolitana de Santiago,,,2005,128.000 kms,Santiago,automático, km/l,2005 Subaru LEGACY 2.0 automatico,azul,$ 3.700.000,,5
-198,Bencina,Atacama,5,4,2002,131.000 kms,Copiapo,automático,0 km/l,2002 Subaru LEGACY 2.0 AWD GT PA AUTO,Plomo,$ 2.700.000,2,4
-199,Bencina,OHiggins,,,1996,187.000 kms,Rancagua,manual, km/l,1996 Subaru LEGACY 2.0,,$ 2.200.000,,4
-200,Bencina,Araucanía,5,4,2016,41.000 kms,Temuco,automático,0 km/l,2016 Subaru LEGACY 2.5I CVT XS 4WD,Plateado,$ 10.990.000,2.5,4
-201,Bencina,Metropolitana de Santiago,,,2011,94.213 kms,Santiago,automático, km/l,2011 Subaru LEGACY 2.5I AWD Turbo,Gris,$ 9.900.000,,4
-202,Bencina,Bío Bío,,,2013,48.000 kms,Concepcion,automático, km/l,2013 Subaru LEGACY XS AWD 2.0R AUT,Plateado hielo,$ 8.900.000,,5
-203,Bencina,Bío Bío,,,2007,139.000 kms,Concepcion,automático, km/l,2007 Subaru LEGACY 3.0R 4D 5AT AWD,Gris Grafito,$ 6.200.000,,4
-204,Bencina,Metropolitana de Santiago,5,4,2010,120 kms,San Bernardo,automático,0 km/l,2010 Subaru LEGACY 2.5I 4D AWD CVT Sport,Blanco perlado,$ 7.000.000,2.5,4
-205,Bencina,Metropolitana de Santiago,5,4,2006,139.000 kms,Santiago,automático,0 km/l,2006 Subaru LEGACY 2.0R TW AT AWD UA,gris,$ 3.980.000,2,5
-206,Bencina,Metropolitana de Santiago,5,4,2013,1 kms,Santiago,automático,"12,3 km/l",2013 Subaru LEGACY 2.0I 4P CVT XS 4WD,,$ 6.950.000,2.0,4
-207,Bencina,Metropolitana de Santiago,5,4,2013,119.019 kms,Santiago,automático,"12,3 km/l",2013 Subaru LEGACY 2.0I 4P AWD CVT X,BLANCO,$ 6.950.000,2.0,4
-208,Bencina,Metropolitana de Santiago,5,4,2008,106.000 kms,Santiago,automático,0 km/l,2008 Subaru LEGACY 2.0R 4D AUTO AWD UX,PLATA,$ 4.800.000,2,4
-209,Bencina,Araucanía,5,4,2008,160.000 kms,Temuco,automático,0 km/l,2008 Subaru LEGACY 2.0R 4D AUTO AWD 3S,,$ 5.290.000,2,4
-210,Bencina,Los Lagos,,,2010,76.976 kms,Osorno,automático, km/l,2010 Subaru LEGACY 2.0I 4P AWD CVT XV,,$ 6.000.000,,4
-211,Bencina,Valparaíso,,,2014,83.500 kms,Viña del Mar,automático, km/l,2014 Subaru LEGACY 2.5I 4D CVT X-Edition 4WD,Gris,$ 10.800.000,,4
-212,Bencina,Valparaíso,5,4,2004,135.000 kms,Valparaiso,automático,0 km/l,2004 Subaru LEGACY 2.0 4WD AT UZ,,$ 4.050.000,2,4
-213,Bencina,OHiggins,,,1995,200.000 kms,Rengo,manual, km/l,1995 Subaru LEGACY 2.0I 4WD LX,Plata,$ 1.000.000,,5
-214,Bencina,Magallanes y Antártica Chilena,5,4,2010,47.000 kms,Punta Arenas,manual,0 km/l,2010 Subaru LEGACY 2.0I 4P AWD X,PLATEADO ACERO,$ 7.000.000,2,4
-215,Bencina,Metropolitana de Santiago,5,6,2015,47.750 kms,Santiago,automático,0 km/l,2015 Subaru LEGACY 3.6R CVT Limited 4WD,BLANCO CRISTAL ,$ 13.990.000,3.6,4
-216,Bencina,Metropolitana de Santiago,,,2004,180.000 kms,Buin,manual, km/l,2004 Subaru LEGACY 2.0 4WD AT XA,,$ 3.890.000,,4
-217,Bencina,Maule,5,4,2011,93.000 kms,Talca,automático,"12,3 km/l",2011 Subaru LEGACY 2.0I 4P AWD CVT X,GRAFITO,$ 6.980.000,2.0,4
-218,Bencina,Metropolitana de Santiago,,,1998,260.000 kms,Santiago,automático, km/l,1998 Subaru LEGACY 2.0 GL,Burdeo,$ 2.120.000,,4
-219,Bencina,Metropolitana de Santiago,,,2010,150.000 kms,Santiago,automático, km/l,2010 Subaru LEGACY 2.5I 4D AWD CVT LIMITED,Gris Grafito,$ 7.600.000,,4
-220,Bencina,Valparaíso,5,4,2009,107.500 kms,Los Andes,automático,0 km/l,2009 Subaru LEGACY 2.0R 4D Auto AWD 3Q,plata,$ 5.300.000,2,4
-221,Bencina,Los Ríos,,,2011,109.000 kms,Valdivia,automático, km/l,2011 Subaru LEGACY ALL NEW LEGACY 2.0I AWD XS,Gris Grafito Metálic,$ 6.500.000,,4
-222,Bencina,Metropolitana de Santiago,5,6,2007,109.000 kms,Santiago,automático,0 km/l,2007 Subaru LEGACY 3.0R 4D 5AT AWD 3S,Plateado,$ 6.800.000,3,4
-223,Bencina,Metropolitana de Santiago,,,2006,216.000 kms,Santiago,automático, km/l,2006 Subaru LEGACY 2.5i AWD AT,Plateado,$ 5.300.000,,5
-224,Bencina,Bío Bío,5,4,2012,86.000 kms,Concepcion,automático,"12,2 km/l",2012 Subaru LEGACY 2.5I 4D CVT Limited 4WD,GRIS GRAFITO,$ 8.800.000,2.5,4
-225,Bencina,Bío Bío,,,2005,149.540 kms,Bulnes,automático, km/l,2005 Subaru LEGACY 2.0i at awd full,Azul,$ 4.100.000,,4
-226,Bencina,Araucanía,5,4,1998,260.000 kms,Vilcún,manual,0 km/l,1998 Subaru LEGACY 2.0 GL,,$ 2.200.000,2,4
-227,Bencina,Metropolitana de Santiago,,,2004,106.000 kms,Santiago,automático, km/l,2004 Subaru LEGACY 3.0R,BLANCO,$ 6.000.000,,5
-228,Bencina,Metropolitana de Santiago,,,2011,107.000 kms,Santiago,automático, km/l,2011 Subaru NEW LEGACY Station Wagon,Plateado Acero,$ 6.900.000,,5
-229,Bencina,Metropolitana de Santiago,5,4,2012,104.000 kms,Santiago,automático,"12,2 km/l",2012 Subaru LEGACY 2.5I 4D AWD CVT Limited,PLATEADO,$ 7.800.000,2.5,4
-230,Bencina,Metropolitana de Santiago,5,4,2010,145.000 kms,Melipilla,automático,0 km/l,2010 Subaru LEGACY 2.0I 4P AWD CVT XV,Gris,$ 5.900.000,2,4
-231,Bencina,Metropolitana de Santiago,,,1996,,Santiago,automático, km/l,1996 Subaru LEGACY Subaru Legacy station wagon,Gris grafito,$ 1.400.000,,5
-232,Bencina,Bío Bío,5,4,2011,128.000 kms,Concepcion,automático,"12,3 km/l",2011 Subaru LEGACY 2.0I 4P AWD CVT XS,,$ 6.290.000,2.0,4
-233,Bencina,Metropolitana de Santiago,,,1998,195.000 kms,Santiago,automático, km/l,1998 Subaru LEGACY 2.0 GL AWD,Gris,$ 2.150.000,,5
-234,Bencina,Los Lagos,,,2011,71.000 kms,Osorno,manual, km/l,2011 Subaru LEGACY 2.0IAWD,plateado metali,$ 7.500.000,,5
-235,Bencina,Metropolitana de Santiago,,,1999,190.000 kms,Santiago,manual, km/l,1999 Subaru LEGACY 2.0 GL,Verde,$ 2.200.000,,5
-236,Bencina,Los Ríos,,,1987,,San José de la Mariquina,manual, km/l,1987 Subaru LEGACY Subaru legacy 4x4,Azul,$ 1.200.000,,5
-237,Bencina,Metropolitana de Santiago,5,4,1998,250.000 kms,Santiago,automático,0 km/l,1998 Subaru LEGACY 2.0 GL AUTO,verde mica,$ 2.150.000,2,4
-238,Bencina,Los Lagos,,,2003,167.000 kms,Puerto Varas,automático, km/l,2003 Subaru LEGACY 2.0 TW AWD GT PA AT,GRIS,$ 3.490.000,,5
-239,Bencina,Metropolitana de Santiago,,,1996,210.000 kms,Santiago,manual, km/l,1996 Subaru LEGACY Sedan,Verde,$ 1.650.000,,5
-240,Bencina,Araucanía,,,2008,119.000 kms,Temuco,automático, km/l,2008 Subaru LEGACY 2.0R 4D AUTO AWD XX,GRIS OSCURO,$ 5.000.000,,4
-241,Bencina,Valparaíso,,,2006,213.000 kms,Viña del Mar,automático, km/l,2006 Subaru LEGACY Automatico ,Palteado,$ 4.380.000,,5
-242,Bencina,Metropolitana de Santiago,,,1997,228.688 kms,Santiago,automático, km/l,1997 Subaru LEGACY 2.0 I,VERDE OSCURO,$ 1.980.000,,5
-243,Bencina,Metropolitana de Santiago,,,1993,200.000 kms,Santiago,automático, km/l,1993 Subaru LEGACY 4wd2.2i,,$ 1.450.000,,5
-244,Bencina,Metropolitana de Santiago,,,2012,120.874 kms,Santiago,automático, km/l,2012 Subaru LEGACY 2.5I 4D AWD CVT Limited,Azul,$ 6.990.000,,4
-245,Bencina,Valparaíso,,,1994,138.000 kms,Villa Alemana,automático, km/l,1994 Subaru LEGACY 2.0 VZ,Celeste,$ 1.700.000,,4
-246,Bencina,Metropolitana de Santiago,5,4,2001,230.000 kms,Melipilla,automático,0 km/l,2001 Subaru LEGACY 2.0 AWD GT PA AUTO,Gris,$ 2.600.000,2,4
-247,Bencina,Metropolitana de Santiago,,,2016,55.000 kms,Peñaflor,automático, km/l,2016 Subaru LEGACY 2.5I CVT Premium 4WD,Gris Claro Met,$ 12.950.000,,4
-248,Bencina,Los Ríos,,,2010,121.000 kms,Valdivia,automático, km/l,2010 Subaru ALL NEW LEGACY IMPECABLE LIQUIDO,Gris grafito,$ 6.150.000,,4
-249,Bencina,Araucanía,5,4,2008,115.280 kms,Temuco,automático,0 km/l,2008 Subaru LEGACY 2.0R 4D AUTO AWD 3S,Perla,$ 5.000.000,2,4
-250,Bencina,Valparaíso,,,2005,127.000 kms,Valparaiso,automático, km/l,2005 Subaru LEGACY Gt limited Turbo,Gris plata,$ 5.590.000,,4
-251,Bencina,Metropolitana de Santiago,5,4,2013,55.000 kms,Santiago,automático,"12,3 km/l",2013 Subaru LEGACY 2.0I TW CVT XS 4WD,blanco,$ 7.990.000,2.0,5
-252,Bencina,Araucanía,5,4,2009,139.000 kms,Temuco,automático,0 km/l,2009 Subaru LEGACY 2.5I Auto 3S Limited,BEIGE,$ 6.290.000,2.5,4
-253,Bencina,Valparaíso,,,1999,50.000 kms,Viña del Mar,manual, km/l,1999 Subaru LEGACY B4,,$ 5.000.000,,4
-254,Bencina,Araucanía,,,2009,106.541 kms,Pucon,automático, km/l,2009 Subaru LEGACY 2.0R 4D Auto AWD U,,$ 5.600.000,,4
-255,Bencina,Valparaíso,5,4,2001,,Quilpue,manual,0 km/l,2001 Subaru LEGACY 2.0 AWD GE,,$ 3.250.000,2,4
-256,Bencina,Metropolitana de Santiago,,,2008,145.000 kms,Santiago,manual, km/l,2008 Subaru LEGACY 2.0R 4D AUTO AWD,Blanco Satin,$ 5.000.000,,4
-257,Bencina,Metropolitana de Santiago,,,2005,117.000 kms,Santiago,automático, km/l,2005 Subaru LEGACY LEGACY 2.5 AWD AT,azul atlantico,$ 5.000.000,,5
-258,Bencina,Metropolitana de Santiago,,,2010,138.000 kms,Santiago,automático, km/l,2010 Subaru LEGACY All New Legacy 2.5i AWD Sport,Gris,$ 5.650.000,,4
-259,Bencina,Metropolitana de Santiago,,,1995,243.000 kms,Santiago,automático, km/l,1995 Subaru LEGACY GL,Verde Grisaseo,$ 1.500.000,,4
-260,Bencina,Metropolitana de Santiago,,,1997,,Santiago,manual, km/l,1997 Subaru LEGACY Gl,Blanco,$ 1.700.000,,5
-261,Bencina,Metropolitana de Santiago,,,2006,1 kms,Santiago,automático, km/l,2006 Subaru LEGACY 2.0R AWD AT,PLATA,$ 4.190.000,,0
-262,Bencina,Valparaíso,,,2014,100.000 kms,Quilpue,automático, km/l,2014 Subaru LEGACY 2.0I 4P CVT XS 4WD,GRIS OSCURO,$ 8.200.000,,4
-263,Bencina,Metropolitana de Santiago,5,4,2007,106.000 kms,Santiago,automático,0 km/l,2007 Subaru LEGACY 2.0R 4D AT AWD XA,BLANCO PERLA,$ 5.500.000,2,4
-264,Bencina,Metropolitana de Santiago,5,4,2008,170.000 kms,Santiago,automático,0 km/l,2008 Subaru LEGACY 2.0R 4D AUTO AWD 3S,blanco,$ 4.700.000,2,4
-265,Bencina,Metropolitana de Santiago,,,2001,408.644 kms,Santiago,automático, km/l,2001 Subaru LEGACY 2.0 AWD GE TW,Plateado,$ 2.700.000,,5
-266,Bencina,Valparaíso,,,2000,240.000 kms,Viña del Mar,automático, km/l,2000 Subaru LEGACY IMPECABLE FULL AIRE LLANTAS,Blanco,$ 2.945.000,,4
-267,Bencina,Maule,,,2009,151.000 kms,Talca,automático, km/l,2009 Subaru LEGACY 2.0R AWD AUT,Plateado,$ 5.800.000,,5
-268,Bencina,Metropolitana de Santiago,,,2015,38.000 kms,Santiago,automático, km/l,2015 Subaru LEGACY All New Legacy AWD CVT 2.5I,Blanco Cristal Perla,$ 12.900.000,,4
-269,Bencina,Araucanía,,,2007,,Victoria,automático, km/l,2007 Subaru LEGACY 3.0R 4D 5AT AWD 3S,Gris Diamante,$ 7.200.000,,4
-270,Bencina,Metropolitana de Santiago,5,4,2013,45.000 kms,Santiago,automático,"12,3 km/l",2013 Subaru LEGACY 2.0I 4P CVT XS 4WD,Verde grisaceo metal,$ 8.290.000,2.0,4
-271,Bencina,Maule,5,4,2002,,Constitucion,automático,0 km/l,2002 Subaru LEGACY 2.0 AWD GT PA AUTO,,$ 3.690.000,2,4
-272,Bencina,Metropolitana de Santiago,5,4,2012,83.000 kms,Santiago,automático,"12,3 km/l",2012 Subaru LEGACY 2.0I 4P AWD CVT XS,Gris plata,$ 7.990.000,2.0,4
-273,Bencina,Araucanía,,,2012,81.664 kms,Temuco,automático, km/l,2012 Subaru LEGACY ALL NEW LEGACY AWD 2.OI AUT.,CELESTE,$ 7.500.000,,4
-274,Bencina,Metropolitana de Santiago,5,4,2000,250.000 kms,San Bernardo,automático,0 km/l,2000 Subaru LEGACY 2.0 AWD GX AUTO,Beige,$ 2.890.000,2,4
-275,Bencina,Maule,,,1997,11.111 kms,Linares,manual, km/l,1997 Subaru LEGACY 1.1,blanco,$ 1.850.000,,5
-276,Bencina,Valparaíso,,,1996,,San Antonio,manual, km/l,1996 Subaru LEGACY Motor 2.0,Azul eléctrico,$ 1.600.000,,5
-277,Bencina,Metropolitana de Santiago,,,1992,150.000 kms,Santiago,automático, km/l,1992 Subaru LEGACY 1.8 FULL,BLANCO,$ 1.290.000,,5
-278,Bencina,Metropolitana de Santiago,,,2006,,Santiago,automático, km/l,2006 Subaru LEGACY 2.0R AWD AT,,$ 4.980.000,,4
-279,Bencina,Atacama,,,2012,53.500 kms,Copiapo,automático, km/l,2012 Subaru LEGACY 2.0i 4D AWD CVT XS FT,Plateado acero,$ 7.500.000,,4
-280,Bencina,Metropolitana de Santiago,,,2006,131.000 kms,Santiago,automático, km/l,2006 Subaru LEGACY 2.0R AT,Gris,$ 4.250.000,,5
-281,Bencina,Valparaíso,5,4,2011,105.000 kms,La Ligua,manual,"11,6 km/l",2011 Subaru LEGACY 2.0I 4P AWD X,plateado,$ 6.890.000,2.0,4
-282,Bencina,Metropolitana de Santiago,5,4,2001,172.768 kms,Santiago,automático,0 km/l,2001 Subaru LEGACY 2.0 AWD GX AUTO TW,Blanco,$ 3.000.000,2,5
-283,Bencina,Metropolitana de Santiago,5,4,2011,62.000 kms,Santiago,manual,"11,6 km/l",2011 Subaru LEGACY 2.0I 4P AWD X,PLATEADO,$ 4.770.000,2.0,4
-284,Bencina,Metropolitana de Santiago,5,4,2007,112.215 kms,Santiago,automático,0 km/l,2007 Subaru LEGACY 2.0R 4D AT AWD XA,,$ 4.990.000,2,4
-285,Bencina,Los Lagos,5,4,2004,170.000 kms,Osorno,automático,0 km/l,2004 Subaru LEGACY 2.0 4WD AT XA,GRIS,$ 3.800.000,2,4
-286,Bencina,Bío Bío,5,4,2011,96.000 kms,Concepcion,automático,"12,3 km/l",2011 Subaru LEGACY 2.0I 4P AWD CVT XS,GRAFITO,$ 6.990.000,2.0,4
-287,Bencina,Valparaíso,5,4,1998,163.000 kms,Viña del Mar,manual,0 km/l,1998 Subaru LEGACY 2.0 LX AWD,Gris Opal,$ 2.100.000,2,5
-288,Bencina,Bío Bío,,,2005,137.000 kms,Chillán,automático, km/l,2005 Subaru LEGACY AWD 2.0 AT,Plateado,$ 4.600.000,,5
-289,Bencina,Metropolitana de Santiago,,,2009,141.200 kms,Santiago,automático, km/l,2009 Subaru LEGACY 2.5R 4WD LIMITED,azul metalico,$ 6.390.000,,4
-290,Bencina,Metropolitana de Santiago,,,2009,125.000 kms,Santiago,automático, km/l,2009 Subaru LEGACY 3.0R 4D 5Auto AWD 3MS,Negro Obsidiana,$ 7.700.000,,4
-291,Bencina,Araucanía,5,4,2014,80.000 kms,Pitrufquén,automático,0 km/l,2014 Subaru LEGACY 2.0I 4P CVT XS 4WD,Negro,$ 10.500.000,2.0,4
-292,Bencina,Valparaíso,,,2011,115.000 kms,Viña del Mar,manual, km/l,2011 Subaru LEGACY 2.0X 5AWD TW AT5P,,$ 5.800.000,,5
-293,Bencina,Metropolitana de Santiago,5,4,2017,11.500 kms,Santiago,automático,0 km/l,2017 Subaru LEGACY 2.5I CVT Auto XS 4WD,PLATEADO HIELO ,$ 15.300.000,2.5,4
-294,Bencina,OHiggins,5,4,1998,210.000 kms,San Fernando,manual,0 km/l,1998 Subaru LEGACY 2.0 GL,,$ 2.300.000,2,4
-295,Bencina,Maule,,,2000,,Linares,automático, km/l,2000 Subaru LEGACY 2.0 AWD GE TW,Verde,$ 2.700.000,,5
-296,Bencina,Metropolitana de Santiago,,,2005,123.000 kms,Santiago,manual, km/l,2005 Subaru LEGACY 3.0 spec b mecanico,Gris,$ 5.980.000,,4
+,Región,Consumo de combustible (combinado),Ciudad,Kilometraje,Color Exterior,Transmisión,Vehículo,Combustible,Anho,Precio,Puertas,Litros (motor),Cilindros,Pasajeros
+0,Araucanía, km/l,Temuco,235.000 kms,Verde,manual,1997 Subaru LEGACY LX,Bencina,1997,$ 2.400.000,4,,,
+1,Metropolitana de Santiago,0 km/l,Peñaflor,311.000 kms,Verde,manual,1998 Subaru LEGACY 2.0 GL,Bencina,1998,$ 1.800.000,4,2,4,5
+2,Metropolitana de Santiago,"12,3 km/l",Santiago,,Negro,automático,2013 Subaru LEGACY 2.0I 4P AWD CVT X,Bencina,2013,$ 8.490.000,4,2.0,4,5
+3,Metropolitana de Santiago, km/l,Santiago,117.800 kms,Blanco perlado,automático,2009 Subaru LEGACY LEGACY 2.0R AWD,Bencina,2009,$ 4.800.000,5,,,
+4,Metropolitana de Santiago,0 km/l,Isla de Maipo,135.000 kms,,automático,2010 Subaru LEGACY 2.5I 4D AWD CVT LIMITED,Bencina,2010,$ 7.000.000,4,2.5,4,5
+5,Metropolitana de Santiago,0 km/l,Santiago,,Blanco ,automático,2010 Subaru LEGACY 2.0I 4P AWD CVT X,Bencina,2010,$ 5.650.000,4,2,4,5
+6,Metropolitana de Santiago, km/l,Santiago,280.000 kms,BLANCO,automático,1997 Subaru LEGACY 2.0I GL AT AS,Bencina,1997,$ 1.300.000,5,,,
+7,Metropolitana de Santiago,0 km/l,Santiago,57.805 kms,GRIS GRAFITO ME,automático,2010 Subaru LEGACY 2.0I 4P AWD CVT XS,Bencina,2010,$ 7.800.000,4,2,4,5
+8,Metropolitana de Santiago, km/l,Santiago,51.000 kms,Blanco,automático,2014 Subaru LEGACY 2.5I 4D CVT X-Edition 4WD,Bencina,2014,$ 11.490.000,4,,,
+9,Metropolitana de Santiago, km/l,Santiago,177.000 kms,Plata,automático,2009 Subaru LEGACY 2.0R 4D Auto AWD U,Bencina,2009,$ 5.100.000,4,,,
+10,Metropolitana de Santiago, km/l,Santiago,91.000 kms,gris grafito ,automático,2012 Subaru LEGACY 2.5I 4D AWD CVT Limited,Bencina,2012,$ 8.600.000,4,,,
+11,Metropolitana de Santiago,"12,3 km/l",Santiago,58.000 kms,verde grisaceo,automático,2013 Subaru LEGACY 2.0I 4P CVT XS 4WD,Bencina,2013,$ 8.700.000,4,2.0,4,5
+12,Metropolitana de Santiago,12 km/l,Santiago,95.000 kms,GRIS GRAFITO,automático,2014 Subaru LEGACY 2.5I 4D CVT X-Edition 4WD,Bencina,2014,$ 10.490.000,4,2.5,4,5
+13,Metropolitana de Santiago,"12,3 km/l",Santiago,59.000 kms,Blanco,automático,2012 Subaru LEGACY 2.0I 4P AWD CVT XS,Bencina,2012,$ 6.890.000,4,2.0,4,5
+14,Los Ríos,0 km/l,Lanco,184.000 kms,Plateado,automático,1998 Subaru LEGACY 2.0 GL AUTO,Bencina,1998,$ 1.800.000,5,2,4,5
+15,Metropolitana de Santiago,0 km/l,Santiago,47.750 kms,,automático,2015 Subaru LEGACY 3.6R CVT Limited 4WD,Bencina,2015,$ 13.690.000,4,3.6,6,5
+16,OHiggins, km/l,San Vicente de Tagua Tagua,11.111 kms,Burdeo,automático,1997 Subaru LEGACY 2.0,Bencina,1997,$ 1.100.000,5,,,
+17,Bío Bío, km/l,Concepcion,260.000 kms,,manual,2008 Subaru LEGACY 2.0 R AWD Manual,Bencina,2008,$ 4.900.000,0,,,
+18,Valparaíso, km/l,Viña del Mar,235.000 kms,blanco,automático,2001 Subaru LEGACY 2.0 AWD GE TW,Bencina,2001,$ 2.700.000,5,,,
+19,Atacama,0 km/l,Copiapo,98.550 kms,Gris plata,automático,2007 Subaru LEGACY 2.0R 4D AT AWD 3L,Bencina,2007,$ 5.400.000,4,2,4,5
+20,Los Ríos, km/l,Valdivia,112.000 kms,Gris Grafito Metálic,automático,2011 Subaru LEGACY ALL NEW LEGACY 2.0I AWD XS,Bencina,2011,$ 6.900.000,4,,,
+21,Los Lagos,0 km/l,Río Negro,257.000 kms,Verde,manual,1998 Subaru LEGACY 2.0 LX,Bencina,1998,$ 2.400.000,4,2,4,5
+22,Metropolitana de Santiago,0 km/l,Santiago,100.000 kms,Blanco ,automático,2008 Subaru LEGACY 2.0R 4D AUTO AWD 3S,Bencina,2008,$ 4.280.000,4,2,4,5
+23,Maule,0 km/l,Cauquenes,243.000 kms,Blanco,automático,2002 Subaru LEGACY 2.0 AWD GT PA AUTO,Bencina,2002,$ 3.200.000,4,2,4,5
+24,Coquimbo,"12,2 km/l",Coquimbo,120.000 kms,,automático,2013 Subaru LEGACY 2.5I 4D CVT Limited 4WD,Bencina,2013,$ 8.990.000,4,2.5,4,5
+25,OHiggins, km/l,San Fernando,181.000 kms,Blanco,manual,1997 Subaru LEGACY Lx,Bencina,1997,$ 2.000.000,4,,,
+26,Metropolitana de Santiago, km/l,San Bernardo,120 kms,Blanco perlado,automático,2010 Subaru LEGACY 2.5I 4D AWD CVT Sport,Bencina,2010,$ 7.000.000,4,,,
+27,Metropolitana de Santiago,0 km/l,Santiago,61.000 kms,GRIS GRAFITO,automático,2014 Subaru LEGACY 2.0I 4P CVT XS 4WD,Bencina,2014,$ 8.490.000,4,2.0,4,5
+28,Metropolitana de Santiago, km/l,Santiago,216.000 kms,Plateado,automático,2006 Subaru LEGACY 2.5i AWD AT,Bencina,2006,$ 4.990.000,5,,,
+29,Valparaíso, km/l,Villa Alemana,,Rojo,manual,1992 Subaru LEGACY sedan,Bencina,1992,$ 1.600.000,5,,,
+30,Metropolitana de Santiago,"9,4 km/l",Santiago,101.000 kms,Gris Grafito Metaliz,automático,2011 Subaru LEGACY 2.5GT 4P AWD Auto SI Drive,Bencina,2011,$ 9.300.000,4,2.5,4,5
+31,Araucanía,0 km/l,Temuco,160.000 kms,,automático,2008 Subaru LEGACY 2.0R 4D AUTO AWD 3S,Bencina,2008,$ 5.290.000,4,2,4,5
+32,Metropolitana de Santiago, km/l,Santiago,260.000 kms,Verde,automático,1998 Subaru LEGACY 2.0 GL,Bencina,1998,$ 2.450.000,5,,,
+33,Valparaíso,0 km/l,Viña del Mar,153.000 kms,GRIS,automático,2008 Subaru LEGACY 2.0R TW AUTO AWD UX,Bencina,2008,$ 4.950.000,5,2,4,5
+34,Metropolitana de Santiago,0 km/l,Santiago,25.000 kms,AZUL ,automático,2014 Subaru LEGACY 2.0I 4P CVT XS 4WD,Bencina,2014,$ 3.450.000,4,2.0,4,5
+35,Valparaíso,0 km/l,San Felipe,108.000 kms,,automático,2009 Subaru LEGACY 2.0R 4D Auto AWD 3Q,Bencina,2009,$ 5.800.000,4,2,4,5
+36,Metropolitana de Santiago, km/l,Peñaflor,123.000 kms,,automático,2005 Subaru LEGACY 3.0R AWD,Bencina,2005,$ 4.700.000,0,,,
+37,OHiggins, km/l,Nancagua,,,manual,1995 Subaru LEGACY gl,Bencina,1995,$ 2.450.000,4,,,
+38,Metropolitana de Santiago,0 km/l,Santiago,90.000 kms,,automático,2008 Subaru LEGACY 3.0R 4D 5AUTO AWD 3M,Bencina,2008,$ 2.500.000,4,3,6,5
+39,Metropolitana de Santiago,0 km/l,Santiago,195.000 kms,azul,automático,2009 Subaru LEGACY 2.0R 4D AUTO AWD U,Bencina,2009,$ 4.650.000,4,2,4,5
+40,Araucanía,0 km/l,Temuco,137.000 kms,Beige,automático,2009 Subaru LEGACY 2.5I Auto 3S Limited,Bencina,2009,$ 6.290.000,4,2.5,4,5
+41,Metropolitana de Santiago, km/l,Santiago,243.000 kms,Verde Grisaseo,automático,1995 Subaru LEGACY GL,Bencina,1995,$ 1.500.000,4,,,
+42,OHiggins,"12,3 km/l",Rancagua,90.000 kms,gris grafito,automático,2012 Subaru LEGACY 2.0I 4P AWD CVT XS,Bencina,2012,$ 7.800.000,4,2.0,4,5
+43,OHiggins,0 km/l,Rancagua,136.000 kms,,automático,2009 Subaru LEGACY 2.5I Auto 3S Limited,Bencina,2009,$ 6.300.000,4,2.5,4,5
+44,Maule,0 km/l,Cauquenes,200.000 kms,,manual,1999 Subaru LEGACY 2.0 AWD GE,Bencina,1999,$ 2.900.000,4,2,4,5
+45,Valparaíso,0 km/l,Valparaiso,189.000 kms,,manual,1999 Subaru LEGACY 2.0 AWD GE,Bencina,1999,$ 3.200.000,4,2,4,5
+46,Metropolitana de Santiago, km/l,Buin,180.000 kms,,manual,2004 Subaru LEGACY 2.0 4WD AT XA,Bencina,2004,$ 3.890.000,4,,,
+47,Valparaíso,0 km/l,Viña del Mar,240 kms,,automático,2005 Subaru LEGACY 2.0 TW 4WD AT XA,Bencina,2005,$ 3.600.000,5,2,4,5
+48,Valparaíso, km/l,Quilpue,100.000 kms,GRIS OSCURO,automático,2014 Subaru LEGACY 2.0I 4P CVT XS 4WD,Bencina,2014,$ 8.200.000,4,,,
+49,Bío Bío, km/l,Concepcion,117.000 kms,,automático,2009 Subaru LEGACY 2.5I AUTO 3S LIMITED,Bencina,2009,$ 6.000.000,4,,,
+50,Metropolitana de Santiago, km/l,Santiago,107.000 kms,Plateado Acero,automático,2011 Subaru NEW LEGACY Station Wagon,Bencina,2011,$ 6.900.000,5,,,
+51,Metropolitana de Santiago, km/l,Santiago,155.000 kms,Blanco,automático,2008 Subaru LEGACY 2.0R 4D AUTO AWD XX,Bencina,2008,$ 5.400.000,4,,,
+52,Metropolitana de Santiago,"12,3 km/l",Santiago,45.000 kms,Verde grisaceo metal,automático,2013 Subaru LEGACY 2.0I 4P CVT XS 4WD,Bencina,2013,$ 8.290.000,4,2.0,4,5
+53,Metropolitana de Santiago, km/l,Santiago,14.541 kms,PLATEADO,automático,2017 Subaru LEGACY 2.5I ALL NEW LEGACY AWD AUT,Bencina,2017,$ 15.700.000,5,,,
+54,Araucanía,12 km/l,Temuco,60.320 kms,GRIS OSCURO,automático,2015 Subaru LEGACY 2.5I 4D CVT X-Edition 4WD,Bencina,2015,$ 12.990.000,4,2.5,4,5
+55,Metropolitana de Santiago,0 km/l,Santiago,20.000 kms,PLATEADO,automático,2004 Subaru LEGACY 2.0 4WD AT UZ,Bencina,2004,$ 3.000.000,4,2,4,5
+56,Metropolitana de Santiago, km/l,Santiago,120.874 kms,Azul,automático,2012 Subaru LEGACY 2.5I 4D AWD CVT Limited,Bencina,2012,$ 6.990.000,4,,,
+57,Metropolitana de Santiago, km/l,Santiago,195.000 kms,Gris,automático,1998 Subaru LEGACY 2.0 GL AWD,Bencina,1998,$ 2.150.000,5,,,
+58,Metropolitana de Santiago, km/l,Santiago,190.000 kms,Verde,manual,1999 Subaru LEGACY 2.0 GL,Bencina,1999,$ 2.200.000,5,,,
+59,Metropolitana de Santiago,0 km/l,Santiago,250.000 kms,verde mica,automático,1998 Subaru LEGACY 2.0 GL AUTO,Bencina,1998,$ 2.150.000,4,2,4,5
+60,Metropolitana de Santiago, km/l,Santiago,123.000 kms,Gris,manual,2005 Subaru LEGACY 3.0 spec b mecanico,Bencina,2005,$ 5.980.000,4,,,
+61,Valparaíso, km/l,Viña del Mar,200.000 kms,Gris,manual,1992 Subaru LEGACY GLX 1.6,Bencina,1992,$ 980.000,4,,,
+62,OHiggins, km/l,Peumo,,Gris,manual,1990 Subaru LEGACY Legacy,Bencina,1990,$ 950.000,5,,,
+63,Valparaíso, km/l,Viña del Mar,105.000 kms,,manual,2007 Subaru LEGACY 2.0r,Bencina,2007,$ 4.600.000,5,,,
+64,Araucanía, km/l,Villarrica,288.000 kms,azul mica,automático,1995 Subaru LEGACY glx 2.0 4x4.,Bencina,1995,$ 1.200.000,5,,,
+65,Metropolitana de Santiago,0 km/l,Santiago,26.000 kms,Blanco,automático,2017 Subaru LEGACY 2.5I CVT Auto Premium 4WD,Bencina,2017,$ 15.600.000,4,2.5,4,5
+66,Metropolitana de Santiago,"9,4 km/l",Santiago,98.000 kms,PLATA,automático,2011 Subaru LEGACY 2.5GT 4P AWD Auto SI Drive,Bencina,2011,$ 7.250.000,4,2.5,4,5
+67,Bío Bío, km/l,Concepcion,86.500 kms,,manual,2008 Subaru LEGACY 2.0R TW AWD XX,Bencina,2008,$ 5.800.000,4,,,
+68,Metropolitana de Santiago, km/l,Santiago,81.000 kms,Grafito ,automático,2011 Subaru LEGACY LIMITED 2.5 4X4 UNICO DUENO MA,Bencina,2011,$ 7.480.000,4,,,
+69,Araucanía,0 km/l,Angol,196 kms,,automático,2008 Subaru LEGACY 2.0R 4D AUTO AWD XX,Bencina,2008,$ 5.000.000,4,2,4,5
+70,Metropolitana de Santiago, km/l,Santiago,66.482 kms,GRIS OSCURO METALICO,manual,2016 Subaru LEGACY 2.5I CVT Limited 4WD,Bencina,2016,$ 3.600.000,0,,,
+71,Metropolitana de Santiago, km/l,Santiago,78.180 kms,PLATEADO HIELO CLARO,manual,2016 Subaru LEGACY 2.5I CVT Limited 4WD,Bencina,2016,$ 3.600.000,4,,,
+72,Metropolitana de Santiago, km/l,Santiago,94.188 kms,BLANCO CRISTAL PERLADO,manual,2016 Subaru LEGACY 2.5I CVT XS 4WD,Bencina,2016,$ 3.600.000,4,,,
+73,Metropolitana de Santiago,0 km/l,Santiago,51.598 kms,Plateado,automático,2008 Subaru LEGACY 2.0R 4D AUTO AWD 3S,Bencina,2008,$ 5.790.000,4,2,4,5
+74,Metropolitana de Santiago,12 km/l,Santiago,68.000 kms,AZUL,automático,2014 Subaru LEGACY 2.5I 4D CVT X-Edition 4WD,Bencina,2014,$ 12.450.000,4,2.5,4,5
+75,Metropolitana de Santiago, km/l,Santiago,200.000 kms,,automático,1993 Subaru LEGACY 4wd2.2i,Bencina,1993,$ 1.450.000,5,,,
+76,Metropolitana de Santiago,"12,3 km/l",Santiago,65.000 kms,GRAFITO,automático,2013 Subaru LEGACY 2.0I 4P CVT XS 4WD,Bencina,2013,$ 7.980.000,4,2.0,4,5
+77,Metropolitana de Santiago,0 km/l,Santiago,94.000 kms,GRAFITO,automático,2007 Subaru LEGACY 2.0R 4D AT AWD 3L,Bencina,2007,$ 5.480.000,4,2,4,5
+78,Metropolitana de Santiago,0 km/l,Santiago,228.688 kms,VERDE OSCURO,automático,1997 Subaru LEGACY 2.5 LSI,Bencina,1997,$ 1.980.000,5,2.5,4,5
+79,Metropolitana de Santiago,0 km/l,Santiago,168.000 kms,AZUL MET,automático,2007 Subaru LEGACY 2.0R TW AT AWD UA,Bencina,2007,$ 3.990.000,5,2,4,5
+80,Araucanía,0 km/l,Victoria,142.000 kms,,automático,2007 Subaru LEGACY 2.0R 4D AT AWD UA,Bencina,2007,$ 5.150.000,4,2,4,5
+81,Los Lagos,0 km/l,Osorno,170.000 kms,GRIS,automático,2004 Subaru LEGACY 2.0 4WD AT XA,Bencina,2004,$ 3.800.000,4,2,4,5
+82,Metropolitana de Santiago, km/l,Santiago,150.000 kms,Gris Grafito,automático,2010 Subaru LEGACY 2.5I 4D AWD CVT LIMITED,Bencina,2010,$ 7.500.000,4,,,
+83,Metropolitana de Santiago, km/l,Santiago,147.900 kms,Verde Oscuro,automático,2004 Subaru LEGACY 2.0i 4D AWD AT XA,Bencina,2004,$ 3.500.000,4,,,
+84,Metropolitana de Santiago, km/l,Pirque,,Blanco,manual,1993 Subaru LEGACY Station,Bencina,1993,$ 1.000.000,5,,,
+85,Metropolitana de Santiago, km/l,Santiago,163.000 kms,Grafito,automático,2006 Subaru LEGACY AWD ,Bencina,2006,$ 4.390.000,4,,,
+86,Valparaíso,0 km/l,Quilpue,,,manual,2001 Subaru LEGACY 2.0 AWD GE,Bencina,2001,$ 3.250.000,4,2,4,5
+87,Metropolitana de Santiago, km/l,Santiago,93.000 kms,,automático,2012 Subaru LEGACY 2.0I 4P AWD CVT XS,Bencina,2012,$ 6.500.000,4,,,
+88,Valparaíso,0 km/l,Viña del Mar,219.000 kms,BLANCO,automático,2000 Subaru LEGACY 2.0 AWD GX AUTO,Bencina,2000,$ 3.000.000,4,2,4,5
+89,Metropolitana de Santiago,0 km/l,Santiago,124.000 kms,Blanco perlado,manual,2009 Subaru LEGACY 2.0R 4D AWD X,Bencina,2009,$ 5.200.000,4,2,4,5
+90,Valparaíso, km/l,Viña del Mar,84.748 kms,Gris,automático,2014 Subaru LEGACY 2.5I 4D CVT X-Edition 4WD,Bencina,2014,$ 10.000.000,4,,,
+91,Maule,0 km/l,Constitucion,,,automático,2002 Subaru LEGACY 2.0 AWD GT PA AUTO,Bencina,2002,$ 3.690.000,4,2,4,5
+92,Metropolitana de Santiago,0 km/l,Santiago,148.500 kms,GRIS PLATA,manual,2000 Subaru LEGACY 2.0 AWD GE,Bencina,2000,$ 2.290.000,4,2,4,5
+93,Metropolitana de Santiago, km/l,Santiago,200.880 kms,GRIS,manual,2007 Subaru LEGACY 2.0R 4D MT AWD XA,Bencina,2007,$ 4.500.000,4,,,
+94,Metropolitana de Santiago,0 km/l,San Bernardo,250.000 kms,Beige,automático,2000 Subaru LEGACY 2.0 AWD GX AUTO,Bencina,2000,$ 2.890.000,4,2,4,5
+95,Bío Bío,0 km/l,Concepcion,146.000 kms,gris,automático,2006 Subaru LEGACY 2.0 4WD AT UA,Bencina,2006,$ 4.200.000,4,2,4,5
+96,Araucanía,0 km/l,Pitrufquén,80.000 kms,Negro,automático,2014 Subaru LEGACY 2.0I 4P CVT XS 4WD,Bencina,2014,$ 10.500.000,4,2.0,4,5
+97,Metropolitana de Santiago,0 km/l,Santiago,,,automático,2016 Subaru LEGACY 2.5I CVT XS 4WD,Bencina,2016,$ 10.390.000,4,2.5,4,5
+98,Maule,0 km/l,Curico,160.000 kms,,automático,2006 Subaru LEGACY 2.0 4WD AT UA,Bencina,2006,$ 4.500.000,4,2,4,5
+99,Metropolitana de Santiago, km/l,Santiago,17.672 kms,GRIS OSCURO,automático,2015 Subaru LEGACY LTD AWD 2.5I AUT,Bencina,2015,$ 13.780.000,4,,,
+100,Bío Bío, km/l,Bulnes,120.000 kms,Gris,automático,2008 Subaru LEGACY 2.0R 4D AWD XX,Bencina,2008,$ 5.100.000,4,,,
+101,OHiggins,0 km/l,San Fernando,210.000 kms,,manual,1998 Subaru LEGACY 2.0 GL,Bencina,1998,$ 2.400.000,4,2,4,5
+102,Maule, km/l,Talca,290.000 kms,BLANCO,automático,2002 Subaru LEGACY 2.0 AWD GT AT PA,Bencina,2002,$ 2.300.000,5,,,
+103,Valparaíso, km/l,Viña del Mar,240.000 kms,Blanco,automático,2000 Subaru LEGACY IMPECABLE FULL AIRE LLANTAS,Bencina,2000,$ 2.945.000,4,,,
+104,Araucanía, km/l,Temuco,81.803 kms,CELESTE,automático,2012 Subaru LEGACY ALL NEW LEGACY AWD 2.OI AUT.,Bencina,2012,$ 7.500.000,4,,,
+105,Bío Bío,"12,3 km/l",Concepcion,139.000 kms,,automático,2011 Subaru LEGACY 2.0I 4P AWD CVT X,Bencina,2011,$ 6.290.000,4,2.0,4,5
+106,Metropolitana de Santiago, km/l,Santiago,130.000 kms,GRIS ACERO,automático,2008 Subaru LEGACY 2.0 R AUTOMATICO AWD FULL EQUI,Bencina,2008,$ 4.990.000,4,,,
+107,Metropolitana de Santiago,0 km/l,Santiago,93.000 kms,PLATEADO,automático,2010 Subaru LEGACY 2.0I 4P AWD CVT XS,Bencina,2010,$ 6.490.000,4,2,4,5
+108,Metropolitana de Santiago,0 km/l,Chicureo,112.000 kms,Gris,automático,2010 Subaru LEGACY 2.5GT 4P AWD Auto SI Drive,Bencina,2010,$ 8.560.000,4,2.5,4,5
+109,Metropolitana de Santiago,0 km/l,Melipilla,149.000 kms,Gris,automático,2010 Subaru LEGACY 2.0I 4P AWD CVT X,Bencina,2010,$ 6.000.000,4,2,4,5
+110,Metropolitana de Santiago, km/l,Chicureo,190.000 kms,Gris urbano,automático,2007 Subaru LEGACY 2.0R sw awd full 165hp,Bencina,2007,$ 3.720.000,5,,,
+111,Valparaíso,0 km/l,Viña del Mar,163.000 kms,Gris Opal,manual,1998 Subaru LEGACY 2.0 LX AWD,Bencina,1998,$ 2.100.000,5,2,4,5
+112,Atacama, km/l,Copiapo,53.500 kms,Plateado acero,automático,2012 Subaru LEGACY 2.0i 4D AWD CVT XS FT,Bencina,2012,$ 7.500.000,4,,,
+113,Metropolitana de Santiago, km/l,Santiago,16.000 kms,azul,automático,2016 Subaru LEGACY all new legacy awd,Bencina,2016,$ 15.000.000,5,,,
+114,OHiggins,0 km/l,San Fernando,130.000 kms,Plateado,automático,2007 Subaru LEGACY 2.0R 4D AT AWD XA,Bencina,2007,$ 4.350.000,4,2,4,5
+115,Valparaíso,0 km/l,Quilpue,,PLATEADO CLARO,automático,2005 Subaru LEGACY 2.0 TW 4WD AT UA,Bencina,2005,$ 3.690.000,5,2,4,5
+116,Metropolitana de Santiago,0 km/l,Santiago,120.000 kms,gris,automático,2008 Subaru LEGACY 2.0R 4D AUTO AWD UX,Bencina,2008,$ 4.590.000,4,2,4,5
+117,Metropolitana de Santiago, km/l,Santiago,180.000 kms,GRIS PERLA,automático,2000 Subaru LEGACY 2.0 AWD GE TW,Bencina,2000,$ 2.000.000,5,,,
+118,Los Lagos,0 km/l,Fresia,254 kms,blanco,manual,2002 Subaru LEGACY 2.0 AWD GT PA,Bencina,2002,$ 3.400.000,4,2,4,5
+119,Metropolitana de Santiago, km/l,Santiago,1 kms,gris claro,automático,2016 Subaru LEGACY 2.5I CVT Limited 4WD,Bencina,2016,$ 13.990.000,4,,,
+120,Bío Bío, km/l,Concepcion,162.000 kms,Blanco Perla,automático,2009 Subaru LEGACY 2.0R 4D Auto AWD U,Bencina,2009,$ 5.600.000,4,,,
+121,Metropolitana de Santiago, km/l,Santiago,105.000 kms,Beige,automático,2006 Subaru LEGACY 2.0 R AUT ,Bencina,2006,$ 4.700.000,4,,,
+122,Metropolitana de Santiago, km/l,Santiago,54.000 kms,Azul ,automático,2016 Subaru LEGACY FULL 2.5I 1DUEÑO AWD ,Bencina,2016,$ 10.180.000,5,,,
+123,OHiggins,"12,3 km/l",Santa Cruz,115.000 kms,Gris grafito,automático,2012 Subaru LEGACY 2.0I TW AWD CVT XS,Bencina,2012,$ 6.700.000,5,2.0,4,5
+124,Metropolitana de Santiago, km/l,Santiago,125.000 kms,Negro Obsidiana,automático,2009 Subaru LEGACY 3.0R 4D 5Auto AWD 3MS,Bencina,2009,$ 7.600.000,4,,,
+125,Metropolitana de Santiago,0 km/l,Santiago,138.000 kms,,automático,2010 Subaru LEGACY 2.5GT 4P AWD Auto SI Drive,Bencina,2010,$ 8.900.000,4,2.5,4,5
+126,Araucanía, km/l,Pucon,218.000 kms,,automático,1996 Subaru LEGACY xxxxx,Bencina,1996,$ 2.300.000,5,,,
+127,Metropolitana de Santiago,0 km/l,Santiago,164.000 kms,Perla,automático,2008 Subaru LEGACY 2.0R 4D AUTO AWD XX,Bencina,2008,$ 4.500.000,4,2,4,5
+128,Metropolitana de Santiago,0 km/l,Santiago,120.000 kms,Azul,automático,2008 Subaru LEGACY 2.0R TW AUTO AWD UX,Bencina,2008,$ 4.700.000,5,2,4,5
+129,Metropolitana de Santiago,0 km/l,Isla de Maipo,270.000 kms,,automático,1997 Subaru LEGACY 2.2 GX AS,Bencina,1997,$ 2.000.000,5,2.2,4,5
+130,Valparaíso, km/l,Los Andes,220.000 kms,blanco,automático,1993 Subaru LEGACY GX,Bencina,1993,$ 1.500.000,5,,,
+131,Metropolitana de Santiago,0 km/l,Santiago,26.000 kms,BLANCO,automático,2017 Subaru LEGACY 2.5I CVT Auto XS 4WD,Bencina,2017,$ 15.900.000,4,2.5,4,5
+132,Metropolitana de Santiago,"12,3 km/l",Santiago,105.000 kms,verde metalico,automático,2013 Subaru LEGACY 2.0I 4P CVT XS 4WD,Bencina,2013,$ 6.890.000,4,2.0,4,5
+133,Valparaíso, km/l,Quilpue,,GRIS,automático,2002 Subaru LEGACY 2.0 I,Bencina,2002,$ 2.980.000,5,,,
+134,Atacama,0 km/l,Vallenar,95.000 kms,GRIS GRAFITO,automático,2010 Subaru LEGACY 2.5I 4D AWD CVT LIMITED,Bencina,2010,$ 7.450.000,4,2.5,4,5
+135,Bío Bío, km/l,Concepcion,48.000 kms,Plateado hielo,automático,2013 Subaru LEGACY XS AWD 2.0R AUT,Bencina,2013,$ 8.900.000,5,,,
+136,Bío Bío, km/l,Concepcion,140.000 kms,Gris Grafito,automático,2007 Subaru LEGACY 3.0R 4D 5AT AWD,Bencina,2007,$ 6.200.000,4,,,
+137,Araucanía, km/l,Temuco,160.000 kms,blanco,automático,1996 Subaru LEGACY 2.2 w4d,Bencina,1996,$ 1.600.000,5,,,
+138,Los Lagos,0 km/l,Osorno,131.000 kms,,automático,2006 Subaru LEGACY 2.0 4WD AT XA,Bencina,2006,$ 5.000.000,4,2,4,5
+139,Metropolitana de Santiago, km/l,Santiago,53.000 kms,GRAFITO,automático,2015 Subaru LEGACY LEGACY AWD GX AT,Bencina,2015,$ 11.890.000,4,,,
+140,Metropolitana de Santiago,0 km/l,Santiago,63.000 kms,GRIS,automático,2016 Subaru LEGACY 3.6R CVT Limited 4WD,Bencina,2016,$ 15.790.000,4,3.6,6,5
+141,Metropolitana de Santiago,0 km/l,Santiago,,GRIS,automático,2010 Subaru LEGACY 2.0I 4P AWD CVT X,Bencina,2010,$ 6.780.000,4,2,4,5
+142,Metropolitana de Santiago, km/l,Santiago,,Plata,automático,2005 Subaru LEGACY 2.0 AWD AT,Bencina,2005,$ 3.880.000,4,,,
+143,Metropolitana de Santiago,0 km/l,Santiago,55.000 kms,,automático,2016 Subaru LEGACY 2.5I CVT Premium 4WD,Bencina,2016,$ 9.990.000,4,2.5,4,5
+144,Valparaíso,"12,3 km/l",Viña del Mar,76.000 kms,PLATA,automático,2012 Subaru LEGACY 2.0I 4P CVT XS 4WD,Bencina,2012,$ 7.490.000,4,2.0,4,5
+145,Metropolitana de Santiago,0 km/l,Santiago,165.000 kms,gris grafito,automático,2010 Subaru LEGACY 2.0I 4P AWD CVT XS,Bencina,2010,$ 6.480.000,4,2,4,5
+146,Metropolitana de Santiago, km/l,Santiago,165.000 kms,Plata,automático,2006 Subaru LEGACY 2.5i AWD,Bencina,2006,$ 4.500.000,4,,,
+147,Los Ríos, km/l,Valdivia,111.000 kms,Gris Grafito,automático,2010 Subaru LEGACY 2.01 AWD XS AUT,Bencina,2010,$ 7.700.000,5,,,
+148,Metropolitana de Santiago,"12,3 km/l",Santiago,160.000 kms,Gris grafito,automático,2012 Subaru LEGACY 2.0I 4P AWD CVT XS,Bencina,2012,$ 6.800.000,4,2.0,4,5
+149,Valparaíso, km/l,Algarrobo,200.000 kms,,automático,1998 Subaru LEGACY 2.5 GT AWD AUTO TOURING,Bencina,1998,$ 2.800.000,5,,,
+150,OHiggins, km/l,San Fernando,240.000 kms,azul,manual,1994 Subaru LEGACY gl,Bencina,1994,$ 1.450.000,5,,,
+151,Maule, km/l,Curico,,Rojo metalico,automático,1993 Subaru LEGACY Gt,Bencina,1993,$ 1.300.000,5,,,
+152,Metropolitana de Santiago, km/l,Santiago,188.888 kms,,automático,2007 Subaru LEGACY 2.0R 4D AT AWD XA,Bencina,2007,$ 3.900.000,5,,,
+153,Metropolitana de Santiago, km/l,Santiago,,Azul oscuro,manual,1995 Subaru LEGACY LX,Bencina,1995,$ 1.490.000,5,,,
+154,Maule,0 km/l,Linares,390.000 kms,,manual,1998 Subaru LEGACY 2.0 GL,Bencina,1998,$ 1.000.000,5,2,4,5
+155,Valparaíso, km/l,Viña del Mar,135.000 kms,Azul,manual,2001 Subaru LEGACY B4 TWIN TURBO,Bencina,2001,$ 7.500.000,5,,,
+156,Metropolitana de Santiago,0 km/l,Santiago,120.000 kms,Plata,automático,2007 Subaru LEGACY 2.0R 4D AT AWD UA,Bencina,2007,$ 5.200.000,4,2,4,5
+157,Metropolitana de Santiago, km/l,Santiago,,,manual,1997 Subaru LEGACY Lx,Bencina,1997,$ 1.700.000,5,,,
+158,Valparaíso, km/l,San Felipe,80.000 kms,Blanco,automático,2011 Subaru LEGACY 2.5I 4D AWD CVT Sport,Bencina,2011,$ 6.300.000,4,,,
+159,Metropolitana de Santiago,"12,3 km/l",Pirque,105.000 kms,,automático,2011 Subaru LEGACY 2.0I 4P AWD CVT XS,Bencina,2011,$ 6.800.000,4,2.0,4,5
+160,Valparaíso, km/l,Valparaiso,300.000 kms,Verde Agua Mica,manual,1998 Subaru LEGACY 2.0 GL,Bencina,1998,$ 1.800.000,5,,,
+161,Maule, km/l,San Javier,135.000 kms,blanco,automático,2010 Subaru LEGACY 2.0I 4P AWD CVT XS,Bencina,2010,$ 6.500.000,4,,,
+162,Metropolitana de Santiago, km/l,Santiago,182.000 kms,blanco aperlado,automático,2004 Subaru LEGACY 2.0 4WD MT XA,Bencina,2004,$ 3.750.000,4,,,
+163,Metropolitana de Santiago,0 km/l,Santiago,,Blanco,automático,2008 Subaru LEGACY 2.0R TW AUTO AWD UX,Bencina,2008,$ 4.650.000,5,2,4,5
+164,Metropolitana de Santiago,0 km/l,Bollenar,,Blanco,automático,1999 Subaru LEGACY 2.0 AWD GX AUTO TW,Bencina,1999,$ 2.200.000,5,2,4,5
+165,Metropolitana de Santiago,0 km/l,Santiago,92.000 kms,plateado claro,automático,2006 Subaru LEGACY 2.0 4WD AT UA,Bencina,2006,$ 4.900.000,4,2,4,5
+166,Metropolitana de Santiago,0 km/l,Santiago,92.000 kms,plateado claro,automático,2006 Subaru LEGACY 2.0 4WD AT UA,Bencina,2006,$ 4.900.000,4,2,4,5
+167,Metropolitana de Santiago,0 km/l,Santiago,92.000 kms,plateado claro,automático,2006 Subaru LEGACY 2.0 4WD AT UA,Bencina,2006,$ 4.900.000,4,2,4,5
+168,Metropolitana de Santiago,0 km/l,Santiago,92.000 kms,plateado claro,automático,2006 Subaru LEGACY 2.0 4WD AT UA,Bencina,2006,$ 4.900.000,4,2,4,5
+169,Valparaíso,0 km/l,San Felipe,74.000 kms,Gris diamante,automático,2009 Subaru LEGACY 2.5I Auto 3S Limited,Bencina,2009,$ 5.600.000,4,2.5,4,5
+170,Araucanía,0 km/l,Villarrica,115 kms,,automático,2009 Subaru LEGACY 2.0R 4D Auto AWD 3Q,Bencina,2009,$ 5.700.000,4,2,4,5
+171,Valparaíso, km/l,Quillota,108.000 kms,Gris,automático,2008 Subaru LEGACY 2.0R 4D AUTO AWD UX,Bencina,2008,$ 5.100.000,4,,,
+172,Metropolitana de Santiago, km/l,Melipilla,270.000 kms,bkanco,manual,1994 Subaru LEGACY legacy gl,Bencina,1994,$ 1.750.000,5,,,
+173,Metropolitana de Santiago, km/l,Santiago,153.000 kms,BLANCO,automático,2005 Subaru LEGACY 2.0 AWD AUT,Bencina,2005,$ 3.900.000,5,,,
+174,Maule,0 km/l,Talca,169.500 kms,Azul,automático,2005 Subaru LEGACY 2.0 TW 4WD AT UA,Bencina,2005,$ 3.850.000,5,2,4,5
+175,Maule,0 km/l,Talca,169.500 kms,Azul,automático,2005 Subaru LEGACY 2.0 TW 4WD AT UA,Bencina,2005,$ 3.850.000,5,2,4,5
+176,Maule, km/l,Cauquenes,168.000 kms,,automático,2008 Subaru LEGACY 2.0r,Bencina,2008,$ 4.950.000,4,,,
+177,Bío Bío, km/l,Los Angeles,186.000 kms,plataultra,automático,2007 Subaru LEGACY 2.0R 4D AT AWD 3L,Bencina,2007,$ 4.600.000,4,,,
+178,Metropolitana de Santiago, km/l,Santiago,115.000 kms,,automático,2007 Subaru LEGACY 2.0R 4D AT AWD XA,Bencina,2007,$ 4.900.000,4,,,
+179,Metropolitana de Santiago, km/l,Santiago,190.000 kms,Gris,automático,2008 Subaru LEGACY 2.0R 4D AWD XX,Bencina,2008,$ 5.480.000,4,,,
+180,Bío Bío,0 km/l,Los Angeles,174.000 kms,Cafe,automático,2001 Subaru LEGACY 2.5 AWD GT PX AUTO,Bencina,2001,$ 3.300.000,4,2.5,4,5
+181,OHiggins, km/l,Palmilla,87.000 kms,Blanco,manual,1995 Subaru LEGACY Lx,Bencina,1995,$ 1.800.000,5,,,
+182,Metropolitana de Santiago, km/l,Santiago,181.000 kms,Gris,automático,2005 Subaru LEGACY 2.0 TW 4WD AT XA,Bencina,2005,$ 3.880.000,4,,,
+183,Bío Bío,0 km/l,Los Angeles,90.000 kms,,automático,2010 Subaru LEGACY 2.0I 4P AWD CVT XS,Bencina,2010,$ 6.990.000,4,2,4,5
+184,Metropolitana de Santiago,0 km/l,Santiago,115.000 kms,,automático,2009 Subaru LEGACY 2.5I Auto 3S Limited,Bencina,2009,$ 6.100.000,4,2.5,4,5
+185,Metropolitana de Santiago,12 km/l,Santiago,100.000 kms,PLATEADO HIELO,automático,2014 Subaru LEGACY 2.5I 4D CVT X-Edition 4WD,Bencina,2014,$ 11.580.000,4,2.5,4,5
+186,Metropolitana de Santiago,0 km/l,Santiago,116.000 kms,GRIS PLATA,automático,2014 Subaru LEGACY 2.0I 4P CVT XS 4WD,Bencina,2014,$ 8.300.000,4,2.0,4,5
+187,Metropolitana de Santiago, km/l,Santiago,126.000 kms,Gris metálico,automático,2010 Subaru LEGACY TURBO 2.5 GT AWD AUTOMATICO ,Bencina,2010,$ 7.900.000,4,,,
+188,Metropolitana de Santiago, km/l,Santiago,250.000 kms,Gris,manual,1997 Subaru LEGACY 2.0 GL,Bencina,1997,$ 1.450.000,4,,,
+189,Valparaíso,0 km/l,Viña del Mar,168.000 kms,,automático,2010 Subaru LEGACY 2.0I 4P AWD CVT XS,Bencina,2010,$ 6.700.000,4,2,4,5
+190,Los Lagos,0 km/l,Osorno,230.000 kms,,manual,1998 Subaru LEGACY 2.0 GL,Bencina,1998,$ 2.200.000,4,2,4,5
+191,Metropolitana de Santiago, km/l,Santiago,,verde,manual,1998 Subaru legacy outback 2.2 mecanica full,Bencina,1998,$ 3.000.000,5,,,
+192,Los Lagos, km/l,Puerto Varas,80.000 kms,,automático,1996 Subaru LEGACY 80mil km Automtico,Bencina,1996,$ 3.390.000,4,,,
+193,Metropolitana de Santiago,0 km/l,Santiago,145.000 kms,Azul perlado,automático,2008 Subaru LEGACY 2.0R 4D AUTO AWD XX,Bencina,2008,$ 5.100.000,4,2,4,5
+194,Maule, km/l,Curico,174.000 kms,Gris,automático,1999 Subaru LEGACY 2.0 GL AWD,Bencina,1999,$ 2.700.000,5,,,
+195,Valparaíso, km/l,Quintero,,blanco satin ,automático,2010 Subaru LEGACY 2.0I 4P AWD CVT XS,Bencina,2010,$ 4.500.000,4,,,
+196,Metropolitana de Santiago, km/l,San Bernardo,270.000 kms,,automático,1992 Subaru LEGACY Station wagon,Bencina,1992,$ 1.380.000,5,,,
+197,Metropolitana de Santiago,"12,3 km/l",Batuco,103.000 kms,Humo metalico,automático,2012 Subaru LEGACY 2.0I 4P CVT XS 4WD,Bencina,2012,$ 8.500.000,4,2.0,4,5
+198,OHiggins, km/l,Peumo,192.000 kms,BLANCO PERLADO,automático,2006 Subaru NEW LEGACY AWD AT 2.0,Bencina,2006,$ 4.400.000,5,,,
+199,Metropolitana de Santiago, km/l,Santiago,,CELESTE,manual,1993 Subaru LEGACY GL,Bencina,1993,$ 1.500.000,0,,,
+200,OHiggins, km/l,Rancagua,91.000 kms,PLATEADO HIELO ,automático,2014 Subaru LEGACY LEGACY AWD 2.5I AUT R,Bencina,2014,$ 11.900.000,5,,,
+201,Metropolitana de Santiago,0 km/l,Santiago,160.000 kms,gris metalico,automático,2010 Subaru LEGACY 2.0I 4P AWD CVT XS,Bencina,2010,$ 6.150.000,4,2,4,5
+202,Los Lagos,0 km/l,Frutillar,121.000 kms,Gris,automático,2009 Subaru LEGACY 2.0R 4D Auto AWD 3Q,Bencina,2009,$ 5.350.000,4,2,4,5
+203,Los Lagos, km/l,Puerto Montt,285.000 kms,BLANCO,automático,2003 Subaru LEGACY 2.0 AWD GT PA AUTO,Bencina,2003,$ 2.650.000,4,,,
+204,Metropolitana de Santiago,0 km/l,Santiago,55.000 kms,,automático,2016 Subaru LEGACY 2.5I CVT XS 4WD,Bencina,2016,$ 10.490.000,4,2.5,4,5
+205,Metropolitana de Santiago,0 km/l,Santiago,25.000 kms,,automático,2016 Subaru LEGACY 2.5I CVT XS 4WD,Bencina,2016,$ 10.490.000,4,2.5,4,5
+206,Metropolitana de Santiago, km/l,Melipilla,191.000 kms,PLATEADO CLARO,manual,2006 Subaru LEGACY NEW LEGACY AWD,Bencina,2006,$ 3.890.000,5,,,
+207,Metropolitana de Santiago, km/l,Melipilla,270.000 kms,bkanco,manual,1994 Subaru LEGACY legacy gl,Bencina,1994,$ 1.750.000,5,,,
+208,Metropolitana de Santiago,0 km/l,Santiago,178.000 kms,Blanco,automático,2007 Subaru LEGACY 2.0R 4D AT AWD UA,Bencina,2007,$ 4.880.000,4,2,4,5
+209,Metropolitana de Santiago,0 km/l,Santiago,33.700 kms,BLANCO,automático,2016 Subaru LEGACY 3.6R CVT Limited 4WD,Bencina,2016,$ 15.900.000,4,3.6,6,5
+210,Metropolitana de Santiago, km/l,Santiago,,verde,manual,1998 Subaru legacy outback 2.2 mecanica full,Bencina,1998,$ 3.000.000,5,,,
+211,Los Lagos,0 km/l,Osorno,96.000 kms,Blanco ,automático,2008 Subaru LEGACY 2.0R 4D AUTO AWD UX,Bencina,2008,$ 5.990.000,4,2,4,5
+212,Maule,0 km/l,Linares,285.405 kms,,manual,1999 Subaru LEGACY 2.0 LX AWD,Bencina,1999,$ 2.500.000,5,2,4,5
+213,Metropolitana de Santiago, km/l,Melipilla,290.000 kms,Azul metálico,automático,1997 Subaru LEGACY GL 2.0,Bencina,1997,$ 2.000.000,5,,,
+214,Metropolitana de Santiago, km/l,Santiago,143.000 kms,PLATEADO,automático,2008 Subaru LEGACY 2.0 R TRIPTRONIC,Bencina,2008,$ 4.980.000,5,,,
+215,Metropolitana de Santiago, km/l,Colina,,Grafito,automático,2016 Subaru LEGACY 2.5I CVT Premium 4WD,Bencina,2016,$ 12.400.000,4,,,
+216,Metropolitana de Santiago,0 km/l,Santiago,52.131 kms,Gris Oscuro ,automático,2016 Subaru LEGACY 2.5I CVT XS 4WD,Bencina,2016,$ 10.850.000,4,2.5,4,5
+217,Metropolitana de Santiago,0 km/l,Santiago,,Blanco,manual,2008 Subaru LEGACY 2.0R 4D AWD XX,Bencina,2008,$ 4.980.000,4,2,4,5
+218,Los Lagos, km/l,Puerto Montt,140.000 kms,Azul metálico,automático,2010 Subaru LEGACY All new legacy,Bencina,2010,$ 6.400.000,5,,,
+219,Maule, km/l,Talca,221.300 kms,Verde,manual,1996 Subaru LEGACY Lx,Bencina,1996,$ 2.200.000,5,,,
+220,Metropolitana de Santiago,0 km/l,Santiago,,,automático,2007 Subaru LEGACY 2.0R 4D AT AWD XA,Bencina,2007,$ 3.950.000,4,2,4,5
+221,Valparaíso,0 km/l,Valparaiso,180.000 kms,gris,automático,2002 Subaru LEGACY 2.0 AWD GT PA AUTO,Bencina,2002,$ 3.300.000,4,2,4,5
+222,Valparaíso,0 km/l,Rinconada,116.500 kms,BLANCO,automático,2005 Subaru LEGACY 2.0 TW 4WD AT UA,Bencina,2005,$ 4.450.000,5,2,4,5
+223,Atacama, km/l,Copiapo,273.150 kms,Verde oscuro,manual,1995 Subaru Legacy Station wagon,Bencina,1995,$ 1.700.000,5,,,
+224,Metropolitana de Santiago,0 km/l,Santiago,195.000 kms,Verde,automático,2003 Subaru LEGACY 2.0 AWD GT PA AUTO,Bencina,2003,$ 3.000.000,4,2,4,5
+225,Metropolitana de Santiago,0 km/l,Santiago,,Azul,automático,2016 Subaru LEGACY 2.5I CVT XS 4WD,Bencina,2016,$ 10.500.000,4,2.5,4,5
+226,Metropolitana de Santiago, km/l,Melipilla,120.000 kms,negro,automático,2006 Subaru LEGACY 2.0,Bencina,2006,$ 3.200.000,4,,,
+227,Metropolitana de Santiago, km/l,Talagante,280.000 kms,gris oscuro,automático,2008 Subaru LEGACY 2.0R,Bencina,2008,$ 4.950.000,5,,,
+228,Maule,0 km/l,Talca,150.000 kms,,automático,2000 Subaru LEGACY 2.0 AWD GX AUTO,Bencina,2000,$ 3.200.000,4,2,4,5
+229,OHiggins,0 km/l,Rengo,168.000 kms,,automático,2008 Subaru LEGACY 2.0R 4D AUTO AWD 3S,Bencina,2008,$ 5.400.000,4,2,4,5
+230,Metropolitana de Santiago, km/l,Santiago,215.000 kms,Gris,automático,2005 Subaru LEGACY 2.5 i full,Bencina,2005,$ 3.980.000,4,,,
+231,Metropolitana de Santiago,0 km/l,Santiago,124.000 kms,Grafito,automático,2010 Subaru LEGACY 2.0I 4P AWD CVT XS,Bencina,2010,$ 5.600.000,4,2,4,5
+232,Metropolitana de Santiago,0 km/l,Santiago,115.000 kms,Verde Gris meta,automático,2010 Subaru LEGACY 2.0I 4P AWD CVT XS,Bencina,2010,$ 5.300.000,4,2,4,5
+233,Los Ríos, km/l,Valdivia,,Blanco,automático,2000 Subaru LEGACY 2.0 AWD GX AUTO,Bencina,2000,$ 2.600.000,4,,,
+234,Valparaíso,0 km/l,Quilpue,220.000 kms,,automático,2008 Subaru LEGACY 2.0R TW AUTO AWD UX,Bencina,2008,$ 4.700.000,5,2,4,5
+235,Araucanía, km/l,Pitrufquén,175.000 kms,Blanco,manual,1997 Subaru LEGACY 2.0,Bencina,1997,$ 2.300.000,5,,,
+236,Metropolitana de Santiago,0 km/l,Santiago,91.972 kms,GRIS,automático,2006 Subaru LEGACY 2.0R TW AT AWD UA,Bencina,2006,$ 4.900.000,5,2,4,5
+237,Metropolitana de Santiago,0 km/l,Santiago,33.000 kms,GRIS,automático,2015 Subaru LEGACY 2.5I CVT Limited 4WD,Bencina,2015,$ 12.800.000,4,2.5,4,5
+238,Maule,0 km/l,Talca,123.000 kms,,automático,2007 Subaru LEGACY 2.0R 4D AT AWD UA,Bencina,2007,$ 5.150.000,4,2,4,5
+239,Metropolitana de Santiago, km/l,Santiago,145.000 kms,Grafito,automático,2010 Subaru LEGACY Station 2000cc AWD 4x4 AUTOMATICO,Bencina,2010,$ 5.750.000,4,,,
+240,Metropolitana de Santiago,0 km/l,Santiago,81.000 kms,,automático,2006 Subaru LEGACY 2.0 4WD AT UA,Bencina,2006,$ 6.180.000,4,2,4,5
+241,Bío Bío, km/l,San Carlos,199.121 kms,Plateado,automático,2005 Subaru LEGACY NEW LEGACY 2.0I AWD AT,Bencina,2005,$ 4.790.000,4,,,
+242,Araucanía,0 km/l,Villarrica,242.000 kms,Verde oscuro mica,manual,2001 Subaru LEGACY 2.0 AWD GE,Bencina,2001,$ 3.150.000,4,2,4,5
+243,Metropolitana de Santiago, km/l,Santiago,,GRIS GRAFITO ,automático,1992 Subaru Legacy GL,Bencina,1992,$ 580.000,5,,,
+244,Maule,0 km/l,Parral,145.000 kms,,automático,2001 Subaru LEGACY 2.5 AWD GT RG AUTO,Bencina,2001,$ 3.300.000,4,2.5,4,5
+245,Araucanía, km/l,Villarrica,250.000 kms,,manual,1993 Subaru LEGACY 4x4,Bencina,1993,$ 1.700.000,5,,,
+246,Metropolitana de Santiago,"9,4 km/l",Santiago,106.000 kms,negro,automático,2011 Subaru LEGACY 2.5GT 4P AWD Auto SI Drive,Bencina,2011,$ 8.290.000,4,2.5,4,5
+247,OHiggins, km/l,Rancagua,90.000 kms,,automático,2011 Subaru LEGACY 2.0I 4P AWD CVT XS,Bencina,2011,$ 7.200.000,4,,,
+248,Metropolitana de Santiago,0 km/l,Talagante,52.000 kms,Gris Oscuro,automático,2016 Subaru LEGACY 2.5I CVT XS 4WD,Bencina,2016,$ 10.600.000,4,2.5,4,5
+249,Metropolitana de Santiago,0 km/l,Santiago,42.000 kms,Gris,automático,2016 Subaru LEGACY 2.5I CVT Limited 4WD,Bencina,2016,$ 14.500.000,4,2.5,4,5
+250,Bío Bío, km/l,Chillán,362.600 kms,Azul,manual,1995 Subaru LEGACY 2.0,Bencina,1995,$ 1.600.000,5,,,
+251,Bío Bío,0 km/l,Concepcion,30.713 kms,GRIS GRAFITO,automático,2016 Subaru LEGACY 2.5I CVT XS 4WD,Bencina,2016,$ 12.490.000,4,2.5,4,5
+252,Bío Bío, km/l,Los Angeles,64.000 kms,Blanco,automático,2013 Subaru LEGACY 2.0I 4P CVT XS 4WD,Bencina,2013,$ 7.990.000,4,,,
+253,Valparaíso, km/l,Quilpue,184.000 kms,,automático,2000 Subaru LEGACY 2.0 AWD GX AUTO,Bencina,2000,$ 3.200.000,5,,,
+254,Maule,0 km/l,Talca,220.000 kms,Plata,automático,2005 Subaru LEGACY 2.0 TW 4WD AT UA,Bencina,2005,$ 4.300.000,5,2,4,5
+255,Metropolitana de Santiago, km/l,Santiago,178.000 kms,Gris,automático,1999 Subaru LEGACY 2.0 AWD GE,Bencina,1999,$ 3.700.000,4,,,
+256,Metropolitana de Santiago,0 km/l,Santiago,161.850 kms,GRIS,automático,2010 Subaru LEGACY 2.0I TW AWD CVT XS,Bencina,2010,$ 5.650.000,5,2,4,5
+257,Metropolitana de Santiago, km/l,Santiago,118.000 kms,gris,automático,2009 Subaru Legacy 2.0R,Bencina,2009,$ 5.400.000,5,,,
+258,Valparaíso,0 km/l,Viña del Mar,105.000 kms,gris plateado,automático,2010 Subaru LEGACY 2.0I TW AWD CVT XS,Bencina,2010,$ 6.800.000,5,2,4,5
+259,Valparaíso,0 km/l,Valparaiso,1 kms,Plateado Claro,manual,2007 Subaru LEGACY 2.0R 4D MT AWD XA,Bencina,2007,$ 4.750.000,4,2,4,5
+260,Metropolitana de Santiago, km/l,Santiago,1 kms,Blanco satin,automático,2008 Subaru LEGACY 2.0R 4D AUTO AWD XX,Bencina,2008,$ 5.300.000,4,,,
+261,Metropolitana de Santiago, km/l,Santiago,3.500.000 kms,Blanco,automático,1997 Subaru LEGACY 2.2 GX AS,Bencina,1997,$ 2.250.000,5,,,
+262,Metropolitana de Santiago, km/l,Santiago,110.000 kms,Gris ,automático,2012 Subaru LEGACY STATION WAGON AWD,Bencina,2012,$ 7.550.000,4,,,
+263,Metropolitana de Santiago,0 km/l,Santiago,90.000 kms,GRIS TITANIO,automático,2010 Subaru LEGACY 2.5I 4D AWD CVT LIMITED,Bencina,2010,$ 6.500.000,4,2.5,4,5
+264,Valparaíso,0 km/l,Quillota,190.000 kms,,automático,2004 Subaru LEGACY 2.0 TW 4WD AT UZ,Bencina,2004,$ 3.850.000,5,2,4,5
+265,Metropolitana de Santiago, km/l,Santiago,44.000 kms,blanco perlado,automático,2015 Subaru LEGACY 3.6R CVT Limited 4WD,Bencina,2015,$ 15.300.000,4,,,
+266,Metropolitana de Santiago, km/l,Santiago,47.000 kms,BLANCO,automático,2015 Subaru LEGACY 1 DUEÑO MANTENCIONES All New L,Bencina,2015,$ 13.980.000,5,,,
+267,Valparaíso,0 km/l,Olmué,,blanco perlado,automático,2010 Subaru LEGACY 2.0I 4P AWD CVT XS,Bencina,2010,$ 6.100.000,4,2,4,5
+268,Metropolitana de Santiago,0 km/l,Santiago,90.000 kms,PLATA,automático,2011 Subaru LEGACY 2.5I 4D AWD CVT XA,Bencina,2011,$ 7.000.000,4,2.5,4,5
+269,Bío Bío,0 km/l,Concepcion,122.000 kms,Negro,automático,2010 Subaru LEGACY 2.0I TW AWD CVT XS,Bencina,2010,$ 6.300.000,5,2,4,5
+270,Valparaíso,0 km/l,Viña del Mar,144.000 kms,AZUL ATLANTIC,automático,2005 Subaru LEGACY 2.0 TW 4WD AT UA,Bencina,2005,$ 4.790.000,5,2,4,5
+271,Metropolitana de Santiago,0 km/l,Santiago,159.000 kms,azul metalizado,automático,2005 Subaru LEGACY 2.0 TW 4WD AT UA,Bencina,2005,$ 4.390.000,5,2,4,5
+272,Metropolitana de Santiago,0 km/l,Santiago,155.000 kms,,manual,2006 Subaru LEGACY 2.0R TW MT AWD XA,Bencina,2006,$ 4.580.000,5,2,4,5
+273,Metropolitana de Santiago,"12,3 km/l",Santiago,62.000 kms,Gris ,automático,2013 Subaru LEGACY 2.0I 4P AWD CVT X,Bencina,2013,$ 7.200.000,4,2.0,4,5
+274,Araucanía, km/l,Pitrufquén,196.456 kms,Blanco,manual,1994 Subaru LEGACY 1.8 DL,Bencina,1994,$ 1.950.000,4,,,
+275,Metropolitana de Santiago, km/l,Santiago,27.000 kms,AZUL,automático,2017 Subaru LEGACY 2.5I CVT XS 4WD,Bencina,2017,$ 11.000.000,4,,,
+276,Araucanía, km/l,Temuco,226.000 kms,blanco,manual,1998 Subaru LEGACY 2.0 GL,Bencina,1998,$ 2.300.000,5,,,
+277,Araucanía, km/l,Temuco,77.000 kms,gris,automático,2012 Subaru LEGACY 2.0I 4P CVT XS 4WD,Bencina,2012,$ 8.150.000,4,,,
+278,Metropolitana de Santiago, km/l,Santiago,117.167 kms,Azul,automático,2008 Subaru LEGACY AWD 3.0 R Aut,Bencina,2008,$ 6.990.000,4,,,
+279,Metropolitana de Santiago, km/l,San Bernardo,100.000 kms,gris grafito,automático,2011 Subaru LEGACY 2.0I 4P AWD CVT XS,Bencina,2011,$ 7.500.000,4,,,
+280,Metropolitana de Santiago,0 km/l,Melipilla,,Gris,automático,2004 Subaru LEGACY 2.0 4WD AT UZ,Bencina,2004,$ 3.450.000,4,2,4,5
+281,Araucanía, km/l,Angol,247.000 kms,GRIS PLATA,automático,2004 Subaru LEGACY 2.0 AUTOMATICO,Bencina,2004,$ 4.390.000,5,,,
+282,Metropolitana de Santiago,"12,3 km/l",Santiago,69.000 kms,,automático,2013 Subaru LEGACY 2.0I 4P CVT XS 4WD,Bencina,2013,$ 7.390.000,4,2.0,4,5
+283,Valparaíso, km/l,Valparaiso,92.000 kms,gris oscuro,automático,2009 Subaru LEGACY 2.0R 4D Auto AWD U,Bencina,2009,$ 5.000.000,4,,,
+284,OHiggins,0 km/l,Rancagua,133.000 kms,Gris,automático,2008 Subaru LEGACY 2.0R 4D AUTO AWD UX,Bencina,2008,$ 5.000.000,4,2,4,5
+285,Metropolitana de Santiago,0 km/l,Santiago,24.000 kms,Azul Oscuro Per,automático,2017 Subaru LEGACY 2.5I CVT Auto Limited 4WD,Bencina,2017,$ 13.990.000,4,2.5,4,5
+286,Metropolitana de Santiago, km/l,Santiago,179.000 kms,Blanco,automático,1994 Subaru LEGACY 2.2 I 4wd Versión americana,Bencina,1994,$ 1.200.000,5,,,
+287,Metropolitana de Santiago,0 km/l,Santiago,146.000 kms,,automático,2008 Subaru LEGACY 2.0R 4D AUTO AWD 3S,Bencina,2008,$ 5.900.000,4,2,4,5
+288,Metropolitana de Santiago, km/l,Santiago,189.000 kms,Plata,automático,2003 Subaru LEGACY 2.0 AT AWD,Bencina,2003,$ 3.300.000,4,,,
+289,Metropolitana de Santiago, km/l,Santiago,135.000 kms,Grafito,automático,2010 Subaru Legacy 2.0I 4P AWD CVT XV,Bencina,2010,$ 6.050.000,4,,,
+290,Metropolitana de Santiago,"12,3 km/l",Santiago,102.000 kms,BLANCO,automático,2012 Subaru LEGACY 2.0I 4P AWD CVT XS,Bencina,2012,$ 7.680.000,4,2.0,4,5
+291,Araucanía,0 km/l,Temuco,41.000 kms,Plateado,automático,2016 Subaru LEGACY 2.5I CVT XS 4WD,Bencina,2016,$ 10.990.000,4,2.5,4,5
+292,Metropolitana de Santiago, km/l,Santiago,94.213 kms,Gris,automático,2011 Subaru LEGACY 2.5I AWD Turbo,Bencina,2011,$ 9.900.000,4,,,
+293,Metropolitana de Santiago,"12,3 km/l",Santiago,119.019 kms,BLANCO,automático,2013 Subaru LEGACY 2.0I 4P AWD CVT X,Bencina,2013,$ 6.950.000,4,2.0,4,5
+294,Metropolitana de Santiago,0 km/l,Santiago,106.000 kms,PLATA,automático,2008 Subaru LEGACY 2.0R 4D AUTO AWD UX,Bencina,2008,$ 4.800.000,4,2,4,5
+295,Maule,"12,3 km/l",Talca,93.000 kms,GRAFITO,automático,2011 Subaru LEGACY 2.0I 4P AWD CVT X,Bencina,2011,$ 6.980.000,4,2.0,4,5
+296,Metropolitana de Santiago, km/l,Santiago,106.000 kms,BLANCO,automático,2004 Subaru LEGACY 3.0R,Bencina,2004,$ 6.000.000,5,,,
