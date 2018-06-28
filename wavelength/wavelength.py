@@ -41,6 +41,9 @@ class WavelengthCalibration(object):
         self._global_shift = None
         self._bin_limits = None
         self._local_shifts = None
+        self._data_peaks = None
+        self.ref = None
+        self.wcs = WCS()
 
     def __call__(self, spectrum, *args, **kwargs):
         if not isinstance(spectrum, CCDData):
@@ -51,36 +54,108 @@ class WavelengthCalibration(object):
 
         if self._ccd is not None and isinstance(self._ccd, CCDData):
             self.spec = self._get_spectral_limits()
+            self._data_peaks = self._get_peaks_in_data()
 
-        self._fit_linear_model()
+
+        lrms1 = self._fit_linear_model()
+        print("Linear Fit 1: {:f}".format(lrms1))
         self._create_mask_from_data()
         self._create_mask_from_nist()
 
         self._global_shift = self._global_cross_correlate()
+
+        spec_dict = self.spec
+
+        spec_dict['blue'] = self._linear_model(0 + self._global_shift) * u.angstrom
+        spec_dict['center'] = self._linear_model(
+            0.5 * len(self._ccd.data) + self._global_shift) * u.angstrom
+        spec_dict['red'] = self._linear_model(
+            len(self._ccd.data) + self._global_shift) * u.angstrom
+
+        self.spec = spec_dict
+
+        self._fit_linear_model()
+        self._clean_nist_df(model=self._linear_model)
+        # rebuild mask from nist using global shift
+        self._create_mask_from_nist()
+
+        self.ref = self.wcs.read_gsp_wcs(ccd=self._ccd)
+        self._non_linear_model = models.Chebyshev1D(degree=3)
+        self._non_linear_fitter = fitting.LevMarLSQFitter()
+        # self._match_peaks_to_nist()
+
+        # print(self._global_cross_correlate())
+
+        # for k in self._data_peaks:
+        #     plt.axvline(k, color='c')
+
+        # plt.plot(self._data_mask, color='k')
+        # plt.plot(self._nist_mask, color='r', alpha=0.3)
+        # plt.show()
+
         self._local_shifts = self._local_cross_correlate()
+        print(self._local_shifts)
         rms_l = self._fit_non_linear_model()
         print("first fit: {:f}".format(rms_l))
-        self._clean_nist_df()
+        self._clean_nist_df(model=self._non_linear_model)
         rms_nl = self._fit_non_linear_model()
         print("second fit: {:f}".format(rms_nl))
 
         # wav =self._non_linear_model(peaks)
 
-        wcs = WCS()
-        ref = wcs.read_gsp_wcs(ccd=self._ccd)
         plt.title('RMS: {:f}'.format(rms_nl))
         # for v in wav:
         #     plt.axvline(v, color='k')
         for line in self._filtered_nist_df.wavelength.values:
-            plt.axvline(line, color='c')
+            plt.axvline(line, color='g')
+        f_df = self.nist_df[self.nist_df.rel_int > 3]
+        print(f_df)
+        new_angstrom = []
+        for k in self._non_linear_model(self._data_peaks):
+            index = np.argmin(np.abs(f_df.wavelength.values - k))
+            plt.axvline(k, color='c', alpha=0.3)
+            plt.axvline(f_df.iloc[index].wavelength, color='r')
+            new_angstrom.append(f_df.iloc[index].wavelength)
 
-        plt.plot(ref[0], ref[1], color='k', label='Reference Data')
+        # self._non_linear_model = self.__fit(self._non_linear_model, self._non_linear_fitter, self._data_peaks, new_angstrom)
+        # last_rms = self.__get_rms(self._data_peaks, self._non_linear_model, new_angstrom)
+        # plt.title("RMS: {:f}".format(last_rms))
+
+        plt.plot(self.ref[0], self.ref[1], color='k', label='Reference Data')
         plt.axhline(self._ccd.data.mean(), color='r')
 
         # plt.plot(self._linear_model(range(len(self._nist_mask))), self._nist_mask * self.ccd.data.max(), color='r')
         # plt.plot(self._linear_model(range(len(self._data_mask))), self._data_mask * self.ccd.data.max(), color='c')
-        # plt.plot(self._linear_model(range(len(self._ccd.data)) + self._global_shift), self._ccd.data, color='b')
-        plt.plot(self._non_linear_model(range(len(self._ccd.data))), self._ccd.data, color='m')
+        # plt.plot(self._linear_model(range(len(self._ccd.data))), self._ccd.data, color='b', label='Linear Model')
+        plt.plot(self._non_linear_model(range(len(self._ccd.data))), self._ccd.data, color='m', label='Non-Linear Model')
+        plt.legend()
+        plt.show()
+
+    def _match_peaks_to_nist(self):
+        fdf = self.nist_df[self.nist_df.rel_int > 5]
+        print(fdf)
+        pixel = self._data_peaks
+        angstrom = self._linear_model(pixel)
+        new_angstrom = []
+
+        for val in self.nist_df.wavelength.values:
+            plt.axvline(val, color='r', alpha=0.2)
+
+        for i in range(len(angstrom)):
+            plt.axvline(angstrom[i], color='g')
+            index = np.argmin(np.abs(fdf.wavelength.values - angstrom[i]))
+            new_angstrom.append(fdf.iloc[index].wavelength)
+            plt.axvline(fdf.iloc[index].wavelength, color='r')
+        self._non_linear_model = self.__fit(model=self._non_linear_model,
+                                            fitter=self._non_linear_fitter,
+                                            pixel=pixel,
+                                            wavelength=new_angstrom)
+        plt.plot(self.ref[0], self.ref[1], color='k')
+        for p in self._linear_model(pixel):
+            plt.axvline(p, color='g')
+        for a in new_angstrom:
+            plt.axvline(a, color='m')
+        plt.plot(self._non_linear_model(range(len(self._ccd.data))), self._ccd.data, color='b')
         plt.show()
 
     @staticmethod
@@ -103,9 +178,9 @@ class WavelengthCalibration(object):
             ccd = CCDData.read(self.file_name, unit=u.adu)
             return ccd
 
-    def _clean_nist_df(self):
+    def _clean_nist_df(self, model):
         data_mean = self._ccd.data.mean()
-        wavelength_axis = self._non_linear_model(range(len(self._ccd.data)))
+        wavelength_axis = model(range(len(self._ccd.data)))
         index_to_remove = []
         # print(self._filtered_nist_df.index.tolist())
         # print(self._filtered_nist_df.iloc[190])
@@ -116,6 +191,7 @@ class WavelengthCalibration(object):
                               self._filtered_nist_df.iloc[i]['wavelength'])))
             if np.max(self._ccd.data[pix - 10:pix + 10]) < data_mean:
                 index_to_remove.append(i)
+                # print(self._filtered_nist_df.iloc[i])
         self._filtered_nist_df = self._filtered_nist_df.drop(
             self._filtered_nist_df.index[index_to_remove])
 
@@ -161,19 +237,31 @@ class WavelengthCalibration(object):
 
     @staticmethod
     def _cross_correlate(reference_array, compared_array, mode='full'):
-        cross_correlation = signal.correlate(reference_array,
-                                             compared_array,
-                                             mode=mode)
-        correlation_shifts = np.linspace(-int(len(cross_correlation) / 2.),
-                                         int(len(cross_correlation) / 2.),
-                                         len(cross_correlation))
-        max_correlation_index = np.argmax(cross_correlation)
-        return correlation_shifts[max_correlation_index]
+        if np.mean(reference_array) == 0. or np.mean(compared_array) == 0.:
+            return 1000
+        else:
+            cross_correlation = signal.correlate(reference_array,
+                                                 compared_array,
+                                                 mode=mode)
+            correlation_shifts = np.linspace(-int(len(cross_correlation) / 2.),
+                                             int(len(cross_correlation) / 2.),
+                                             len(cross_correlation))
+            max_correlation_index = np.argmax(cross_correlation)
+            # plt.title("Arrays")
+            # plt.plot(reference_array, color='k')
+            # plt.plot(compared_array, color='r')
+            # plt.show()
+            # plt.title("Cross Correlation {:f}".format(correlation_shifts[max_correlation_index]))
+            # plt.plot(correlation_shifts, cross_correlation)
+            # plt.show()
+            return correlation_shifts[max_correlation_index]
 
-    def _fit_linear_model(self):
+    def _fit_linear_model(self, offset=0):
         self._linear_model = models.Linear1D()
         self._linear_fitter = fitting.LinearLSQFitter()
-        pixel_axis = [0, 0.5 * len(self._ccd.data), len(self._ccd.data)]
+        pixel_axis = [0,
+                      0.5 * len(self._ccd.data),
+                      len(self._ccd.data)]
         wavelength_axis = [self._spec_dict['blue'].value,
                            self._spec_dict['center'].value,
                            self._spec_dict['red'].value]
@@ -199,16 +287,9 @@ class WavelengthCalibration(object):
             self._non_linear_model.c1.value = self._linear_model.slope.value
 
             self._non_linear_fitter = fitting.LevMarLSQFitter()
-        # peaks = self._get_peaks()
-        # for v in peaks:
-        #     plt.axvline(v, color='k')
-        # for p in pixel:
-        #     plt.axvline(p, color='r')
-        # plt.plot(self._ccd.data)
-        # plt.show()
-
         self._non_linear_model = self.__fit(self._non_linear_model,
-                                            self._non_linear_fitter, pixel,
+                                            self._non_linear_fitter,
+                                            pixel,
                                             angstrom)
         return self.__get_rms(pixel, self._non_linear_model, angstrom)
 
@@ -253,7 +334,7 @@ class WavelengthCalibration(object):
         slit_size = np.float(re.sub('[a-zA-Z" ]', '', self._ccd.header['slit']))
         no_nan_data = np.asarray(np.nan_to_num(self._ccd.data))
 
-        filtered_data = np.where(np.abs(no_nan_data> no_nan_data.min() + 0.03 * no_nan_data.max()), no_nan_data, None)
+        filtered_data = np.where(np.abs(no_nan_data > no_nan_data.min() + 0.03 * no_nan_data.max()), no_nan_data, None)
         none_to_zero = [0 if i is None else i for i in filtered_data]
         filtered_data = np.array(none_to_zero)
 
@@ -263,7 +344,49 @@ class WavelengthCalibration(object):
         peaks = signal.argrelmax(filtered_data, axis=0, order=order)[0]
         return peaks
 
+    def _get_spectral_limits(self):
 
+        grating_frequency = float(re.sub('[A-Za-z_-]',
+                                         '',
+                                         self._ccd.header['GRATING'])) / u.mm
+
+        grating_angle = float(self._ccd.header['GRT_ANG']) * u.deg
+        camera_angle = float(self._ccd.header['CAM_ANG']) * u.deg
+
+        serial_binning, parallel_binning = [
+            int(x) for x in self._ccd.header['CCDSUM'].split()]
+
+        self._pixel_size *= serial_binning
+
+        pixel_count = len(self._ccd.data)
+
+        alpha = grating_angle.to(u.rad)
+        beta = camera_angle.to(u.rad) - grating_angle.to(u.rad)
+
+        center_wavelength = (np.sin(alpha) +
+                             np.sin(beta)) / grating_frequency
+        center_wavelength = center_wavelength.to(u.angstrom)
+
+        limit_angle = np.arctan(
+            pixel_count *
+            (self._pixel_size / self._focal_length) / 2)
+
+        blue_limit = ((np.sin(alpha) +
+                       np.sin(beta - limit_angle.to(u.rad))) /
+                      grating_frequency).to(u.angstrom)
+
+        red_limit = ((np.sin(alpha) +
+                      np.sin(beta +
+                             limit_angle.to(u.rad))) /
+                     grating_frequency).to(u.angstrom)
+
+        spectral_limits = {'center': center_wavelength,
+                           'blue': blue_limit,
+                           'red': red_limit,
+                           'alpha': alpha,
+                           'beta': beta}
+
+        return spectral_limits
 
     def _global_cross_correlate(self):
         return self._cross_correlate(self._nist_mask, self._data_mask)
@@ -347,49 +470,7 @@ class WavelengthCalibration(object):
         if isinstance(value, CCDData):
             self._ccd = value
 
-    def _get_spectral_limits(self):
 
-        grating_frequency = float(re.sub('[A-Za-z_-]',
-                                         '',
-                                         self._ccd.header['GRATING'])) / u.mm
-
-        grating_angle = float(self._ccd.header['GRT_ANG']) * u.deg
-        camera_angle = float(self._ccd.header['CAM_ANG']) * u.deg
-
-        serial_binning, parallel_binning = [
-            int(x) for x in self._ccd.header['CCDSUM'].split()]
-
-        self._pixel_size *= serial_binning
-
-        pixel_count = len(self._ccd.data)
-
-        alpha = grating_angle.to(u.rad)
-        beta = camera_angle.to(u.rad) - grating_angle.to(u.rad)
-
-        center_wavelength = (np.sin(alpha) +
-                             np.sin(beta)) / grating_frequency
-        center_wavelength = center_wavelength.to(u.angstrom)
-
-        limit_angle = np.arctan(
-            pixel_count *
-            (self._pixel_size / self._focal_length) / 2)
-
-        blue_limit = ((np.sin(alpha) +
-                       np.sin(beta - limit_angle.to(u.rad))) /
-                      grating_frequency).to(u.angstrom)
-
-        red_limit = ((np.sin(alpha) +
-                      np.sin(beta +
-                             limit_angle.to(u.rad))) /
-                     grating_frequency).to(u.angstrom)
-
-        spectral_limits = {'center': center_wavelength,
-                           'blue': blue_limit,
-                           'red': red_limit,
-                           'alpha': alpha,
-                           'beta': beta}
-
-        return spectral_limits
 
 
 if __name__ == '__main__':
